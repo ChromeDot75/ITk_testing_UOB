@@ -1,0 +1,3885 @@
+EVENT 0 Mon Dec 04 09:40:14 2023
+  Startup
+EVENT 1 Mon Dec 04 09:40:15 2023
+  Firmware revision b66d
+EVENT 2 Mon Dec 04 09:40:15 2023
+  GIT hash: b4aa7d11a918d9ff057ec56f477d9ccee74cce97
+EVENT 3 Mon Dec 04 09:40:15 2023
+  GIT describe: itsdaq_23_3_2023-1010-gb4aa7d11a
+EVENT 4 Mon Dec 04 09:40:15 2023
+  GIT branch: 
+EVENT 5 Mon Dec 04 09:40:15 2023
+  Build date: 2023-11-28 09:52:01 +0000 (Tue, 28 Nov 2023)
+EVENT 6 Mon Dec 04 10:16:23 2023
+  Start scan runnum 28 scannum 3
+date 20231204 time 101623
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 0
+run_evcnt 0
+run_ercnt 0
+run_tocnt 0
+
+EVENT 7 Mon Dec 04 10:16:26 2023
+  Post scan stats
+runnum 28
+scannum 3
+date 20231204
+time 101626
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 3200
+run_evcnt 3200
+run_ercnt 0
+run_tocnt 0
+
+EVENT 8 Mon Dec 04 10:16:27 2023
+  Start scan runnum 28 scannum 4
+date 20231204 time 101627
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 3200
+run_evcnt 3200
+run_ercnt 0
+run_tocnt 0
+
+EVENT 9 Mon Dec 04 10:16:30 2023
+  Post scan stats
+runnum 28
+scannum 4
+date 20231204
+time 101630
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 4448
+run_evcnt 4448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 10 Mon Dec 04 10:16:31 2023
+  Start scan runnum 28 scannum 5
+date 20231204 time 101631
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 4448
+run_evcnt 4448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 11 Mon Dec 04 10:16:44 2023
+  Post scan stats
+runnum 28
+scannum 5
+date 20231204
+time 101644
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 47456
+run_evcnt 47456
+run_ercnt 0
+run_tocnt 0
+
+EVENT 12 Mon Dec 04 10:16:44 2023
+  Start scan runnum 28 scannum 6
+date 20231204 time 101644
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 47456
+run_evcnt 47456
+run_ercnt 0
+run_tocnt 0
+
+EVENT 13 Mon Dec 04 10:17:01 2023
+  Post scan stats
+runnum 28
+scannum 6
+date 20231204
+time 101701
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 105824
+run_evcnt 105824
+run_ercnt 0
+run_tocnt 0
+
+EVENT 14 Mon Dec 04 10:17:01 2023
+  Start scan runnum 28 scannum 7
+date 20231204 time 101701
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 105824
+run_evcnt 105824
+run_ercnt 0
+run_tocnt 0
+
+EVENT 15 Mon Dec 04 10:17:23 2023
+  Post scan stats
+runnum 28
+scannum 7
+date 20231204
+time 101723
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 179552
+run_evcnt 179552
+run_ercnt 0
+run_tocnt 0
+
+EVENT 16 Mon Dec 04 10:17:24 2023
+  Start scan runnum 28 scannum 8
+date 20231204 time 101724
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 179552
+run_evcnt 179552
+run_ercnt 0
+run_tocnt 0
+
+EVENT 17 Mon Dec 04 10:17:35 2023
+  Post scan stats
+runnum 28
+scannum 8
+date 20231204
+time 101735
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 213344
+run_evcnt 213344
+run_ercnt 0
+run_tocnt 0
+
+EVENT 18 Mon Dec 04 10:17:35 2023
+  Start scan runnum 28 scannum 9
+date 20231204 time 101735
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 213344
+run_evcnt 213344
+run_ercnt 0
+run_tocnt 0
+
+EVENT 19 Mon Dec 04 10:17:48 2023
+  Post scan stats
+runnum 28
+scannum 9
+date 20231204
+time 101747
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 255328
+run_evcnt 255328
+run_ercnt 0
+run_tocnt 0
+
+EVENT 20 Mon Dec 04 10:17:48 2023
+  Start scan runnum 28 scannum 10
+date 20231204 time 101748
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 255328
+run_evcnt 255328
+run_ercnt 0
+run_tocnt 0
+
+EVENT 21 Mon Dec 04 10:18:03 2023
+  Post scan stats
+runnum 28
+scannum 10
+date 20231204
+time 101803
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 307552
+run_evcnt 307552
+run_ercnt 0
+run_tocnt 0
+
+EVENT 22 Mon Dec 04 10:18:03 2023
+  Start scan runnum 28 scannum 11
+date 20231204 time 101803
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 307552
+run_evcnt 307552
+run_ercnt 0
+run_tocnt 0
+
+EVENT 23 Mon Dec 04 10:18:21 2023
+  Post scan stats
+runnum 28
+scannum 11
+date 20231204
+time 101821
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 365920
+run_evcnt 365920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 24 Mon Dec 04 10:18:21 2023
+  Start scan runnum 28 scannum 12
+date 20231204 time 101821
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 365920
+run_evcnt 365920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 25 Mon Dec 04 10:18:40 2023
+  Post scan stats
+runnum 28
+scannum 12
+date 20231204
+time 101840
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 432480
+run_evcnt 432480
+run_ercnt 0
+run_tocnt 0
+
+EVENT 26 Mon Dec 04 10:18:40 2023
+  Start scan runnum 28 scannum 13
+date 20231204 time 101840
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 432480
+run_evcnt 432480
+run_ercnt 0
+run_tocnt 0
+
+EVENT 27 Mon Dec 04 10:19:01 2023
+  Post scan stats
+runnum 28
+scannum 13
+date 20231204
+time 101901
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 506208
+run_evcnt 506208
+run_ercnt 0
+run_tocnt 0
+
+EVENT 28 Mon Dec 04 10:19:02 2023
+  Start scan runnum 28 scannum 14
+date 20231204 time 101902
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 506208
+run_evcnt 506208
+run_ercnt 0
+run_tocnt 0
+
+EVENT 29 Mon Dec 04 10:19:27 2023
+  Post scan stats
+runnum 28
+scannum 14
+date 20231204
+time 101927
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 596320
+run_evcnt 596320
+run_ercnt 0
+run_tocnt 0
+
+EVENT 30 Mon Dec 04 10:19:27 2023
+  Start scan runnum 28 scannum 15
+date 20231204 time 101927
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 596320
+run_evcnt 596320
+run_ercnt 0
+run_tocnt 0
+
+EVENT 31 Mon Dec 04 10:19:57 2023
+  Post scan stats
+runnum 28
+scannum 15
+date 20231204
+time 101957
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 701792
+run_evcnt 701792
+run_ercnt 0
+run_tocnt 0
+
+EVENT 32 Mon Dec 04 10:19:57 2023
+  Start scan runnum 28 scannum 16
+date 20231204 time 101957
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 701792
+run_evcnt 701792
+run_ercnt 0
+run_tocnt 0
+
+EVENT 33 Mon Dec 04 10:20:26 2023
+  Post scan stats
+runnum 28
+scannum 16
+date 20231204
+time 102026
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 803168
+run_evcnt 803168
+run_ercnt 0
+run_tocnt 0
+
+EVENT 34 Mon Dec 04 10:20:26 2023
+  Start scan runnum 28 scannum 17
+date 20231204 time 102026
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 803168
+run_evcnt 803168
+run_ercnt 0
+run_tocnt 0
+
+EVENT 35 Mon Dec 04 10:20:50 2023
+  Post scan stats
+runnum 28
+scannum 17
+date 20231204
+time 102050
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 886112
+run_evcnt 886112
+run_ercnt 0
+run_tocnt 0
+
+EVENT 36 Mon Dec 04 10:20:52 2023
+  Start scan runnum 28 scannum 18
+date 20231204 time 102052
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 886112
+run_evcnt 886112
+run_ercnt 0
+run_tocnt 0
+
+EVENT 37 Mon Dec 04 10:25:49 2023
+  Post scan stats
+runnum 28
+scannum 18
+date 20231204
+time 102548
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 546404024
+run_evcnt 546404024
+run_ercnt 0
+run_tocnt 0
+
+EVENT 38 Mon Dec 04 10:46:00 2023
+  Start scan runnum 28 scannum 19
+date 20231204 time 104600
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 546404024
+run_evcnt 546404024
+run_ercnt 0
+run_tocnt 0
+
+EVENT 39 Mon Dec 04 10:46:03 2023
+  Post scan stats
+runnum 28
+scannum 19
+date 20231204
+time 104603
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 546407224
+run_evcnt 546407224
+run_ercnt 0
+run_tocnt 0
+
+EVENT 40 Mon Dec 04 10:46:04 2023
+  Start scan runnum 28 scannum 20
+date 20231204 time 104604
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 546407224
+run_evcnt 546407224
+run_ercnt 0
+run_tocnt 0
+
+EVENT 41 Mon Dec 04 10:46:07 2023
+  Post scan stats
+runnum 28
+scannum 20
+date 20231204
+time 104607
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 546408472
+run_evcnt 546408472
+run_ercnt 0
+run_tocnt 0
+
+EVENT 42 Mon Dec 04 10:46:08 2023
+  Start scan runnum 28 scannum 21
+date 20231204 time 104608
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 546408472
+run_evcnt 546408472
+run_ercnt 0
+run_tocnt 0
+
+EVENT 43 Mon Dec 04 10:46:21 2023
+  Post scan stats
+runnum 28
+scannum 21
+date 20231204
+time 104621
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 546451480
+run_evcnt 546451480
+run_ercnt 0
+run_tocnt 0
+
+EVENT 44 Mon Dec 04 10:46:21 2023
+  Start scan runnum 28 scannum 22
+date 20231204 time 104621
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 546451480
+run_evcnt 546451480
+run_ercnt 0
+run_tocnt 0
+
+EVENT 45 Mon Dec 04 10:46:39 2023
+  Post scan stats
+runnum 28
+scannum 22
+date 20231204
+time 104639
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 546509848
+run_evcnt 546509848
+run_ercnt 0
+run_tocnt 0
+
+EVENT 46 Mon Dec 04 10:46:39 2023
+  Start scan runnum 28 scannum 23
+date 20231204 time 104639
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 546509848
+run_evcnt 546509848
+run_ercnt 0
+run_tocnt 0
+
+EVENT 47 Mon Dec 04 10:47:00 2023
+  Post scan stats
+runnum 28
+scannum 23
+date 20231204
+time 104700
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 546583576
+run_evcnt 546583576
+run_ercnt 0
+run_tocnt 0
+
+EVENT 48 Mon Dec 04 10:47:02 2023
+  Start scan runnum 28 scannum 24
+date 20231204 time 104702
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 546583576
+run_evcnt 546583576
+run_ercnt 0
+run_tocnt 0
+
+EVENT 49 Mon Dec 04 10:47:12 2023
+  Post scan stats
+runnum 28
+scannum 24
+date 20231204
+time 104712
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 546616344
+run_evcnt 546616344
+run_ercnt 0
+run_tocnt 0
+
+EVENT 50 Mon Dec 04 10:47:12 2023
+  Start scan runnum 28 scannum 25
+date 20231204 time 104712
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 546616344
+run_evcnt 546616344
+run_ercnt 0
+run_tocnt 0
+
+EVENT 51 Mon Dec 04 10:47:25 2023
+  Post scan stats
+runnum 28
+scannum 25
+date 20231204
+time 104725
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 546659352
+run_evcnt 546659352
+run_ercnt 0
+run_tocnt 0
+
+EVENT 52 Mon Dec 04 10:47:25 2023
+  Start scan runnum 28 scannum 26
+date 20231204 time 104725
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 546659352
+run_evcnt 546659352
+run_ercnt 0
+run_tocnt 0
+
+EVENT 53 Mon Dec 04 10:47:41 2023
+  Post scan stats
+runnum 28
+scannum 26
+date 20231204
+time 104741
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 546711576
+run_evcnt 546711576
+run_ercnt 0
+run_tocnt 0
+
+EVENT 54 Mon Dec 04 10:47:41 2023
+  Start scan runnum 28 scannum 27
+date 20231204 time 104741
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 546711576
+run_evcnt 546711576
+run_ercnt 0
+run_tocnt 0
+
+EVENT 55 Mon Dec 04 10:47:59 2023
+  Post scan stats
+runnum 28
+scannum 27
+date 20231204
+time 104758
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 546768920
+run_evcnt 546768920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 56 Mon Dec 04 10:47:59 2023
+  Start scan runnum 28 scannum 28
+date 20231204 time 104759
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 546768920
+run_evcnt 546768920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 57 Mon Dec 04 10:48:18 2023
+  Post scan stats
+runnum 28
+scannum 28
+date 20231204
+time 104818
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 546834456
+run_evcnt 546834456
+run_ercnt 0
+run_tocnt 0
+
+EVENT 58 Mon Dec 04 10:48:18 2023
+  Start scan runnum 28 scannum 29
+date 20231204 time 104818
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 546834456
+run_evcnt 546834456
+run_ercnt 0
+run_tocnt 0
+
+EVENT 59 Mon Dec 04 10:48:40 2023
+  Post scan stats
+runnum 28
+scannum 29
+date 20231204
+time 104839
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 546908184
+run_evcnt 546908184
+run_ercnt 0
+run_tocnt 0
+
+EVENT 60 Mon Dec 04 10:48:40 2023
+  Start scan runnum 28 scannum 30
+date 20231204 time 104840
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 546908184
+run_evcnt 546908184
+run_ercnt 0
+run_tocnt 0
+
+EVENT 61 Mon Dec 04 10:49:05 2023
+  Post scan stats
+runnum 28
+scannum 30
+date 20231204
+time 104905
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 546997272
+run_evcnt 546997272
+run_ercnt 0
+run_tocnt 0
+
+EVENT 62 Mon Dec 04 10:49:05 2023
+  Start scan runnum 28 scannum 31
+date 20231204 time 104905
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 546997272
+run_evcnt 546997272
+run_ercnt 0
+run_tocnt 0
+
+EVENT 63 Mon Dec 04 10:49:35 2023
+  Post scan stats
+runnum 28
+scannum 31
+date 20231204
+time 104935
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 547102744
+run_evcnt 547102744
+run_ercnt 0
+run_tocnt 0
+
+EVENT 64 Mon Dec 04 10:49:35 2023
+  Start scan runnum 28 scannum 32
+date 20231204 time 104935
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 547102744
+run_evcnt 547102744
+run_ercnt 0
+run_tocnt 0
+
+EVENT 65 Mon Dec 04 10:50:04 2023
+  Post scan stats
+runnum 28
+scannum 32
+date 20231204
+time 105004
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 547203096
+run_evcnt 547203096
+run_ercnt 0
+run_tocnt 0
+
+EVENT 66 Mon Dec 04 10:50:04 2023
+  Start scan runnum 28 scannum 33
+date 20231204 time 105004
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 547203096
+run_evcnt 547203096
+run_ercnt 0
+run_tocnt 0
+
+EVENT 67 Mon Dec 04 10:50:27 2023
+  Post scan stats
+runnum 28
+scannum 33
+date 20231204
+time 105027
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 547283992
+run_evcnt 547283992
+run_ercnt 0
+run_tocnt 0
+
+EVENT 68 Mon Dec 04 10:50:29 2023
+  Start scan runnum 28 scannum 34
+date 20231204 time 105029
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 547283992
+run_evcnt 547283992
+run_ercnt 0
+run_tocnt 0
+
+EVENT 69 Mon Dec 04 10:55:26 2023
+  Post scan stats
+runnum 28
+scannum 34
+date 20231204
+time 105525
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1092802152
+run_evcnt 1092802152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 70 Mon Dec 04 11:15:36 2023
+  Start scan runnum 28 scannum 35
+date 20231204 time 111536
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1092802152
+run_evcnt 1092802152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 71 Mon Dec 04 11:15:39 2023
+  Post scan stats
+runnum 28
+scannum 35
+date 20231204
+time 111539
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1092805352
+run_evcnt 1092805352
+run_ercnt 0
+run_tocnt 0
+
+EVENT 72 Mon Dec 04 11:15:40 2023
+  Start scan runnum 28 scannum 36
+date 20231204 time 111540
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1092805352
+run_evcnt 1092805352
+run_ercnt 0
+run_tocnt 0
+
+EVENT 73 Mon Dec 04 11:15:43 2023
+  Post scan stats
+runnum 28
+scannum 36
+date 20231204
+time 111543
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1092806600
+run_evcnt 1092806600
+run_ercnt 0
+run_tocnt 0
+
+EVENT 74 Mon Dec 04 11:15:44 2023
+  Start scan runnum 28 scannum 37
+date 20231204 time 111544
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1092806600
+run_evcnt 1092806600
+run_ercnt 0
+run_tocnt 0
+
+EVENT 75 Mon Dec 04 11:15:57 2023
+  Post scan stats
+runnum 28
+scannum 37
+date 20231204
+time 111557
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1092849608
+run_evcnt 1092849608
+run_ercnt 0
+run_tocnt 0
+
+EVENT 76 Mon Dec 04 11:15:57 2023
+  Start scan runnum 28 scannum 38
+date 20231204 time 111557
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1092849608
+run_evcnt 1092849608
+run_ercnt 0
+run_tocnt 0
+
+EVENT 77 Mon Dec 04 11:16:14 2023
+  Post scan stats
+runnum 28
+scannum 38
+date 20231204
+time 111614
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1092907976
+run_evcnt 1092907976
+run_ercnt 0
+run_tocnt 0
+
+EVENT 78 Mon Dec 04 11:16:14 2023
+  Start scan runnum 28 scannum 39
+date 20231204 time 111614
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1092907976
+run_evcnt 1092907976
+run_ercnt 0
+run_tocnt 0
+
+EVENT 79 Mon Dec 04 11:16:36 2023
+  Post scan stats
+runnum 28
+scannum 39
+date 20231204
+time 111635
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1092981704
+run_evcnt 1092981704
+run_ercnt 0
+run_tocnt 0
+
+EVENT 80 Mon Dec 04 11:16:37 2023
+  Start scan runnum 28 scannum 40
+date 20231204 time 111637
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1092981704
+run_evcnt 1092981704
+run_ercnt 0
+run_tocnt 0
+
+EVENT 81 Mon Dec 04 11:16:47 2023
+  Post scan stats
+runnum 28
+scannum 40
+date 20231204
+time 111647
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1093014472
+run_evcnt 1093014472
+run_ercnt 0
+run_tocnt 0
+
+EVENT 82 Mon Dec 04 11:16:47 2023
+  Start scan runnum 28 scannum 41
+date 20231204 time 111647
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1093014472
+run_evcnt 1093014472
+run_ercnt 0
+run_tocnt 0
+
+EVENT 83 Mon Dec 04 11:17:00 2023
+  Post scan stats
+runnum 28
+scannum 41
+date 20231204
+time 111700
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1093056456
+run_evcnt 1093056456
+run_ercnt 0
+run_tocnt 0
+
+EVENT 84 Mon Dec 04 11:17:00 2023
+  Start scan runnum 28 scannum 42
+date 20231204 time 111700
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1093056456
+run_evcnt 1093056456
+run_ercnt 0
+run_tocnt 0
+
+EVENT 85 Mon Dec 04 11:17:16 2023
+  Post scan stats
+runnum 28
+scannum 42
+date 20231204
+time 111716
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1093107656
+run_evcnt 1093107656
+run_ercnt 0
+run_tocnt 0
+
+EVENT 86 Mon Dec 04 11:17:16 2023
+  Start scan runnum 28 scannum 43
+date 20231204 time 111716
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1093107656
+run_evcnt 1093107656
+run_ercnt 0
+run_tocnt 0
+
+EVENT 87 Mon Dec 04 11:17:33 2023
+  Post scan stats
+runnum 28
+scannum 43
+date 20231204
+time 111733
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1093166024
+run_evcnt 1093166024
+run_ercnt 0
+run_tocnt 0
+
+EVENT 88 Mon Dec 04 11:17:33 2023
+  Start scan runnum 28 scannum 44
+date 20231204 time 111733
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1093166024
+run_evcnt 1093166024
+run_ercnt 0
+run_tocnt 0
+
+EVENT 89 Mon Dec 04 11:17:53 2023
+  Post scan stats
+runnum 28
+scannum 44
+date 20231204
+time 111753
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1093232584
+run_evcnt 1093232584
+run_ercnt 0
+run_tocnt 0
+
+EVENT 90 Mon Dec 04 11:17:53 2023
+  Start scan runnum 28 scannum 45
+date 20231204 time 111753
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1093232584
+run_evcnt 1093232584
+run_ercnt 0
+run_tocnt 0
+
+EVENT 91 Mon Dec 04 11:18:14 2023
+  Post scan stats
+runnum 28
+scannum 45
+date 20231204
+time 111814
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1093306312
+run_evcnt 1093306312
+run_ercnt 0
+run_tocnt 0
+
+EVENT 92 Mon Dec 04 11:18:15 2023
+  Start scan runnum 28 scannum 46
+date 20231204 time 111815
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1093306312
+run_evcnt 1093306312
+run_ercnt 0
+run_tocnt 0
+
+EVENT 93 Mon Dec 04 11:18:40 2023
+  Post scan stats
+runnum 28
+scannum 46
+date 20231204
+time 111840
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1093396424
+run_evcnt 1093396424
+run_ercnt 0
+run_tocnt 0
+
+EVENT 94 Mon Dec 04 11:18:41 2023
+  Start scan runnum 28 scannum 47
+date 20231204 time 111841
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1093396424
+run_evcnt 1093396424
+run_ercnt 0
+run_tocnt 0
+
+EVENT 95 Mon Dec 04 11:19:11 2023
+  Post scan stats
+runnum 28
+scannum 47
+date 20231204
+time 111911
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1093502920
+run_evcnt 1093502920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 96 Mon Dec 04 11:19:11 2023
+  Start scan runnum 28 scannum 48
+date 20231204 time 111911
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1093502920
+run_evcnt 1093502920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 97 Mon Dec 04 11:19:40 2023
+  Post scan stats
+runnum 28
+scannum 48
+date 20231204
+time 111940
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1093604296
+run_evcnt 1093604296
+run_ercnt 0
+run_tocnt 0
+
+EVENT 98 Mon Dec 04 11:19:40 2023
+  Start scan runnum 28 scannum 49
+date 20231204 time 111940
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1093604296
+run_evcnt 1093604296
+run_ercnt 0
+run_tocnt 0
+
+EVENT 99 Mon Dec 04 11:20:04 2023
+  Post scan stats
+runnum 28
+scannum 49
+date 20231204
+time 112004
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1093686216
+run_evcnt 1093686216
+run_ercnt 0
+run_tocnt 0
+
+EVENT 100 Mon Dec 04 11:20:06 2023
+  Start scan runnum 28 scannum 50
+date 20231204 time 112006
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1093686216
+run_evcnt 1093686216
+run_ercnt 0
+run_tocnt 0
+
+EVENT 101 Mon Dec 04 11:25:00 2023
+  Post scan stats
+runnum 28
+scannum 50
+date 20231204
+time 112500
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1639204128
+run_evcnt 1639204128
+run_ercnt 0
+run_tocnt 0
+
+EVENT 102 Mon Dec 04 12:15:33 2023
+  Start scan runnum 28 scannum 53
+date 20231204 time 121533
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1639204128
+run_evcnt 1639204128
+run_ercnt 0
+run_tocnt 0
+
+EVENT 103 Mon Dec 04 12:15:36 2023
+  Post scan stats
+runnum 28
+scannum 53
+date 20231204
+time 121536
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1639207328
+run_evcnt 1639207328
+run_ercnt 0
+run_tocnt 0
+
+EVENT 104 Mon Dec 04 12:15:37 2023
+  Start scan runnum 28 scannum 54
+date 20231204 time 121537
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1639207328
+run_evcnt 1639207328
+run_ercnt 0
+run_tocnt 0
+
+EVENT 105 Mon Dec 04 12:15:40 2023
+  Post scan stats
+runnum 28
+scannum 54
+date 20231204
+time 121540
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1639208576
+run_evcnt 1639208576
+run_ercnt 0
+run_tocnt 0
+
+EVENT 106 Mon Dec 04 12:15:41 2023
+  Start scan runnum 28 scannum 55
+date 20231204 time 121541
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1639208576
+run_evcnt 1639208576
+run_ercnt 0
+run_tocnt 0
+
+EVENT 107 Mon Dec 04 12:15:54 2023
+  Post scan stats
+runnum 28
+scannum 55
+date 20231204
+time 121554
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1639250560
+run_evcnt 1639250560
+run_ercnt 0
+run_tocnt 0
+
+EVENT 108 Mon Dec 04 12:15:54 2023
+  Start scan runnum 28 scannum 56
+date 20231204 time 121554
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1639250560
+run_evcnt 1639250560
+run_ercnt 0
+run_tocnt 0
+
+EVENT 109 Mon Dec 04 12:16:11 2023
+  Post scan stats
+runnum 28
+scannum 56
+date 20231204
+time 121611
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1639308928
+run_evcnt 1639308928
+run_ercnt 0
+run_tocnt 0
+
+EVENT 110 Mon Dec 04 12:16:12 2023
+  Start scan runnum 28 scannum 57
+date 20231204 time 121612
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1639308928
+run_evcnt 1639308928
+run_ercnt 0
+run_tocnt 0
+
+EVENT 111 Mon Dec 04 12:16:33 2023
+  Post scan stats
+runnum 28
+scannum 57
+date 20231204
+time 121633
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1639382656
+run_evcnt 1639382656
+run_ercnt 0
+run_tocnt 0
+
+EVENT 112 Mon Dec 04 12:16:35 2023
+  Start scan runnum 28 scannum 58
+date 20231204 time 121635
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1639382656
+run_evcnt 1639382656
+run_ercnt 0
+run_tocnt 0
+
+EVENT 113 Mon Dec 04 12:16:45 2023
+  Post scan stats
+runnum 28
+scannum 58
+date 20231204
+time 121645
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1639415424
+run_evcnt 1639415424
+run_ercnt 0
+run_tocnt 0
+
+EVENT 114 Mon Dec 04 12:16:45 2023
+  Start scan runnum 28 scannum 59
+date 20231204 time 121645
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1639415424
+run_evcnt 1639415424
+run_ercnt 0
+run_tocnt 0
+
+EVENT 115 Mon Dec 04 12:16:58 2023
+  Post scan stats
+runnum 28
+scannum 59
+date 20231204
+time 121658
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1639457408
+run_evcnt 1639457408
+run_ercnt 0
+run_tocnt 0
+
+EVENT 116 Mon Dec 04 12:16:58 2023
+  Start scan runnum 28 scannum 60
+date 20231204 time 121658
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1639457408
+run_evcnt 1639457408
+run_ercnt 0
+run_tocnt 0
+
+EVENT 117 Mon Dec 04 12:17:14 2023
+  Post scan stats
+runnum 28
+scannum 60
+date 20231204
+time 121714
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1639509632
+run_evcnt 1639509632
+run_ercnt 0
+run_tocnt 0
+
+EVENT 118 Mon Dec 04 12:17:14 2023
+  Start scan runnum 28 scannum 61
+date 20231204 time 121714
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1639509632
+run_evcnt 1639509632
+run_ercnt 0
+run_tocnt 0
+
+EVENT 119 Mon Dec 04 12:17:31 2023
+  Post scan stats
+runnum 28
+scannum 61
+date 20231204
+time 121731
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1639568000
+run_evcnt 1639568000
+run_ercnt 0
+run_tocnt 0
+
+EVENT 120 Mon Dec 04 12:17:31 2023
+  Start scan runnum 28 scannum 62
+date 20231204 time 121731
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1639568000
+run_evcnt 1639568000
+run_ercnt 0
+run_tocnt 0
+
+EVENT 121 Mon Dec 04 12:17:51 2023
+  Post scan stats
+runnum 28
+scannum 62
+date 20231204
+time 121751
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1639634560
+run_evcnt 1639634560
+run_ercnt 0
+run_tocnt 0
+
+EVENT 122 Mon Dec 04 12:17:51 2023
+  Start scan runnum 28 scannum 63
+date 20231204 time 121751
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1639634560
+run_evcnt 1639634560
+run_ercnt 0
+run_tocnt 0
+
+EVENT 123 Mon Dec 04 12:18:13 2023
+  Post scan stats
+runnum 28
+scannum 63
+date 20231204
+time 121813
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1639710336
+run_evcnt 1639710336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 124 Mon Dec 04 12:18:13 2023
+  Start scan runnum 28 scannum 64
+date 20231204 time 121813
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1639710336
+run_evcnt 1639710336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 125 Mon Dec 04 12:18:39 2023
+  Post scan stats
+runnum 28
+scannum 64
+date 20231204
+time 121839
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1639800448
+run_evcnt 1639800448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 126 Mon Dec 04 12:18:39 2023
+  Start scan runnum 28 scannum 65
+date 20231204 time 121839
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1639800448
+run_evcnt 1639800448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 127 Mon Dec 04 12:19:09 2023
+  Post scan stats
+runnum 28
+scannum 65
+date 20231204
+time 121909
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1639905920
+run_evcnt 1639905920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 128 Mon Dec 04 12:19:09 2023
+  Start scan runnum 28 scannum 66
+date 20231204 time 121909
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1639905920
+run_evcnt 1639905920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 129 Mon Dec 04 12:19:38 2023
+  Post scan stats
+runnum 28
+scannum 66
+date 20231204
+time 121938
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1640008320
+run_evcnt 1640008320
+run_ercnt 0
+run_tocnt 0
+
+EVENT 130 Mon Dec 04 12:19:38 2023
+  Start scan runnum 28 scannum 67
+date 20231204 time 121938
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1640008320
+run_evcnt 1640008320
+run_ercnt 0
+run_tocnt 0
+
+EVENT 131 Mon Dec 04 12:20:03 2023
+  Post scan stats
+runnum 28
+scannum 67
+date 20231204
+time 122003
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1640091264
+run_evcnt 1640091264
+run_ercnt 0
+run_tocnt 0
+
+EVENT 132 Mon Dec 04 12:20:04 2023
+  Start scan runnum 28 scannum 68
+date 20231204 time 122004
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1640091264
+run_evcnt 1640091264
+run_ercnt 0
+run_tocnt 0
+
+EVENT 133 Mon Dec 04 12:24:59 2023
+  Post scan stats
+runnum 28
+scannum 68
+date 20231204
+time 122459
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2185609424
+run_evcnt 2185609424
+run_ercnt 0
+run_tocnt 0
+
+EVENT 134 Mon Dec 04 12:45:10 2023
+  Start scan runnum 28 scannum 69
+date 20231204 time 124510
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2185609424
+run_evcnt 2185609424
+run_ercnt 0
+run_tocnt 0
+
+EVENT 135 Mon Dec 04 12:45:13 2023
+  Post scan stats
+runnum 28
+scannum 69
+date 20231204
+time 124512
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2185612624
+run_evcnt 2185612624
+run_ercnt 0
+run_tocnt 0
+
+EVENT 136 Mon Dec 04 12:45:14 2023
+  Start scan runnum 28 scannum 70
+date 20231204 time 124514
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2185612624
+run_evcnt 2185612624
+run_ercnt 0
+run_tocnt 0
+
+EVENT 137 Mon Dec 04 12:45:17 2023
+  Post scan stats
+runnum 28
+scannum 70
+date 20231204
+time 124517
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2185613872
+run_evcnt 2185613872
+run_ercnt 0
+run_tocnt 0
+
+EVENT 138 Mon Dec 04 12:45:18 2023
+  Start scan runnum 28 scannum 71
+date 20231204 time 124518
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2185613872
+run_evcnt 2185613872
+run_ercnt 0
+run_tocnt 0
+
+EVENT 139 Mon Dec 04 12:45:31 2023
+  Post scan stats
+runnum 28
+scannum 71
+date 20231204
+time 124531
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2185655856
+run_evcnt 2185655856
+run_ercnt 0
+run_tocnt 0
+
+EVENT 140 Mon Dec 04 12:45:31 2023
+  Start scan runnum 28 scannum 72
+date 20231204 time 124531
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2185655856
+run_evcnt 2185655856
+run_ercnt 0
+run_tocnt 0
+
+EVENT 141 Mon Dec 04 12:45:49 2023
+  Post scan stats
+runnum 28
+scannum 72
+date 20231204
+time 124548
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2185715248
+run_evcnt 2185715248
+run_ercnt 0
+run_tocnt 0
+
+EVENT 142 Mon Dec 04 12:45:49 2023
+  Start scan runnum 28 scannum 73
+date 20231204 time 124549
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2185715248
+run_evcnt 2185715248
+run_ercnt 0
+run_tocnt 0
+
+EVENT 143 Mon Dec 04 12:46:10 2023
+  Post scan stats
+runnum 28
+scannum 73
+date 20231204
+time 124610
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2185788976
+run_evcnt 2185788976
+run_ercnt 0
+run_tocnt 0
+
+EVENT 144 Mon Dec 04 12:46:12 2023
+  Start scan runnum 28 scannum 74
+date 20231204 time 124612
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2185788976
+run_evcnt 2185788976
+run_ercnt 0
+run_tocnt 0
+
+EVENT 145 Mon Dec 04 12:46:22 2023
+  Post scan stats
+runnum 28
+scannum 74
+date 20231204
+time 124622
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2185821744
+run_evcnt 2185821744
+run_ercnt 0
+run_tocnt 0
+
+EVENT 146 Mon Dec 04 12:46:22 2023
+  Start scan runnum 28 scannum 75
+date 20231204 time 124622
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2185821744
+run_evcnt 2185821744
+run_ercnt 0
+run_tocnt 0
+
+EVENT 147 Mon Dec 04 12:46:35 2023
+  Post scan stats
+runnum 28
+scannum 75
+date 20231204
+time 124635
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2185864752
+run_evcnt 2185864752
+run_ercnt 0
+run_tocnt 0
+
+EVENT 148 Mon Dec 04 12:46:36 2023
+  Start scan runnum 28 scannum 76
+date 20231204 time 124636
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2185864752
+run_evcnt 2185864752
+run_ercnt 0
+run_tocnt 0
+
+EVENT 149 Mon Dec 04 12:46:51 2023
+  Post scan stats
+runnum 28
+scannum 76
+date 20231204
+time 124651
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2185918000
+run_evcnt 2185918000
+run_ercnt 0
+run_tocnt 0
+
+EVENT 150 Mon Dec 04 12:46:52 2023
+  Start scan runnum 28 scannum 77
+date 20231204 time 124652
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2185918000
+run_evcnt 2185918000
+run_ercnt 0
+run_tocnt 0
+
+EVENT 151 Mon Dec 04 12:47:09 2023
+  Post scan stats
+runnum 28
+scannum 77
+date 20231204
+time 124709
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2185976368
+run_evcnt 2185976368
+run_ercnt 0
+run_tocnt 0
+
+EVENT 152 Mon Dec 04 12:47:09 2023
+  Start scan runnum 28 scannum 78
+date 20231204 time 124709
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2185976368
+run_evcnt 2185976368
+run_ercnt 0
+run_tocnt 0
+
+EVENT 153 Mon Dec 04 12:47:29 2023
+  Post scan stats
+runnum 28
+scannum 78
+date 20231204
+time 124728
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2186042928
+run_evcnt 2186042928
+run_ercnt 0
+run_tocnt 0
+
+EVENT 154 Mon Dec 04 12:47:29 2023
+  Start scan runnum 28 scannum 79
+date 20231204 time 124729
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2186042928
+run_evcnt 2186042928
+run_ercnt 0
+run_tocnt 0
+
+EVENT 155 Mon Dec 04 12:47:50 2023
+  Post scan stats
+runnum 28
+scannum 79
+date 20231204
+time 124750
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2186116656
+run_evcnt 2186116656
+run_ercnt 0
+run_tocnt 0
+
+EVENT 156 Mon Dec 04 12:47:50 2023
+  Start scan runnum 28 scannum 80
+date 20231204 time 124750
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2186116656
+run_evcnt 2186116656
+run_ercnt 0
+run_tocnt 0
+
+EVENT 157 Mon Dec 04 12:48:16 2023
+  Post scan stats
+runnum 28
+scannum 80
+date 20231204
+time 124816
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2186206768
+run_evcnt 2186206768
+run_ercnt 0
+run_tocnt 0
+
+EVENT 158 Mon Dec 04 12:48:16 2023
+  Start scan runnum 28 scannum 81
+date 20231204 time 124816
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2186206768
+run_evcnt 2186206768
+run_ercnt 0
+run_tocnt 0
+
+EVENT 159 Mon Dec 04 12:48:46 2023
+  Post scan stats
+runnum 28
+scannum 81
+date 20231204
+time 124846
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2186312240
+run_evcnt 2186312240
+run_ercnt 0
+run_tocnt 0
+
+EVENT 160 Mon Dec 04 12:48:46 2023
+  Start scan runnum 28 scannum 82
+date 20231204 time 124846
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2186312240
+run_evcnt 2186312240
+run_ercnt 0
+run_tocnt 0
+
+EVENT 161 Mon Dec 04 12:49:15 2023
+  Post scan stats
+runnum 28
+scannum 82
+date 20231204
+time 124915
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2186413616
+run_evcnt 2186413616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 162 Mon Dec 04 12:49:15 2023
+  Start scan runnum 28 scannum 83
+date 20231204 time 124915
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2186413616
+run_evcnt 2186413616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 163 Mon Dec 04 12:49:39 2023
+  Post scan stats
+runnum 28
+scannum 83
+date 20231204
+time 124939
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2186496560
+run_evcnt 2186496560
+run_ercnt 0
+run_tocnt 0
+
+EVENT 164 Mon Dec 04 12:49:41 2023
+  Start scan runnum 28 scannum 84
+date 20231204 time 124941
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2186496560
+run_evcnt 2186496560
+run_ercnt 0
+run_tocnt 0
+
+EVENT 165 Mon Dec 04 12:54:35 2023
+  Post scan stats
+runnum 28
+scannum 84
+date 20231204
+time 125435
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2732014720
+run_evcnt 2732014720
+run_ercnt 0
+run_tocnt 0
+
+EVENT 166 Mon Dec 04 13:14:45 2023
+  Start scan runnum 28 scannum 85
+date 20231204 time 131445
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2732014720
+run_evcnt 2732014720
+run_ercnt 0
+run_tocnt 0
+
+EVENT 167 Mon Dec 04 13:14:48 2023
+  Post scan stats
+runnum 28
+scannum 85
+date 20231204
+time 131448
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2732017920
+run_evcnt 2732017920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 168 Mon Dec 04 13:14:49 2023
+  Start scan runnum 28 scannum 86
+date 20231204 time 131449
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2732017920
+run_evcnt 2732017920
+run_ercnt 0
+run_tocnt 0
+
+EVENT 169 Mon Dec 04 13:14:52 2023
+  Post scan stats
+runnum 28
+scannum 86
+date 20231204
+time 131452
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2732019168
+run_evcnt 2732019168
+run_ercnt 0
+run_tocnt 0
+
+EVENT 170 Mon Dec 04 13:14:54 2023
+  Start scan runnum 28 scannum 87
+date 20231204 time 131454
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2732019168
+run_evcnt 2732019168
+run_ercnt 0
+run_tocnt 0
+
+EVENT 171 Mon Dec 04 13:15:07 2023
+  Post scan stats
+runnum 28
+scannum 87
+date 20231204
+time 131507
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2732061152
+run_evcnt 2732061152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 172 Mon Dec 04 13:15:07 2023
+  Start scan runnum 28 scannum 88
+date 20231204 time 131507
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2732061152
+run_evcnt 2732061152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 173 Mon Dec 04 13:15:24 2023
+  Post scan stats
+runnum 28
+scannum 88
+date 20231204
+time 131524
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2732119520
+run_evcnt 2732119520
+run_ercnt 0
+run_tocnt 0
+
+EVENT 174 Mon Dec 04 13:15:24 2023
+  Start scan runnum 28 scannum 89
+date 20231204 time 131524
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2732119520
+run_evcnt 2732119520
+run_ercnt 0
+run_tocnt 0
+
+EVENT 175 Mon Dec 04 13:15:46 2023
+  Post scan stats
+runnum 28
+scannum 89
+date 20231204
+time 131546
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2732193248
+run_evcnt 2732193248
+run_ercnt 0
+run_tocnt 0
+
+EVENT 176 Mon Dec 04 13:15:47 2023
+  Start scan runnum 28 scannum 90
+date 20231204 time 131547
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2732193248
+run_evcnt 2732193248
+run_ercnt 0
+run_tocnt 0
+
+EVENT 177 Mon Dec 04 13:15:58 2023
+  Post scan stats
+runnum 28
+scannum 90
+date 20231204
+time 131558
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2732227040
+run_evcnt 2732227040
+run_ercnt 0
+run_tocnt 0
+
+EVENT 178 Mon Dec 04 13:15:58 2023
+  Start scan runnum 28 scannum 91
+date 20231204 time 131558
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2732227040
+run_evcnt 2732227040
+run_ercnt 0
+run_tocnt 0
+
+EVENT 179 Mon Dec 04 13:16:12 2023
+  Post scan stats
+runnum 28
+scannum 91
+date 20231204
+time 131611
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2732271072
+run_evcnt 2732271072
+run_ercnt 0
+run_tocnt 0
+
+EVENT 180 Mon Dec 04 13:16:12 2023
+  Start scan runnum 28 scannum 92
+date 20231204 time 131612
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2732271072
+run_evcnt 2732271072
+run_ercnt 0
+run_tocnt 0
+
+EVENT 181 Mon Dec 04 13:16:27 2023
+  Post scan stats
+runnum 28
+scannum 92
+date 20231204
+time 131627
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2732322272
+run_evcnt 2732322272
+run_ercnt 0
+run_tocnt 0
+
+EVENT 182 Mon Dec 04 13:16:27 2023
+  Start scan runnum 28 scannum 93
+date 20231204 time 131627
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2732322272
+run_evcnt 2732322272
+run_ercnt 0
+run_tocnt 0
+
+EVENT 183 Mon Dec 04 13:16:44 2023
+  Post scan stats
+runnum 28
+scannum 93
+date 20231204
+time 131644
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2732379616
+run_evcnt 2732379616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 184 Mon Dec 04 13:16:44 2023
+  Start scan runnum 28 scannum 94
+date 20231204 time 131644
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2732379616
+run_evcnt 2732379616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 185 Mon Dec 04 13:17:04 2023
+  Post scan stats
+runnum 28
+scannum 94
+date 20231204
+time 131704
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2732447200
+run_evcnt 2732447200
+run_ercnt 0
+run_tocnt 0
+
+EVENT 186 Mon Dec 04 13:17:04 2023
+  Start scan runnum 28 scannum 95
+date 20231204 time 131704
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2732447200
+run_evcnt 2732447200
+run_ercnt 0
+run_tocnt 0
+
+EVENT 187 Mon Dec 04 13:17:26 2023
+  Post scan stats
+runnum 28
+scannum 95
+date 20231204
+time 131726
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2732522976
+run_evcnt 2732522976
+run_ercnt 0
+run_tocnt 0
+
+EVENT 188 Mon Dec 04 13:17:26 2023
+  Start scan runnum 28 scannum 96
+date 20231204 time 131726
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2732522976
+run_evcnt 2732522976
+run_ercnt 0
+run_tocnt 0
+
+EVENT 189 Mon Dec 04 13:17:52 2023
+  Post scan stats
+runnum 28
+scannum 96
+date 20231204
+time 131752
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2732613088
+run_evcnt 2732613088
+run_ercnt 0
+run_tocnt 0
+
+EVENT 190 Mon Dec 04 13:17:52 2023
+  Start scan runnum 28 scannum 97
+date 20231204 time 131752
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2732613088
+run_evcnt 2732613088
+run_ercnt 0
+run_tocnt 0
+
+EVENT 191 Mon Dec 04 13:18:22 2023
+  Post scan stats
+runnum 28
+scannum 97
+date 20231204
+time 131822
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2732719584
+run_evcnt 2732719584
+run_ercnt 0
+run_tocnt 0
+
+EVENT 192 Mon Dec 04 13:18:22 2023
+  Start scan runnum 28 scannum 98
+date 20231204 time 131822
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2732719584
+run_evcnt 2732719584
+run_ercnt 0
+run_tocnt 0
+
+EVENT 193 Mon Dec 04 13:18:51 2023
+  Post scan stats
+runnum 28
+scannum 98
+date 20231204
+time 131851
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2732820960
+run_evcnt 2732820960
+run_ercnt 0
+run_tocnt 0
+
+EVENT 194 Mon Dec 04 13:18:51 2023
+  Start scan runnum 28 scannum 99
+date 20231204 time 131851
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2732820960
+run_evcnt 2732820960
+run_ercnt 0
+run_tocnt 0
+
+EVENT 195 Mon Dec 04 13:19:14 2023
+  Post scan stats
+runnum 28
+scannum 99
+date 20231204
+time 131914
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2732902880
+run_evcnt 2732902880
+run_ercnt 0
+run_tocnt 0
+
+EVENT 196 Mon Dec 04 13:19:16 2023
+  Start scan runnum 28 scannum 100
+date 20231204 time 131916
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2732902880
+run_evcnt 2732902880
+run_ercnt 0
+run_tocnt 0
+
+EVENT 197 Mon Dec 04 13:24:12 2023
+  Post scan stats
+runnum 28
+scannum 100
+date 20231204
+time 132412
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 3278421040
+run_evcnt 3278421040
+run_ercnt 0
+run_tocnt 0
+
+EVENT 198 Mon Dec 04 14:15:32 2023
+  Start scan runnum 28 scannum 103
+date 20231204 time 141532
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 3278421040
+run_evcnt 3278421040
+run_ercnt 0
+run_tocnt 0
+
+EVENT 199 Mon Dec 04 14:15:35 2023
+  Post scan stats
+runnum 28
+scannum 103
+date 20231204
+time 141535
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 3278424240
+run_evcnt 3278424240
+run_ercnt 0
+run_tocnt 0
+
+EVENT 200 Mon Dec 04 14:15:37 2023
+  Start scan runnum 28 scannum 104
+date 20231204 time 141537
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 3278424240
+run_evcnt 3278424240
+run_ercnt 0
+run_tocnt 0
+
+EVENT 201 Mon Dec 04 14:15:40 2023
+  Post scan stats
+runnum 28
+scannum 104
+date 20231204
+time 141540
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 3278425488
+run_evcnt 3278425488
+run_ercnt 0
+run_tocnt 0
+
+EVENT 202 Mon Dec 04 14:15:42 2023
+  Start scan runnum 28 scannum 105
+date 20231204 time 141542
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 3278425488
+run_evcnt 3278425488
+run_ercnt 0
+run_tocnt 0
+
+EVENT 203 Mon Dec 04 14:15:55 2023
+  Post scan stats
+runnum 28
+scannum 105
+date 20231204
+time 141555
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 3278468496
+run_evcnt 3278468496
+run_ercnt 0
+run_tocnt 0
+
+EVENT 204 Mon Dec 04 14:15:55 2023
+  Start scan runnum 28 scannum 106
+date 20231204 time 141555
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 3278468496
+run_evcnt 3278468496
+run_ercnt 0
+run_tocnt 0
+
+EVENT 205 Mon Dec 04 14:16:12 2023
+  Post scan stats
+runnum 28
+scannum 106
+date 20231204
+time 141612
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 3278526864
+run_evcnt 3278526864
+run_ercnt 0
+run_tocnt 0
+
+EVENT 206 Mon Dec 04 14:16:12 2023
+  Start scan runnum 28 scannum 107
+date 20231204 time 141612
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 3278526864
+run_evcnt 3278526864
+run_ercnt 0
+run_tocnt 0
+
+EVENT 207 Mon Dec 04 14:16:34 2023
+  Post scan stats
+runnum 28
+scannum 107
+date 20231204
+time 141634
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 3278601616
+run_evcnt 3278601616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 208 Mon Dec 04 14:16:37 2023
+  Start scan runnum 28 scannum 108
+date 20231204 time 141637
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 3278601616
+run_evcnt 3278601616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 209 Mon Dec 04 14:16:47 2023
+  Post scan stats
+runnum 28
+scannum 108
+date 20231204
+time 141647
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 3278634384
+run_evcnt 3278634384
+run_ercnt 0
+run_tocnt 0
+
+EVENT 210 Mon Dec 04 14:16:47 2023
+  Start scan runnum 28 scannum 109
+date 20231204 time 141647
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 3278634384
+run_evcnt 3278634384
+run_ercnt 0
+run_tocnt 0
+
+EVENT 211 Mon Dec 04 14:17:00 2023
+  Post scan stats
+runnum 28
+scannum 109
+date 20231204
+time 141700
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 3278677392
+run_evcnt 3278677392
+run_ercnt 0
+run_tocnt 0
+
+EVENT 212 Mon Dec 04 14:17:01 2023
+  Start scan runnum 28 scannum 110
+date 20231204 time 141701
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 3278677392
+run_evcnt 3278677392
+run_ercnt 0
+run_tocnt 0
+
+EVENT 213 Mon Dec 04 14:17:16 2023
+  Post scan stats
+runnum 28
+scannum 110
+date 20231204
+time 141716
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 3278729616
+run_evcnt 3278729616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 214 Mon Dec 04 14:17:16 2023
+  Start scan runnum 28 scannum 111
+date 20231204 time 141716
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 3278729616
+run_evcnt 3278729616
+run_ercnt 0
+run_tocnt 0
+
+EVENT 215 Mon Dec 04 14:17:33 2023
+  Post scan stats
+runnum 28
+scannum 111
+date 20231204
+time 141733
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 3278787984
+run_evcnt 3278787984
+run_ercnt 0
+run_tocnt 0
+
+EVENT 216 Mon Dec 04 14:17:33 2023
+  Start scan runnum 28 scannum 112
+date 20231204 time 141733
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 3278787984
+run_evcnt 3278787984
+run_ercnt 0
+run_tocnt 0
+
+EVENT 217 Mon Dec 04 14:17:54 2023
+  Post scan stats
+runnum 28
+scannum 112
+date 20231204
+time 141753
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 3278854544
+run_evcnt 3278854544
+run_ercnt 0
+run_tocnt 0
+
+EVENT 218 Mon Dec 04 14:17:54 2023
+  Start scan runnum 28 scannum 113
+date 20231204 time 141754
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 3278854544
+run_evcnt 3278854544
+run_ercnt 0
+run_tocnt 0
+
+EVENT 219 Mon Dec 04 14:18:16 2023
+  Post scan stats
+runnum 28
+scannum 113
+date 20231204
+time 141815
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 3278928272
+run_evcnt 3278928272
+run_ercnt 0
+run_tocnt 0
+
+EVENT 220 Mon Dec 04 14:18:16 2023
+  Start scan runnum 28 scannum 114
+date 20231204 time 141816
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 3278928272
+run_evcnt 3278928272
+run_ercnt 0
+run_tocnt 0
+
+EVENT 221 Mon Dec 04 14:18:41 2023
+  Post scan stats
+runnum 28
+scannum 114
+date 20231204
+time 141841
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 3279018384
+run_evcnt 3279018384
+run_ercnt 0
+run_tocnt 0
+
+EVENT 222 Mon Dec 04 14:18:42 2023
+  Start scan runnum 28 scannum 115
+date 20231204 time 141842
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 3279018384
+run_evcnt 3279018384
+run_ercnt 0
+run_tocnt 0
+
+EVENT 223 Mon Dec 04 14:19:12 2023
+  Post scan stats
+runnum 28
+scannum 115
+date 20231204
+time 141911
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 3279123856
+run_evcnt 3279123856
+run_ercnt 0
+run_tocnt 0
+
+EVENT 224 Mon Dec 04 14:19:12 2023
+  Start scan runnum 28 scannum 116
+date 20231204 time 141912
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 3279123856
+run_evcnt 3279123856
+run_ercnt 0
+run_tocnt 0
+
+EVENT 225 Mon Dec 04 14:19:42 2023
+  Post scan stats
+runnum 28
+scannum 116
+date 20231204
+time 141941
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 3279226256
+run_evcnt 3279226256
+run_ercnt 0
+run_tocnt 0
+
+EVENT 226 Mon Dec 04 14:19:42 2023
+  Start scan runnum 28 scannum 117
+date 20231204 time 141942
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 3279226256
+run_evcnt 3279226256
+run_ercnt 0
+run_tocnt 0
+
+EVENT 227 Mon Dec 04 14:20:06 2023
+  Post scan stats
+runnum 28
+scannum 117
+date 20231204
+time 142005
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 3279308176
+run_evcnt 3279308176
+run_ercnt 0
+run_tocnt 0
+
+EVENT 228 Mon Dec 04 14:20:07 2023
+  Start scan runnum 28 scannum 118
+date 20231204 time 142007
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 3279308176
+run_evcnt 3279308176
+run_ercnt 0
+run_tocnt 0
+
+EVENT 229 Mon Dec 04 14:25:03 2023
+  Post scan stats
+runnum 28
+scannum 118
+date 20231204
+time 142503
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 3824826336
+run_evcnt 3824826336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 230 Mon Dec 04 14:45:13 2023
+  Start scan runnum 28 scannum 119
+date 20231204 time 144513
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 3824826336
+run_evcnt 3824826336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 231 Mon Dec 04 14:45:15 2023
+  Post scan stats
+runnum 28
+scannum 119
+date 20231204
+time 144515
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 3824829536
+run_evcnt 3824829536
+run_ercnt 0
+run_tocnt 0
+
+EVENT 232 Mon Dec 04 14:45:16 2023
+  Start scan runnum 28 scannum 120
+date 20231204 time 144516
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 3824829536
+run_evcnt 3824829536
+run_ercnt 0
+run_tocnt 0
+
+EVENT 233 Mon Dec 04 14:45:19 2023
+  Post scan stats
+runnum 28
+scannum 120
+date 20231204
+time 144519
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 3824830784
+run_evcnt 3824830784
+run_ercnt 0
+run_tocnt 0
+
+EVENT 234 Mon Dec 04 14:45:21 2023
+  Start scan runnum 28 scannum 121
+date 20231204 time 144521
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 3824830784
+run_evcnt 3824830784
+run_ercnt 0
+run_tocnt 0
+
+EVENT 235 Mon Dec 04 14:45:33 2023
+  Post scan stats
+runnum 28
+scannum 121
+date 20231204
+time 144533
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 3824872768
+run_evcnt 3824872768
+run_ercnt 0
+run_tocnt 0
+
+EVENT 236 Mon Dec 04 14:45:34 2023
+  Start scan runnum 28 scannum 122
+date 20231204 time 144534
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 3824872768
+run_evcnt 3824872768
+run_ercnt 0
+run_tocnt 0
+
+EVENT 237 Mon Dec 04 14:45:51 2023
+  Post scan stats
+runnum 28
+scannum 122
+date 20231204
+time 144551
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 3824931136
+run_evcnt 3824931136
+run_ercnt 0
+run_tocnt 0
+
+EVENT 238 Mon Dec 04 14:45:51 2023
+  Start scan runnum 28 scannum 123
+date 20231204 time 144551
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 3824931136
+run_evcnt 3824931136
+run_ercnt 0
+run_tocnt 0
+
+EVENT 239 Mon Dec 04 14:46:13 2023
+  Post scan stats
+runnum 28
+scannum 123
+date 20231204
+time 144613
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 3825005888
+run_evcnt 3825005888
+run_ercnt 0
+run_tocnt 0
+
+EVENT 240 Mon Dec 04 14:46:14 2023
+  Start scan runnum 28 scannum 124
+date 20231204 time 144614
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 3825005888
+run_evcnt 3825005888
+run_ercnt 0
+run_tocnt 0
+
+EVENT 241 Mon Dec 04 14:46:25 2023
+  Post scan stats
+runnum 28
+scannum 124
+date 20231204
+time 144625
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 3825039680
+run_evcnt 3825039680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 242 Mon Dec 04 14:46:25 2023
+  Start scan runnum 28 scannum 125
+date 20231204 time 144625
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 3825039680
+run_evcnt 3825039680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 243 Mon Dec 04 14:46:38 2023
+  Post scan stats
+runnum 28
+scannum 125
+date 20231204
+time 144638
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 3825082688
+run_evcnt 3825082688
+run_ercnt 0
+run_tocnt 0
+
+EVENT 244 Mon Dec 04 14:46:38 2023
+  Start scan runnum 28 scannum 126
+date 20231204 time 144638
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 3825082688
+run_evcnt 3825082688
+run_ercnt 0
+run_tocnt 0
+
+EVENT 245 Mon Dec 04 14:46:53 2023
+  Post scan stats
+runnum 28
+scannum 126
+date 20231204
+time 144653
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 3825134912
+run_evcnt 3825134912
+run_ercnt 0
+run_tocnt 0
+
+EVENT 246 Mon Dec 04 14:46:54 2023
+  Start scan runnum 28 scannum 127
+date 20231204 time 144654
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 3825134912
+run_evcnt 3825134912
+run_ercnt 0
+run_tocnt 0
+
+EVENT 247 Mon Dec 04 14:47:11 2023
+  Post scan stats
+runnum 28
+scannum 127
+date 20231204
+time 144711
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 3825193280
+run_evcnt 3825193280
+run_ercnt 0
+run_tocnt 0
+
+EVENT 248 Mon Dec 04 14:47:11 2023
+  Start scan runnum 28 scannum 128
+date 20231204 time 144711
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 3825193280
+run_evcnt 3825193280
+run_ercnt 0
+run_tocnt 0
+
+EVENT 249 Mon Dec 04 14:47:30 2023
+  Post scan stats
+runnum 28
+scannum 128
+date 20231204
+time 144730
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 3825259840
+run_evcnt 3825259840
+run_ercnt 0
+run_tocnt 0
+
+EVENT 250 Mon Dec 04 14:47:31 2023
+  Start scan runnum 28 scannum 129
+date 20231204 time 144731
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 3825259840
+run_evcnt 3825259840
+run_ercnt 0
+run_tocnt 0
+
+EVENT 251 Mon Dec 04 14:47:52 2023
+  Post scan stats
+runnum 28
+scannum 129
+date 20231204
+time 144752
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 3825333568
+run_evcnt 3825333568
+run_ercnt 0
+run_tocnt 0
+
+EVENT 252 Mon Dec 04 14:47:52 2023
+  Start scan runnum 28 scannum 130
+date 20231204 time 144752
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 3825333568
+run_evcnt 3825333568
+run_ercnt 0
+run_tocnt 0
+
+EVENT 253 Mon Dec 04 14:48:19 2023
+  Post scan stats
+runnum 28
+scannum 130
+date 20231204
+time 144818
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 3825424704
+run_evcnt 3825424704
+run_ercnt 0
+run_tocnt 0
+
+EVENT 254 Mon Dec 04 14:48:19 2023
+  Start scan runnum 28 scannum 131
+date 20231204 time 144819
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 3825424704
+run_evcnt 3825424704
+run_ercnt 0
+run_tocnt 0
+
+EVENT 255 Mon Dec 04 14:48:49 2023
+  Post scan stats
+runnum 28
+scannum 131
+date 20231204
+time 144848
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 3825529152
+run_evcnt 3825529152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 256 Mon Dec 04 14:48:49 2023
+  Start scan runnum 28 scannum 132
+date 20231204 time 144849
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 3825529152
+run_evcnt 3825529152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 257 Mon Dec 04 14:49:18 2023
+  Post scan stats
+runnum 28
+scannum 132
+date 20231204
+time 144917
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 3825630528
+run_evcnt 3825630528
+run_ercnt 0
+run_tocnt 0
+
+EVENT 258 Mon Dec 04 14:49:18 2023
+  Start scan runnum 28 scannum 133
+date 20231204 time 144918
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 3825630528
+run_evcnt 3825630528
+run_ercnt 0
+run_tocnt 0
+
+EVENT 259 Mon Dec 04 14:49:42 2023
+  Post scan stats
+runnum 28
+scannum 133
+date 20231204
+time 144941
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 3825713472
+run_evcnt 3825713472
+run_ercnt 0
+run_tocnt 0
+
+EVENT 260 Mon Dec 04 14:49:43 2023
+  Start scan runnum 28 scannum 134
+date 20231204 time 144943
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 3825713472
+run_evcnt 3825713472
+run_ercnt 0
+run_tocnt 0
+
+EVENT 261 Mon Dec 04 14:54:39 2023
+  Post scan stats
+runnum 28
+scannum 134
+date 20231204
+time 145438
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 4371231632
+run_evcnt 76264336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 262 Mon Dec 04 15:14:49 2023
+  Start scan runnum 28 scannum 135
+date 20231204 time 151449
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 4371231632
+run_evcnt 76264336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 263 Mon Dec 04 15:14:52 2023
+  Post scan stats
+runnum 28
+scannum 135
+date 20231204
+time 151451
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 4371234832
+run_evcnt 76267536
+run_ercnt 0
+run_tocnt 0
+
+EVENT 264 Mon Dec 04 15:14:53 2023
+  Start scan runnum 28 scannum 136
+date 20231204 time 151453
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 4371234832
+run_evcnt 76267536
+run_ercnt 0
+run_tocnt 0
+
+EVENT 265 Mon Dec 04 15:14:56 2023
+  Post scan stats
+runnum 28
+scannum 136
+date 20231204
+time 151455
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 4371236080
+run_evcnt 76268784
+run_ercnt 0
+run_tocnt 0
+
+EVENT 266 Mon Dec 04 15:14:57 2023
+  Start scan runnum 28 scannum 137
+date 20231204 time 151457
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 4371236080
+run_evcnt 76268784
+run_ercnt 0
+run_tocnt 0
+
+EVENT 267 Mon Dec 04 15:15:10 2023
+  Post scan stats
+runnum 28
+scannum 137
+date 20231204
+time 151510
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 4371278064
+run_evcnt 76310768
+run_ercnt 0
+run_tocnt 0
+
+EVENT 268 Mon Dec 04 15:15:10 2023
+  Start scan runnum 28 scannum 138
+date 20231204 time 151510
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 4371278064
+run_evcnt 76310768
+run_ercnt 0
+run_tocnt 0
+
+EVENT 269 Mon Dec 04 15:15:27 2023
+  Post scan stats
+runnum 28
+scannum 138
+date 20231204
+time 151527
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 4371336432
+run_evcnt 76369136
+run_ercnt 0
+run_tocnt 0
+
+EVENT 270 Mon Dec 04 15:15:27 2023
+  Start scan runnum 28 scannum 139
+date 20231204 time 151527
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 4371336432
+run_evcnt 76369136
+run_ercnt 0
+run_tocnt 0
+
+EVENT 271 Mon Dec 04 15:15:49 2023
+  Post scan stats
+runnum 28
+scannum 139
+date 20231204
+time 151549
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 4371411184
+run_evcnt 76443888
+run_ercnt 0
+run_tocnt 0
+
+EVENT 272 Mon Dec 04 15:15:50 2023
+  Start scan runnum 28 scannum 140
+date 20231204 time 151550
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 4371411184
+run_evcnt 76443888
+run_ercnt 0
+run_tocnt 0
+
+EVENT 273 Mon Dec 04 15:16:01 2023
+  Post scan stats
+runnum 28
+scannum 140
+date 20231204
+time 151601
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 4371444976
+run_evcnt 76477680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 274 Mon Dec 04 15:16:01 2023
+  Start scan runnum 28 scannum 141
+date 20231204 time 151601
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 4371444976
+run_evcnt 76477680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 275 Mon Dec 04 15:16:14 2023
+  Post scan stats
+runnum 28
+scannum 141
+date 20231204
+time 151614
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 4371487984
+run_evcnt 76520688
+run_ercnt 0
+run_tocnt 0
+
+EVENT 276 Mon Dec 04 15:16:14 2023
+  Start scan runnum 28 scannum 142
+date 20231204 time 151614
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 4371487984
+run_evcnt 76520688
+run_ercnt 0
+run_tocnt 0
+
+EVENT 277 Mon Dec 04 15:16:30 2023
+  Post scan stats
+runnum 28
+scannum 142
+date 20231204
+time 151630
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 4371539184
+run_evcnt 76571888
+run_ercnt 0
+run_tocnt 0
+
+EVENT 278 Mon Dec 04 15:16:30 2023
+  Start scan runnum 28 scannum 143
+date 20231204 time 151630
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 4371539184
+run_evcnt 76571888
+run_ercnt 0
+run_tocnt 0
+
+EVENT 279 Mon Dec 04 15:16:47 2023
+  Post scan stats
+runnum 28
+scannum 143
+date 20231204
+time 151647
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 4371598576
+run_evcnt 76631280
+run_ercnt 0
+run_tocnt 0
+
+EVENT 280 Mon Dec 04 15:16:48 2023
+  Start scan runnum 28 scannum 144
+date 20231204 time 151648
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 4371598576
+run_evcnt 76631280
+run_ercnt 0
+run_tocnt 0
+
+EVENT 281 Mon Dec 04 15:17:07 2023
+  Post scan stats
+runnum 28
+scannum 144
+date 20231204
+time 151707
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 4371666160
+run_evcnt 76698864
+run_ercnt 0
+run_tocnt 0
+
+EVENT 282 Mon Dec 04 15:17:07 2023
+  Start scan runnum 28 scannum 145
+date 20231204 time 151707
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 4371666160
+run_evcnt 76698864
+run_ercnt 0
+run_tocnt 0
+
+EVENT 283 Mon Dec 04 15:17:29 2023
+  Post scan stats
+runnum 28
+scannum 145
+date 20231204
+time 151729
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 4371739888
+run_evcnt 76772592
+run_ercnt 0
+run_tocnt 0
+
+EVENT 284 Mon Dec 04 15:17:29 2023
+  Start scan runnum 28 scannum 146
+date 20231204 time 151729
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 4371739888
+run_evcnt 76772592
+run_ercnt 0
+run_tocnt 0
+
+EVENT 285 Mon Dec 04 15:17:55 2023
+  Post scan stats
+runnum 28
+scannum 146
+date 20231204
+time 151755
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 4371828976
+run_evcnt 76861680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 286 Mon Dec 04 15:17:55 2023
+  Start scan runnum 28 scannum 147
+date 20231204 time 151755
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 4371828976
+run_evcnt 76861680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 287 Mon Dec 04 15:18:25 2023
+  Post scan stats
+runnum 28
+scannum 147
+date 20231204
+time 151824
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 4371934448
+run_evcnt 76967152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 288 Mon Dec 04 15:18:25 2023
+  Start scan runnum 28 scannum 148
+date 20231204 time 151825
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 4371934448
+run_evcnt 76967152
+run_ercnt 0
+run_tocnt 0
+
+EVENT 289 Mon Dec 04 15:18:53 2023
+  Post scan stats
+runnum 28
+scannum 148
+date 20231204
+time 151853
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 4372035824
+run_evcnt 77068528
+run_ercnt 0
+run_tocnt 0
+
+EVENT 290 Mon Dec 04 15:18:53 2023
+  Start scan runnum 28 scannum 149
+date 20231204 time 151853
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 4372035824
+run_evcnt 77068528
+run_ercnt 0
+run_tocnt 0
+
+EVENT 291 Mon Dec 04 15:19:17 2023
+  Post scan stats
+runnum 28
+scannum 149
+date 20231204
+time 151917
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 4372117744
+run_evcnt 77150448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 292 Mon Dec 04 15:19:19 2023
+  Start scan runnum 28 scannum 150
+date 20231204 time 151919
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 4372117744
+run_evcnt 77150448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 293 Mon Dec 04 15:24:15 2023
+  Post scan stats
+runnum 28
+scannum 150
+date 20231204
+time 152415
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 4917636152
+run_evcnt 622668856
+run_ercnt 0
+run_tocnt 0
+
+EVENT 294 Mon Dec 04 16:16:28 2023
+  Start scan runnum 28 scannum 153
+date 20231204 time 161628
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 4917636152
+run_evcnt 622668856
+run_ercnt 0
+run_tocnt 0
+
+EVENT 295 Mon Dec 04 16:16:31 2023
+  Post scan stats
+runnum 28
+scannum 153
+date 20231204
+time 161631
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 4917639352
+run_evcnt 622672056
+run_ercnt 0
+run_tocnt 0
+
+EVENT 296 Mon Dec 04 16:16:32 2023
+  Start scan runnum 28 scannum 154
+date 20231204 time 161632
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 4917639352
+run_evcnt 622672056
+run_ercnt 0
+run_tocnt 0
+
+EVENT 297 Mon Dec 04 16:16:35 2023
+  Post scan stats
+runnum 28
+scannum 154
+date 20231204
+time 161635
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 4917640600
+run_evcnt 622673304
+run_ercnt 0
+run_tocnt 0
+
+EVENT 298 Mon Dec 04 16:16:36 2023
+  Start scan runnum 28 scannum 155
+date 20231204 time 161636
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 4917640600
+run_evcnt 622673304
+run_ercnt 0
+run_tocnt 0
+
+EVENT 299 Mon Dec 04 16:16:49 2023
+  Post scan stats
+runnum 28
+scannum 155
+date 20231204
+time 161649
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 4917682584
+run_evcnt 622715288
+run_ercnt 0
+run_tocnt 0
+
+EVENT 300 Mon Dec 04 16:16:49 2023
+  Start scan runnum 28 scannum 156
+date 20231204 time 161649
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 4917682584
+run_evcnt 622715288
+run_ercnt 0
+run_tocnt 0
+
+EVENT 301 Mon Dec 04 16:17:06 2023
+  Post scan stats
+runnum 28
+scannum 156
+date 20231204
+time 161706
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 4917739928
+run_evcnt 622772632
+run_ercnt 0
+run_tocnt 0
+
+EVENT 302 Mon Dec 04 16:17:06 2023
+  Start scan runnum 28 scannum 157
+date 20231204 time 161706
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 4917739928
+run_evcnt 622772632
+run_ercnt 0
+run_tocnt 0
+
+EVENT 303 Mon Dec 04 16:17:28 2023
+  Post scan stats
+runnum 28
+scannum 157
+date 20231204
+time 161727
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 4917812632
+run_evcnt 622845336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 304 Mon Dec 04 16:17:29 2023
+  Start scan runnum 28 scannum 158
+date 20231204 time 161729
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 4917812632
+run_evcnt 622845336
+run_ercnt 0
+run_tocnt 0
+
+EVENT 305 Mon Dec 04 16:17:39 2023
+  Post scan stats
+runnum 28
+scannum 158
+date 20231204
+time 161739
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 4917845400
+run_evcnt 622878104
+run_ercnt 0
+run_tocnt 0
+
+EVENT 306 Mon Dec 04 16:17:39 2023
+  Start scan runnum 28 scannum 159
+date 20231204 time 161739
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 4917845400
+run_evcnt 622878104
+run_ercnt 0
+run_tocnt 0
+
+EVENT 307 Mon Dec 04 16:17:52 2023
+  Post scan stats
+runnum 28
+scannum 159
+date 20231204
+time 161752
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 4917887384
+run_evcnt 622920088
+run_ercnt 0
+run_tocnt 0
+
+EVENT 308 Mon Dec 04 16:17:52 2023
+  Start scan runnum 28 scannum 160
+date 20231204 time 161752
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 4917887384
+run_evcnt 622920088
+run_ercnt 0
+run_tocnt 0
+
+EVENT 309 Mon Dec 04 16:18:07 2023
+  Post scan stats
+runnum 28
+scannum 160
+date 20231204
+time 161807
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 4917939608
+run_evcnt 622972312
+run_ercnt 0
+run_tocnt 0
+
+EVENT 310 Mon Dec 04 16:18:08 2023
+  Start scan runnum 28 scannum 161
+date 20231204 time 161808
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 4917939608
+run_evcnt 622972312
+run_ercnt 0
+run_tocnt 0
+
+EVENT 311 Mon Dec 04 16:18:25 2023
+  Post scan stats
+runnum 28
+scannum 161
+date 20231204
+time 161825
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 4917997976
+run_evcnt 623030680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 312 Mon Dec 04 16:18:25 2023
+  Start scan runnum 28 scannum 162
+date 20231204 time 161825
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 4917997976
+run_evcnt 623030680
+run_ercnt 0
+run_tocnt 0
+
+EVENT 313 Mon Dec 04 16:18:45 2023
+  Post scan stats
+runnum 28
+scannum 162
+date 20231204
+time 161844
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 4918065560
+run_evcnt 623098264
+run_ercnt 0
+run_tocnt 0
+
+EVENT 314 Mon Dec 04 16:18:45 2023
+  Start scan runnum 28 scannum 163
+date 20231204 time 161845
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 4918065560
+run_evcnt 623098264
+run_ercnt 0
+run_tocnt 0
+
+EVENT 315 Mon Dec 04 16:19:06 2023
+  Post scan stats
+runnum 28
+scannum 163
+date 20231204
+time 161906
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 4918139288
+run_evcnt 623171992
+run_ercnt 0
+run_tocnt 0
+
+EVENT 316 Mon Dec 04 16:19:06 2023
+  Start scan runnum 28 scannum 164
+date 20231204 time 161906
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 4918139288
+run_evcnt 623171992
+run_ercnt 0
+run_tocnt 0
+
+EVENT 317 Mon Dec 04 16:19:31 2023
+  Post scan stats
+runnum 28
+scannum 164
+date 20231204
+time 161931
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 4918228376
+run_evcnt 623261080
+run_ercnt 0
+run_tocnt 0
+
+EVENT 318 Mon Dec 04 16:19:31 2023
+  Start scan runnum 28 scannum 165
+date 20231204 time 161931
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 4918228376
+run_evcnt 623261080
+run_ercnt 0
+run_tocnt 0
+
+EVENT 319 Mon Dec 04 16:20:01 2023
+  Post scan stats
+runnum 28
+scannum 165
+date 20231204
+time 162001
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 4918333848
+run_evcnt 623366552
+run_ercnt 0
+run_tocnt 0
+
+EVENT 320 Mon Dec 04 16:20:01 2023
+  Start scan runnum 28 scannum 166
+date 20231204 time 162001
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 4918333848
+run_evcnt 623366552
+run_ercnt 0
+run_tocnt 0
+
+EVENT 321 Mon Dec 04 16:20:30 2023
+  Post scan stats
+runnum 28
+scannum 166
+date 20231204
+time 162030
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 4918436248
+run_evcnt 623468952
+run_ercnt 0
+run_tocnt 0
+
+EVENT 322 Mon Dec 04 16:20:30 2023
+  Start scan runnum 28 scannum 167
+date 20231204 time 162030
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 4918436248
+run_evcnt 623468952
+run_ercnt 0
+run_tocnt 0
+
+EVENT 323 Mon Dec 04 16:20:53 2023
+  Post scan stats
+runnum 28
+scannum 167
+date 20231204
+time 162053
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 4918518168
+run_evcnt 623550872
+run_ercnt 0
+run_tocnt 0
+
+EVENT 324 Mon Dec 04 16:20:55 2023
+  Start scan runnum 28 scannum 168
+date 20231204 time 162055
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 4918518168
+run_evcnt 623550872
+run_ercnt 0
+run_tocnt 0
+
+EVENT 325 Mon Dec 04 16:25:52 2023
+  Post scan stats
+runnum 28
+scannum 168
+date 20231204
+time 162552
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 5464036576
+run_evcnt 1169069280
+run_ercnt 0
+run_tocnt 0
+
+EVENT 326 Mon Dec 04 16:46:03 2023
+  Start scan runnum 28 scannum 169
+date 20231204 time 164603
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 5464036576
+run_evcnt 1169069280
+run_ercnt 0
+run_tocnt 0
+
+EVENT 327 Mon Dec 04 16:46:06 2023
+  Post scan stats
+runnum 28
+scannum 169
+date 20231204
+time 164605
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 5464039776
+run_evcnt 1169072480
+run_ercnt 0
+run_tocnt 0
+
+EVENT 328 Mon Dec 04 16:46:07 2023
+  Start scan runnum 28 scannum 170
+date 20231204 time 164607
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 5464039776
+run_evcnt 1169072480
+run_ercnt 0
+run_tocnt 0
+

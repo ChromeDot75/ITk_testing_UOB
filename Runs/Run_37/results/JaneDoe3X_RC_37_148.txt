@@ -1,0 +1,2561 @@
+#chan	code	gain	vt50	innse	comment
+   0	     4	78.0	134.8	2214	inefficient
+   1	     4	72.8	128.5	2321	inefficient
+   2	     4	73.5	125.3	2759	inefficient
+   3	     4	73.3	127.1	2827	inefficient
+   4	     4	72.0	123.2	2879	inefficient
+   5	     4	71.9	122.4	2943	inefficient
+   6	     4	73.6	118.9	2971	inefficient
+   7	     4	72.2	124.8	2703	inefficient
+   8	     4	71.6	130.5	2489	inefficient
+   9	     4	72.2	120.5	2753	inefficient
+  10	     4	70.8	113.1	2942	inefficient
+  11	     4	73.4	122.0	2483	inefficient
+  12	     4	73.0	121.1	2435	inefficient
+  13	     4	71.4	123.7	2496	inefficient
+  14	     4	71.0	118.3	2833	inefficient
+  15	     4	71.9	124.4	2447	inefficient
+  16	     4	72.9	115.4	2725	inefficient
+  17	     4	74.5	131.7	1975	inefficient
+  18	     4	72.6	117.7	2497	inefficient
+  19	     4	75.5	135.3	1849	inefficient
+  20	     4	71.4	129.8	1961	inefficient
+  21	     4	70.9	117.6	2504	inefficient
+  22	     4	74.4	134.6	1815	inefficient
+  23	     4	72.8	127.8	2074	inefficient
+  24	     4	71.7	112.6	2720	inefficient
+  25	     4	74.3	131.2	2045	inefficient
+  26	     4	75.2	127.9	2166	inefficient
+  27	     4	74.9	129.3	2115	inefficient
+  28	     4	72.7	118.2	2498	inefficient
+  29	     4	75.9	132.0	2070	inefficient
+  30	     4	73.9	122.8	2363	inefficient
+  31	     4	72.1	120.2	2521	inefficient
+  32	     4	71.8	123.1	2442	inefficient
+  33	     4	75.6	139.4	1888	inefficient
+  34	     4	72.2	120.4	2546	inefficient
+  35	     4	74.5	128.5	2331	inefficient
+  36	     4	69.4	106.3	2933	inefficient
+  37	     4	74.6	128.8	2246	inefficient
+  38	     4	73.2	123.2	2517	inefficient
+  39	     4	74.7	125.6	2450	inefficient
+  40	     4	68.1	92.5	3103	inefficient
+  41	     4	72.0	130.6	2186	inefficient
+  42	     4	73.2	126.3	2431	inefficient
+  43	     4	73.5	122.7	2544	inefficient
+  44	     4	72.6	111.7	2839	inefficient
+  45	     4	74.5	127.7	2291	inefficient
+  46	     4	68.4	110.4	2847	inefficient
+  47	     4	70.6	124.4	2419	inefficient
+  48	     4	72.9	126.3	2346	inefficient
+  49	     4	72.7	123.0	2454	inefficient
+  50	     4	75.9	128.7	2300	inefficient
+  51	     4	72.8	106.6	2894	inefficient
+  52	     4	72.6	118.4	2684	inefficient
+  53	     4	73.6	112.2	2814	inefficient
+  54	     4	76.0	137.8	1994	inefficient
+  55	     4	71.8	124.0	2536	inefficient
+  56	     4	74.7	128.5	2371	inefficient
+  57	     4	73.6	124.7	2507	inefficient
+  58	     4	74.4	130.7	2278	inefficient
+  59	     4	76.0	135.3	2117	inefficient
+  60	     4	73.8	127.2	2399	inefficient
+  61	     4	74.9	125.3	2546	inefficient
+  62	     4	74.4	123.4	2567	inefficient
+  63	     4	73.4	132.8	2129	inefficient
+  64	     4	73.0	131.1	2150	inefficient
+  65	     4	74.2	125.5	2429	inefficient
+  66	     4	73.1	116.1	2759	inefficient
+  67	     4	71.6	97.6	3095	inefficient
+  68	     4	75.1	137.3	2057	inefficient
+  69	     4	71.7	124.5	2437	inefficient
+  70	     4	72.9	125.2	2424	inefficient
+  71	     4	72.2	125.3	2380	inefficient
+  72	     4	72.7	122.1	2542	inefficient
+  73	     4	75.3	129.2	2327	inefficient
+  74	     4	69.4	107.3	2941	inefficient
+  75	     4	74.6	123.1	2541	inefficient
+  76	 80000	77.4	165.6	1809	very high noise
+  77	     4	72.5	118.9	2632	inefficient
+  78	     4	75.4	128.3	2343	inefficient
+  79	     4	74.7	129.5	2326	inefficient
+  80	     4	72.6	125.2	2430	inefficient
+  81	     4	77.7	150.4	1836	inefficient
+  82	     4	74.3	129.4	2268	inefficient
+  83	     4	74.7	122.5	2533	inefficient
+  84	     4	74.7	123.6	2494	inefficient
+  85	     4	75.2	133.0	2163	inefficient
+  86	     4	75.7	130.0	2248	inefficient
+  87	     4	73.2	126.1	2423	inefficient
+  88	     4	74.9	136.1	2027	inefficient
+  89	     4	76.8	136.1	2131	inefficient
+  90	     4	73.2	119.7	2668	inefficient
+  91	     4	73.7	135.9	2050	inefficient
+  92	     4	70.6	112.8	2814	inefficient
+  93	     4	71.5	123.0	2462	inefficient
+  94	     4	72.2	120.6	2581	inefficient
+  95	     4	75.0	125.5	2509	inefficient
+  96	     4	74.3	132.5	2215	inefficient
+  97	     4	75.8	130.9	2282	inefficient
+  98	     4	72.7	126.1	2439	inefficient
+  99	     4	73.2	129.4	2288	inefficient
+ 100	     4	66.8	83.1	3145	inefficient
+ 101	     4	75.8	130.6	2353	inefficient
+ 102	     4	75.1	141.0	1952	inefficient
+ 103	     4	71.7	122.7	2608	inefficient
+ 104	     4	72.1	119.8	2627	inefficient
+ 105	     4	74.9	140.0	1966	inefficient
+ 106	     4	73.2	118.4	2667	inefficient
+ 107	     4	73.2	121.9	2542	inefficient
+ 108	     4	74.1	125.4	2481	inefficient
+ 109	     4	75.5	131.2	2239	inefficient
+ 110	     4	71.3	96.9	2995	inefficient
+ 111	     4	75.7	126.3	2442	inefficient
+ 112	     4	73.8	125.8	2375	inefficient
+ 113	     4	72.8	124.8	2398	inefficient
+ 114	     4	70.0	92.7	3085	inefficient
+ 115	     4	73.8	128.8	2208	inefficient
+ 116	     4	74.5	130.7	2182	inefficient
+ 117	     4	74.9	126.4	2383	inefficient
+ 118	     4	74.0	140.1	1940	inefficient
+ 119	     4	72.8	120.6	2595	inefficient
+ 120	 80000	76.3	158.3	1779	very high noise
+ 121	     4	74.5	126.2	2377	inefficient
+ 122	     4	74.9	128.1	2349	inefficient
+ 123	     4	74.1	126.7	2336	inefficient
+ 124	     4	72.1	116.9	2686	inefficient
+ 125	     4	76.1	139.3	1963	inefficient
+ 126	     4	74.6	106.6	2929	inefficient
+ 127	     4	72.5	111.1	2835	inefficient
+ 128	     4	73.9	121.8	2530	inefficient
+ 129	     4	78.2	133.5	2116	inefficient
+ 130	     4	76.3	118.7	2573	inefficient
+ 131	     4	75.9	129.7	2181	inefficient
+ 132	     4	73.4	123.0	2390	inefficient
+ 133	     4	76.0	115.9	2684	inefficient
+ 134	     4	77.3	126.2	2350	inefficient
+ 135	     4	74.5	119.2	2576	inefficient
+ 136	     4	73.2	104.2	2857	inefficient
+ 137	     4	75.6	123.5	2434	inefficient
+ 138	     4	76.0	122.8	2443	inefficient
+ 139	     4	75.4	132.3	2068	inefficient
+ 140	     4	78.2	140.5	1888	inefficient
+ 141	     4	76.2	126.4	2335	inefficient
+ 142	     4	73.7	132.4	2054	inefficient
+ 143	     4	76.4	137.9	1904	inefficient
+ 144	     4	74.8	127.6	2274	inefficient
+ 145	     4	74.0	127.6	2282	inefficient
+ 146	     4	76.4	122.1	2422	inefficient
+ 147	     4	73.9	118.1	2716	inefficient
+ 148	     4	77.7	133.1	2076	inefficient
+ 149	     4	75.2	123.9	2368	inefficient
+ 150	     4	77.0	130.7	2110	inefficient
+ 151	     4	74.3	119.9	2459	inefficient
+ 152	     4	75.8	131.4	1991	inefficient
+ 153	     4	76.8	130.0	2068	inefficient
+ 154	     4	77.5	138.3	1819	inefficient
+ 155	     4	76.8	131.8	2000	inefficient
+ 156	     4	73.9	114.6	2581	inefficient
+ 157	 80000	78.2	138.6	1811	very high noise
+ 158	     4	77.7	141.1	1794	inefficient
+ 159	     4	76.6	125.7	2258	inefficient
+ 160	     4	78.0	132.4	2001	inefficient
+ 161	     4	81.9	143.2	1753	inefficient
+ 162	     4	76.6	130.2	2070	inefficient
+ 163	     4	70.3	81.4	2951	inefficient
+ 164	     4	77.3	135.3	1906	inefficient
+ 165	     4	76.2	136.3	1883	inefficient
+ 166	     4	77.3	130.0	2060	inefficient
+ 167	     4	76.3	128.6	2113	inefficient
+ 168	     0	78.3	167.0	1645	OK
+ 169	     4	73.7	112.0	2676	inefficient
+ 170	     4	76.8	131.5	1970	inefficient
+ 171	     0	77.6	163.6	1623	OK
+ 172	     4	77.1	136.9	1801	inefficient
+ 173	     4	78.6	138.5	1802	inefficient
+ 174	     4	74.4	124.7	2281	inefficient
+ 175	     4	78.6	148.2	1808	inefficient
+ 176	     4	73.1	104.2	2929	inefficient
+ 177	     4	78.9	134.6	2067	inefficient
+ 178	     4	74.0	112.2	2752	inefficient
+ 179	     4	74.8	114.4	2752	inefficient
+ 180	     4	77.7	142.8	1680	inefficient
+ 181	     4	77.1	137.6	1749	inefficient
+ 182	     4	76.6	132.6	1911	inefficient
+ 183	     4	74.6	129.9	1977	inefficient
+ 184	     4	77.8	132.2	1919	inefficient
+ 185	     4	76.7	134.5	1854	inefficient
+ 186	     4	76.1	128.1	2098	inefficient
+ 187	     4	73.8	106.1	2748	inefficient
+ 188	     4	77.4	135.3	1894	inefficient
+ 189	     4	80.6	145.0	1695	inefficient
+ 190	     4	74.3	127.0	2089	inefficient
+ 191	     4	76.0	138.1	1798	inefficient
+ 192	     4	75.5	127.9	2104	inefficient
+ 193	     4	75.9	124.0	2302	inefficient
+ 194	     4	74.5	117.9	2501	inefficient
+ 195	     4	76.3	126.7	2201	inefficient
+ 196	     4	74.8	127.4	2200	inefficient
+ 197	     4	74.2	116.8	2549	inefficient
+ 198	     0	77.4	157.7	1690	OK
+ 199	     4	75.5	122.3	2379	inefficient
+ 200	     4	75.3	133.0	1931	inefficient
+ 201	     4	77.0	124.8	2374	inefficient
+ 202	     4	74.7	131.3	2049	inefficient
+ 203	     4	78.0	137.7	1900	inefficient
+ 204	     4	76.7	132.9	1993	inefficient
+ 205	     4	76.8	127.6	2184	inefficient
+ 206	     4	72.9	111.9	2681	inefficient
+ 207	     4	69.3	83.9	2987	inefficient
+ 208	     4	75.7	135.7	1926	inefficient
+ 209	     4	70.7	99.8	2937	inefficient
+ 210	     4	72.1	96.6	2985	inefficient
+ 211	     4	72.4	107.1	2851	inefficient
+ 212	     4	75.3	135.2	1990	inefficient
+ 213	     4	75.4	136.8	1869	inefficient
+ 214	     4	74.9	129.0	2223	inefficient
+ 215	     4	68.5	81.7	3223	inefficient
+ 216	     4	73.1	120.2	2840	inefficient
+ 217	     4	71.7	99.7	3114	inefficient
+ 218	     4	72.0	103.2	3078	inefficient
+ 219	     4	74.3	122.4	2688	inefficient
+ 220	     4	76.8	128.2	2443	inefficient
+ 221	     4	74.0	122.2	2531	inefficient
+ 222	     4	74.3	123.7	2503	inefficient
+ 223	     4	74.6	124.9	2434	inefficient
+ 224	 80000	76.9	149.8	1850	very high noise
+ 225	     4	75.0	127.3	2371	inefficient
+ 226	     4	75.7	128.8	2240	inefficient
+ 227	     4	75.4	137.5	2017	inefficient
+ 228	     4	70.9	101.7	2977	inefficient
+ 229	     4	75.1	128.1	2351	inefficient
+ 230	     4	73.6	107.1	2886	inefficient
+ 231	     4	75.6	128.2	2317	inefficient
+ 232	     4	76.4	137.7	2021	inefficient
+ 233	     4	74.1	120.8	2563	inefficient
+ 234	     4	66.9	73.5	3099	inefficient
+ 235	     4	73.5	114.1	2758	inefficient
+ 236	     4	72.6	105.9	2942	inefficient
+ 237	     4	77.1	130.9	2213	inefficient
+ 238	     4	76.0	133.2	2116	inefficient
+ 239	     4	73.7	123.0	2528	inefficient
+ 240	     4	75.1	129.6	2258	inefficient
+ 241	     4	72.2	116.0	2709	inefficient
+ 242	     4	70.2	99.7	3064	inefficient
+ 243	 80000	74.1	164.4	1755	very high noise
+ 244	     4	74.7	129.0	2262	inefficient
+ 245	     4	76.1	130.3	2261	inefficient
+ 246	     4	76.6	127.5	2367	inefficient
+ 247	     4	75.1	118.4	2675	inefficient
+ 248	     4	73.6	118.7	2683	inefficient
+ 249	     4	75.9	125.8	2454	inefficient
+ 250	     4	75.7	133.6	2133	inefficient
+ 251	     4	76.7	134.2	2061	inefficient
+ 252	     4	75.3	133.7	2132	inefficient
+ 253	     4	72.5	105.6	2905	inefficient
+ 254	     4	79.0	137.7	2034	inefficient
+ 255	     4	75.3	125.7	2449	inefficient
+ 256	     4	76.4	136.4	2031	inefficient
+ 257	     4	76.5	122.1	2528	inefficient
+ 258	     4	80.6	132.4	2184	inefficient
+ 259	     4	81.6	141.9	1939	inefficient
+ 260	     4	77.8	130.8	2150	inefficient
+ 261	     4	82.7	144.6	1885	inefficient
+ 262	     4	80.8	138.9	1957	inefficient
+ 263	     4	79.8	137.0	2062	inefficient
+ 264	     4	80.2	130.2	2281	inefficient
+ 265	     4	79.8	130.6	2311	inefficient
+ 266	     4	81.3	138.4	2111	inefficient
+ 267	     4	80.2	140.2	1995	inefficient
+ 268	     4	79.1	137.0	2087	inefficient
+ 269	     4	80.2	143.3	1949	inefficient
+ 270	     4	81.4	142.8	2008	inefficient
+ 271	     4	80.3	137.5	1998	inefficient
+ 272	     4	81.9	141.4	1969	inefficient
+ 273	     4	79.9	117.7	2743	inefficient
+ 274	     4	77.5	117.7	2708	inefficient
+ 275	     4	77.8	131.3	2211	inefficient
+ 276	     4	78.0	134.0	2096	inefficient
+ 277	 80000	83.1	170.7	1743	very high noise
+ 278	     4	74.3	101.8	2903	inefficient
+ 279	     4	78.2	129.5	2320	inefficient
+ 280	     4	79.4	132.4	2238	inefficient
+ 281	     4	77.1	110.6	2800	inefficient
+ 282	     4	80.7	141.2	1957	inefficient
+ 283	     4	78.7	124.6	2439	inefficient
+ 284	 80000	80.4	143.0	1871	very high noise
+ 285	     4	80.3	138.9	1941	inefficient
+ 286	     4	79.0	133.4	2163	inefficient
+ 287	     4	81.8	142.9	1936	inefficient
+ 288	     4	81.0	137.8	1999	inefficient
+ 289	     4	79.4	128.2	2331	inefficient
+ 290	     4	79.9	132.1	2173	inefficient
+ 291	     4	82.2	140.4	1973	inefficient
+ 292	     4	77.8	135.8	2059	inefficient
+ 293	     4	81.4	134.3	2108	inefficient
+ 294	     4	79.2	142.0	1910	inefficient
+ 295	     4	81.2	137.1	2013	inefficient
+ 296	     0	81.7	163.0	1690	OK
+ 297	     4	78.4	134.2	2093	inefficient
+ 298	 80000	81.1	153.2	1764	very high noise
+ 299	     4	82.5	160.4	1762	inefficient
+ 300	     4	79.5	137.9	1973	inefficient
+ 301	     4	78.0	125.2	2387	inefficient
+ 302	     4	84.2	147.3	1848	inefficient
+ 303	     4	77.5	112.7	2717	inefficient
+ 304	     4	81.0	133.5	2073	inefficient
+ 305	     4	80.4	136.6	1987	inefficient
+ 306	     4	78.1	127.5	2296	inefficient
+ 307	     4	79.3	120.7	2495	inefficient
+ 308	     4	80.9	153.9	1783	inefficient
+ 309	     4	80.4	142.1	1869	inefficient
+ 310	     4	79.6	135.4	2016	inefficient
+ 311	     4	78.8	127.1	2242	inefficient
+ 312	     4	81.1	143.3	1875	inefficient
+ 313	     4	79.2	131.6	2076	inefficient
+ 314	     4	81.3	137.2	1946	inefficient
+ 315	     4	75.8	110.2	2817	inefficient
+ 316	     4	79.6	133.5	2077	inefficient
+ 317	     4	80.3	144.0	1861	inefficient
+ 318	     4	79.0	122.5	2467	inefficient
+ 319	     4	80.1	137.3	2003	inefficient
+ 320	     4	83.4	138.6	1944	inefficient
+ 321	     4	81.0	141.6	1838	inefficient
+ 322	     4	80.5	126.8	2293	inefficient
+ 323	     4	83.0	137.6	1958	inefficient
+ 324	     4	78.6	136.8	1922	inefficient
+ 325	     4	81.6	133.7	2061	inefficient
+ 326	     4	76.7	120.6	2447	inefficient
+ 327	     4	80.4	136.1	1974	inefficient
+ 328	     4	82.2	139.7	1971	inefficient
+ 329	     4	81.0	141.5	1854	inefficient
+ 330	     4	81.4	147.7	1784	inefficient
+ 331	     4	79.2	134.8	2030	inefficient
+ 332	     4	78.8	130.8	2158	inefficient
+ 333	     4	80.5	132.9	2192	inefficient
+ 334	     4	79.3	137.4	2024	inefficient
+ 335	     4	83.7	143.9	1895	inefficient
+ 336	     4	80.6	131.3	2112	inefficient
+ 337	     4	80.6	133.3	2120	inefficient
+ 338	     4	79.6	141.9	1865	inefficient
+ 339	     4	78.5	137.7	1947	inefficient
+ 340	     4	82.2	137.9	2013	inefficient
+ 341	     4	80.5	138.8	1998	inefficient
+ 342	     4	80.6	131.3	2188	inefficient
+ 343	     4	79.8	131.1	2216	inefficient
+ 344	     4	79.1	136.2	2028	inefficient
+ 345	     4	81.4	144.9	1908	inefficient
+ 346	     4	80.2	132.9	2148	inefficient
+ 347	     4	80.5	144.6	1944	inefficient
+ 348	     4	82.0	142.5	1955	inefficient
+ 349	     4	81.5	140.8	1965	inefficient
+ 350	     4	78.8	116.3	2670	inefficient
+ 351	     4	80.4	115.5	2757	inefficient
+ 352	     4	82.9	145.2	1945	inefficient
+ 353	     4	79.8	123.7	2433	inefficient
+ 354	     4	83.0	138.6	1968	inefficient
+ 355	     4	81.2	140.1	1954	inefficient
+ 356	     4	80.9	123.9	2419	inefficient
+ 357	     4	79.9	129.0	2272	inefficient
+ 358	     4	80.8	133.1	2184	inefficient
+ 359	     4	80.1	123.0	2483	inefficient
+ 360	 80000	81.6	150.1	1806	very high noise
+ 361	     4	79.8	142.8	1881	inefficient
+ 362	     4	82.1	129.2	2356	inefficient
+ 363	     4	79.6	134.5	2097	inefficient
+ 364	     4	78.7	124.2	2522	inefficient
+ 365	     4	78.3	133.2	2151	inefficient
+ 366	     4	81.8	131.8	2250	inefficient
+ 367	     4	81.5	141.1	1956	inefficient
+ 368	     4	79.4	126.8	2311	inefficient
+ 369	     4	81.7	142.7	1928	inefficient
+ 370	     4	77.6	113.6	2744	inefficient
+ 371	     4	77.8	130.0	2260	inefficient
+ 372	     4	77.2	112.2	2754	inefficient
+ 373	     4	81.1	140.7	1978	inefficient
+ 374	     4	77.3	127.6	2334	inefficient
+ 375	     4	81.5	139.0	2016	inefficient
+ 376	     4	81.0	118.5	2656	inefficient
+ 377	     4	80.2	128.1	2380	inefficient
+ 378	     4	81.5	141.4	1982	inefficient
+ 379	     4	82.8	141.5	1998	inefficient
+ 380	     4	80.1	136.2	2187	inefficient
+ 381	     4	81.1	133.4	2413	inefficient
+ 382	     4	80.2	141.7	2176	inefficient
+ 383	     4	75.9	99.9	3116	inefficient
+ 384	     4	76.3	122.1	2780	inefficient
+ 385	     4	74.3	125.2	2772	inefficient
+ 386	     4	76.5	119.8	3096	inefficient
+ 387	     4	75.4	115.6	3046	inefficient
+ 388	     4	76.2	132.2	2492	inefficient
+ 389	     4	77.3	111.1	2984	inefficient
+ 390	     4	76.2	137.3	2241	inefficient
+ 391	     4	74.5	122.8	2665	inefficient
+ 392	     4	78.0	137.9	2228	inefficient
+ 393	     4	76.1	126.5	2616	inefficient
+ 394	     4	74.6	123.0	2695	inefficient
+ 395	     4	79.0	124.9	2659	inefficient
+ 396	     4	73.7	110.8	2932	inefficient
+ 397	     4	76.3	132.0	2422	inefficient
+ 398	     4	77.6	132.5	2352	inefficient
+ 399	     4	74.9	118.2	2828	inefficient
+ 400	     4	76.1	118.9	2789	inefficient
+ 401	     4	77.3	127.7	2527	inefficient
+ 402	     4	75.1	118.2	2807	inefficient
+ 403	     4	77.5	135.3	2241	inefficient
+ 404	     4	77.6	127.6	2537	inefficient
+ 405	     4	73.9	126.3	2513	inefficient
+ 406	     4	75.2	128.7	2506	inefficient
+ 407	     4	76.6	139.8	2159	inefficient
+ 408	     4	76.3	129.0	2451	inefficient
+ 409	     4	75.2	124.7	2607	inefficient
+ 410	     4	78.2	128.5	2457	inefficient
+ 411	     4	78.3	133.3	2320	inefficient
+ 412	     4	76.4	116.7	2858	inefficient
+ 413	     4	75.7	119.0	2764	inefficient
+ 414	     4	72.0	103.8	2986	inefficient
+ 415	     4	75.0	126.3	2557	inefficient
+ 416	     4	72.7	108.3	2942	inefficient
+ 417	     4	75.5	123.3	2548	inefficient
+ 418	     4	77.4	126.5	2473	inefficient
+ 419	     4	78.6	131.0	2320	inefficient
+ 420	     4	75.0	129.3	2383	inefficient
+ 421	     4	75.2	121.8	2579	inefficient
+ 422	     4	78.1	129.0	2346	inefficient
+ 423	 80000	79.0	157.0	1834	very high noise
+ 424	     4	75.3	125.2	2478	inefficient
+ 425	     4	74.1	122.9	2531	inefficient
+ 426	     4	76.8	122.9	2624	inefficient
+ 427	     4	74.7	117.4	2949	inefficient
+ 428	     4	77.2	121.5	2921	inefficient
+ 429	     4	74.2	117.1	2987	inefficient
+ 430	     4	74.4	102.9	3201	inefficient
+ 431	     4	77.4	142.3	2171	inefficient
+ 432	     4	75.9	132.0	2379	inefficient
+ 433	     4	78.4	130.1	2338	inefficient
+ 434	     4	75.7	106.0	2946	inefficient
+ 435	     4	74.4	107.6	2893	inefficient
+ 436	     4	76.1	134.2	2205	inefficient
+ 437	     4	76.2	123.5	2467	inefficient
+ 438	     4	77.6	141.4	1960	inefficient
+ 439	     4	79.2	134.3	2134	inefficient
+ 440	     4	78.4	113.5	2765	inefficient
+ 441	     4	74.0	113.6	2808	inefficient
+ 442	     4	77.2	127.5	2377	inefficient
+ 443	     4	74.6	124.3	2503	inefficient
+ 444	     4	80.2	139.7	2015	inefficient
+ 445	     4	75.9	127.1	2326	inefficient
+ 446	     4	79.7	123.1	2541	inefficient
+ 447	     4	75.5	134.0	2152	inefficient
+ 448	 80000	77.8	151.1	1829	very high noise
+ 449	     4	76.4	132.2	2245	inefficient
+ 450	     4	76.6	136.2	2039	inefficient
+ 451	     4	74.5	121.8	2549	inefficient
+ 452	     4	74.9	137.8	1952	inefficient
+ 453	     4	75.5	135.3	2043	inefficient
+ 454	     4	81.2	142.6	1944	inefficient
+ 455	     4	74.7	130.4	2253	inefficient
+ 456	     4	76.9	133.1	2140	inefficient
+ 457	     4	74.0	102.9	2929	inefficient
+ 458	     4	79.8	136.9	2031	inefficient
+ 459	     4	76.9	134.1	2132	inefficient
+ 460	     4	76.0	129.4	2276	inefficient
+ 461	     4	76.5	134.6	2029	inefficient
+ 462	     4	78.2	135.9	2061	inefficient
+ 463	     4	78.3	139.9	1988	inefficient
+ 464	     4	76.9	133.4	2131	inefficient
+ 465	     4	76.1	133.9	2128	inefficient
+ 466	     4	75.4	120.0	2594	inefficient
+ 467	     4	76.2	129.9	2229	inefficient
+ 468	     4	74.7	112.7	2777	inefficient
+ 469	     4	78.3	142.0	1894	inefficient
+ 470	     4	73.1	112.0	2793	inefficient
+ 471	     4	75.5	126.5	2341	inefficient
+ 472	 80000	77.4	151.1	1799	very high noise
+ 473	     4	76.5	131.5	2189	inefficient
+ 474	     4	74.5	126.7	2290	inefficient
+ 475	     4	77.4	133.0	2171	inefficient
+ 476	     4	75.9	132.1	2231	inefficient
+ 477	     4	75.1	127.9	2314	inefficient
+ 478	     4	71.1	85.3	3039	inefficient
+ 479	     4	76.3	131.4	2256	inefficient
+ 480	     4	73.3	111.7	2865	inefficient
+ 481	     4	77.6	129.0	2295	inefficient
+ 482	     4	75.3	125.0	2410	inefficient
+ 483	     4	77.9	136.6	2053	inefficient
+ 484	     4	78.8	144.5	1907	inefficient
+ 485	     4	74.0	120.7	2557	inefficient
+ 486	     4	75.4	129.1	2264	inefficient
+ 487	     4	77.5	135.8	2111	inefficient
+ 488	     4	77.4	135.6	2081	inefficient
+ 489	     4	78.3	137.0	2032	inefficient
+ 490	     4	77.0	138.0	1992	inefficient
+ 491	     4	77.5	136.2	2093	inefficient
+ 492	     4	76.4	133.0	2194	inefficient
+ 493	     4	74.9	121.8	2575	inefficient
+ 494	     4	78.0	132.4	2212	inefficient
+ 495	     4	78.3	133.1	2175	inefficient
+ 496	     4	75.5	123.9	2437	inefficient
+ 497	     4	78.4	135.6	2092	inefficient
+ 498	     4	77.6	137.2	2042	inefficient
+ 499	     4	78.6	138.1	2005	inefficient
+ 500	     4	78.5	142.0	1916	inefficient
+ 501	     4	78.6	134.6	2041	inefficient
+ 502	     4	71.3	100.2	2984	inefficient
+ 503	     4	75.2	128.5	2264	inefficient
+ 504	     4	72.0	110.0	2810	inefficient
+ 505	     4	68.1	79.0	3079	inefficient
+ 506	     4	78.4	140.9	1916	inefficient
+ 507	     4	75.8	129.2	2225	inefficient
+ 508	     4	76.0	128.8	2220	inefficient
+ 509	     4	77.2	126.8	2365	inefficient
+ 510	     4	76.3	134.9	2022	inefficient
+ 511	     4	77.2	134.3	2030	inefficient
+ 512	     0	81.8	162.9	1651	OK
+ 513	     4	77.4	136.4	1880	inefficient
+ 514	     4	78.4	133.0	1936	inefficient
+ 515	     4	80.2	126.1	2229	inefficient
+ 516	     4	80.3	143.0	1754	inefficient
+ 517	     4	78.3	136.0	1842	inefficient
+ 518	     4	81.8	141.1	1743	inefficient
+ 519	     4	78.8	135.6	1861	inefficient
+ 520	     4	81.4	139.7	1804	inefficient
+ 521	     4	78.2	118.1	2471	inefficient
+ 522	     4	74.6	106.8	2707	inefficient
+ 523	     4	80.4	147.4	1712	inefficient
+ 524	     4	81.1	140.2	1798	inefficient
+ 525	     4	79.0	132.7	1935	inefficient
+ 526	     4	80.8	142.0	1794	inefficient
+ 527	     4	77.0	107.8	2742	inefficient
+ 528	     4	81.8	141.5	1785	inefficient
+ 529	 80000	81.1	143.3	1704	very high noise
+ 530	     4	77.2	130.8	1994	inefficient
+ 531	     4	77.8	134.4	1846	inefficient
+ 532	     4	80.7	146.3	1718	inefficient
+ 533	     4	77.9	129.8	2047	inefficient
+ 534	     0	81.5	152.6	1627	OK
+ 535	     4	78.1	133.9	1849	inefficient
+ 536	     0	80.4	171.8	1584	OK
+ 537	     4	71.3	85.2	2829	inefficient
+ 538	     4	78.3	133.7	1912	inefficient
+ 539	     4	80.8	146.0	1674	inefficient
+ 540	     4	79.6	137.2	1756	inefficient
+ 541	     4	81.4	127.6	2114	inefficient
+ 542	 80000	77.0	135.6	1797	very high noise
+ 543	     4	75.3	91.8	2803	inefficient
+ 544	     4	76.3	118.3	2468	inefficient
+ 545	     0	78.7	144.8	1661	OK
+ 546	     4	82.8	144.5	1694	inefficient
+ 547	     4	79.8	137.2	1766	inefficient
+ 548	     0	79.4	149.3	1644	OK
+ 549	 80000	78.5	139.6	1728	very high noise
+ 550	     4	78.8	133.6	1891	inefficient
+ 551	     4	79.7	139.3	1791	inefficient
+ 552	     4	79.1	134.3	1915	inefficient
+ 553	     4	76.4	127.4	2147	inefficient
+ 554	 80000	79.3	142.7	1771	very high noise
+ 555	 80000	79.7	141.2	1766	very high noise
+ 556	     4	79.3	124.5	2303	inefficient
+ 557	     4	76.8	113.2	2570	inefficient
+ 558	     4	77.8	129.0	2128	inefficient
+ 559	 80000	79.7	143.3	1777	very high noise
+ 560	 80000	81.2	138.5	1892	very high noise
+ 561	     4	77.6	131.6	2037	inefficient
+ 562	     4	79.4	130.2	2103	inefficient
+ 563	     4	80.8	136.8	1969	inefficient
+ 564	 80000	80.8	143.9	1808	very high noise
+ 565	     4	77.0	136.0	1911	inefficient
+ 566	     4	79.5	120.5	2479	inefficient
+ 567	     4	84.9	150.3	1739	inefficient
+ 568	     4	78.9	136.9	1893	inefficient
+ 569	     4	78.4	125.7	2330	inefficient
+ 570	     4	78.0	128.5	2094	inefficient
+ 571	     4	79.5	141.0	1786	inefficient
+ 572	     4	79.0	134.2	2028	inefficient
+ 573	     4	80.5	137.6	1966	inefficient
+ 574	 80000	81.9	160.0	1730	very high noise
+ 575	     4	78.8	124.8	2356	inefficient
+ 576	 80000	79.7	144.7	1792	very high noise
+ 577	     4	79.7	138.3	1884	inefficient
+ 578	     4	81.1	145.1	1814	inefficient
+ 579	     4	80.7	139.2	1853	inefficient
+ 580	     4	80.7	141.4	1858	inefficient
+ 581	     4	78.7	117.1	2578	inefficient
+ 582	 80000	81.3	148.7	1799	very high noise
+ 583	 80000	81.3	144.2	1859	very high noise
+ 584	     4	80.9	146.7	1805	inefficient
+ 585	 80000	81.2	159.2	1748	very high noise
+ 586	     4	77.7	136.5	1978	inefficient
+ 587	     4	78.7	136.4	1957	inefficient
+ 588	     4	77.1	137.7	1979	inefficient
+ 589	     4	80.3	142.2	1914	inefficient
+ 590	     4	80.1	130.9	2224	inefficient
+ 591	     4	77.7	126.3	2374	inefficient
+ 592	     4	75.7	116.9	2654	inefficient
+ 593	     4	81.2	141.5	1857	inefficient
+ 594	     4	80.3	141.9	1847	inefficient
+ 595	     4	83.6	145.0	1854	inefficient
+ 596	     4	80.9	138.9	1944	inefficient
+ 597	     4	79.1	137.1	2002	inefficient
+ 598	     4	79.9	137.6	1968	inefficient
+ 599	     4	82.2	139.9	1931	inefficient
+ 600	     4	77.6	118.4	2603	inefficient
+ 601	     4	79.2	118.0	2705	inefficient
+ 602	     4	83.2	146.6	1819	inefficient
+ 603	     4	80.9	137.1	2007	inefficient
+ 604	     4	80.6	135.9	1993	inefficient
+ 605	     4	79.6	131.3	2165	inefficient
+ 606	     4	75.6	107.9	2886	inefficient
+ 607	     4	80.4	132.8	2110	inefficient
+ 608	     4	80.6	136.9	2020	inefficient
+ 609	     4	80.5	142.4	1912	inefficient
+ 610	     4	81.8	146.5	1818	inefficient
+ 611	     4	78.2	125.6	2439	inefficient
+ 612	     4	79.9	141.1	1964	inefficient
+ 613	     4	81.7	145.5	1848	inefficient
+ 614	     4	78.7	130.1	2236	inefficient
+ 615	     4	80.8	134.6	2120	inefficient
+ 616	     4	79.2	133.0	2173	inefficient
+ 617	     4	82.2	143.7	1883	inefficient
+ 618	     4	79.9	125.6	2471	inefficient
+ 619	     4	82.3	139.8	2034	inefficient
+ 620	     4	81.5	130.5	2384	inefficient
+ 621	     4	78.2	127.3	2467	inefficient
+ 622	     4	78.3	112.6	2945	inefficient
+ 623	     4	82.2	132.5	2314	inefficient
+ 624	     4	82.7	136.5	2102	inefficient
+ 625	     4	79.2	121.4	2687	inefficient
+ 626	     4	82.7	138.4	2079	inefficient
+ 627	     4	80.6	138.6	2101	inefficient
+ 628	     4	83.6	140.7	2026	inefficient
+ 629	     4	75.0	100.2	3229	inefficient
+ 630	     4	81.2	131.3	2317	inefficient
+ 631	     4	80.3	131.8	2300	inefficient
+ 632	     4	77.7	126.6	2500	inefficient
+ 633	     4	80.4	123.2	2668	inefficient
+ 634	     4	80.8	140.2	2057	inefficient
+ 635	     4	77.0	107.1	3149	inefficient
+ 636	     4	80.8	146.7	1938	inefficient
+ 637	     4	79.3	125.0	2663	inefficient
+ 638	     4	83.9	147.0	1994	inefficient
+ 639	     4	81.9	142.4	2104	inefficient
+ 640	     4	81.6	137.4	2253	inefficient
+ 641	     4	84.7	148.4	1974	inefficient
+ 642	     4	81.9	142.9	2096	inefficient
+ 643	     4	85.3	147.5	2037	inefficient
+ 644	     4	81.3	136.8	2348	inefficient
+ 645	     4	83.3	153.9	2004	inefficient
+ 646	     4	80.6	123.5	2809	inefficient
+ 647	     4	83.4	125.8	2781	inefficient
+ 648	     4	82.1	142.2	2170	inefficient
+ 649	     4	80.2	133.4	2464	inefficient
+ 650	     4	80.6	144.2	2169	inefficient
+ 651	     4	79.8	126.4	2814	inefficient
+ 652	     4	80.3	143.7	2152	inefficient
+ 653	     4	79.0	122.1	2918	inefficient
+ 654	     4	78.5	116.8	3074	inefficient
+ 655	     4	80.8	134.4	2482	inefficient
+ 656	     4	79.9	138.2	2318	inefficient
+ 657	     4	80.8	134.4	2467	inefficient
+ 658	     4	80.9	135.9	2408	inefficient
+ 659	     4	80.0	140.8	2282	inefficient
+ 660	     4	79.2	130.9	2580	inefficient
+ 661	     4	81.9	139.9	2379	inefficient
+ 662	     4	80.6	130.1	2607	inefficient
+ 663	     4	81.8	160.1	2059	inefficient
+ 664	     4	77.9	131.7	2582	inefficient
+ 665	     4	80.8	142.8	2253	inefficient
+ 666	     4	82.8	142.8	2331	inefficient
+ 667	     4	76.5	101.7	3392	inefficient
+ 668	     4	79.9	138.2	2377	inefficient
+ 669	     4	78.0	122.0	2974	inefficient
+ 670	     4	79.0	137.3	2443	inefficient
+ 671	     4	81.0	142.2	2298	inefficient
+ 672	     4	81.3	167.8	2050	inefficient
+ 673	     4	80.6	135.1	2616	inefficient
+ 674	     4	79.9	131.6	2683	inefficient
+ 675	     4	78.2	122.7	2995	inefficient
+ 676	     4	77.7	122.9	2984	inefficient
+ 677	     4	79.2	131.9	2632	inefficient
+ 678	     4	81.3	144.8	2295	inefficient
+ 679	     4	76.3	113.6	3247	inefficient
+ 680	     4	80.3	122.4	3071	inefficient
+ 681	     4	77.8	115.9	3192	inefficient
+ 682	     4	80.4	139.8	2433	inefficient
+ 683	     4	82.6	151.1	2276	inefficient
+ 684	     4	80.6	132.4	2764	inefficient
+ 685	     4	80.5	123.5	3043	inefficient
+ 686	     4	80.5	149.7	2213	inefficient
+ 687	     4	80.7	129.1	2793	inefficient
+ 688	     4	79.2	133.3	2723	inefficient
+ 689	     4	79.2	133.7	2767	inefficient
+ 690	     4	81.6	150.7	2287	inefficient
+ 691	     4	80.5	131.6	2811	inefficient
+ 692	     4	79.8	121.2	3068	inefficient
+ 693	     4	79.3	127.9	2906	inefficient
+ 694	     4	78.9	113.4	3306	inefficient
+ 695	     4	83.3	151.6	2326	inefficient
+ 696	     4	78.7	117.3	3243	inefficient
+ 697	     4	78.3	120.2	3130	inefficient
+ 698	     4	77.5	117.7	3171	inefficient
+ 699	     4	80.4	144.7	2414	inefficient
+ 700	     4	78.8	119.2	3193	inefficient
+ 701	 80000	77.7	180.0	2127	very high noise
+ 702	     4	78.6	123.4	3047	inefficient
+ 703	     4	78.3	130.6	2860	inefficient
+ 704	     4	78.9	135.0	2712	inefficient
+ 705	     4	75.4	102.1	3482	inefficient
+ 706	     4	78.8	128.2	3024	inefficient
+ 707	     4	76.0	124.2	3068	inefficient
+ 708	     4	77.3	110.4	3369	inefficient
+ 709	     4	81.6	164.2	2195	inefficient
+ 710	     4	79.4	148.6	2310	inefficient
+ 711	     4	77.4	111.9	3351	inefficient
+ 712	     4	78.6	132.6	2797	inefficient
+ 713	     4	78.3	133.9	2753	inefficient
+ 714	     4	78.7	123.2	3222	inefficient
+ 715	     4	77.7	116.8	3206	inefficient
+ 716	     4	80.1	143.3	2539	inefficient
+ 717	     4	76.6	123.6	3048	inefficient
+ 718	     4	78.4	123.6	3121	inefficient
+ 719	     4	78.5	128.3	2918	inefficient
+ 720	     4	80.1	135.4	2726	inefficient
+ 721	     4	80.3	125.4	3095	inefficient
+ 722	     4	80.2	127.8	2994	inefficient
+ 723	     4	76.6	122.5	3077	inefficient
+ 724	     4	77.5	129.6	2885	inefficient
+ 725	     4	79.5	134.9	2724	inefficient
+ 726	     4	80.9	139.5	2569	inefficient
+ 727	     4	78.9	130.0	2865	inefficient
+ 728	     4	80.7	126.6	3039	inefficient
+ 729	     4	78.3	127.6	2998	inefficient
+ 730	     4	78.4	134.2	2710	inefficient
+ 731	     4	74.5	122.4	3069	inefficient
+ 732	     4	78.6	131.0	2826	inefficient
+ 733	     4	82.3	153.2	2273	inefficient
+ 734	     4	77.8	115.2	3269	inefficient
+ 735	     4	80.6	135.0	2767	inefficient
+ 736	     4	74.2	103.2	3497	inefficient
+ 737	     4	79.3	136.3	2733	inefficient
+ 738	     4	79.1	131.4	2877	inefficient
+ 739	     4	79.7	134.5	2748	inefficient
+ 740	     4	78.1	125.5	3000	inefficient
+ 741	     4	76.8	125.0	3056	inefficient
+ 742	     4	79.8	135.7	2761	inefficient
+ 743	     4	79.6	131.8	2860	inefficient
+ 744	     4	79.8	137.4	2691	inefficient
+ 745	     4	78.1	133.0	2837	inefficient
+ 746	     4	78.6	132.0	2833	inefficient
+ 747	     4	81.0	145.1	2474	inefficient
+ 748	     4	80.5	127.9	3030	inefficient
+ 749	     4	77.1	123.2	3148	inefficient
+ 750	     4	79.9	149.2	2386	inefficient
+ 751	     4	81.3	136.2	2782	inefficient
+ 752	     4	76.2	104.8	3557	inefficient
+ 753	     4	80.6	131.6	2959	inefficient
+ 754	     4	79.0	121.1	3309	inefficient
+ 755	     4	79.2	133.5	2858	inefficient
+ 756	     4	76.3	129.8	3008	inefficient
+ 757	     4	80.3	136.8	2852	inefficient
+ 758	     4	79.4	127.4	3084	inefficient
+ 759	     4	78.5	125.2	3142	inefficient
+ 760	     4	75.3	102.2	3634	inefficient
+ 761	     4	79.6	137.6	2810	inefficient
+ 762	     4	80.2	134.4	2877	inefficient
+ 763	     4	81.0	137.1	2732	inefficient
+ 764	     4	76.5	126.7	3015	inefficient
+ 765	     4	76.4	102.5	3535	inefficient
+ 766	     4	78.7	118.6	3257	inefficient
+ 767	     4	77.9	119.1	3315	inefficient
+ 768	     4	74.8	148.0	2272	inefficient
+ 769	     4	74.2	125.3	2969	inefficient
+ 770	     4	77.1	131.0	2851	inefficient
+ 771	     4	75.6	117.8	3179	inefficient
+ 772	     4	76.6	123.8	3046	inefficient
+ 773	     4	75.0	117.7	3220	inefficient
+ 774	     4	73.6	114.7	3222	inefficient
+ 775	     4	71.5	106.6	3400	inefficient
+ 776	     4	78.8	149.3	2231	inefficient
+ 777	     4	78.7	134.2	2703	inefficient
+ 778	     4	77.2	121.3	3052	inefficient
+ 779	     4	76.7	129.7	2751	inefficient
+ 780	     4	77.7	131.8	2730	inefficient
+ 781	     4	78.0	133.2	2663	inefficient
+ 782	     4	74.3	130.2	2740	inefficient
+ 783	     4	77.0	132.1	2707	inefficient
+ 784	     4	77.2	120.1	3063	inefficient
+ 785	     4	72.9	107.8	3354	inefficient
+ 786	     4	78.5	143.0	2323	inefficient
+ 787	     4	75.1	110.7	3273	inefficient
+ 788	     4	75.8	135.7	2507	inefficient
+ 789	     4	76.9	128.3	2900	inefficient
+ 790	     4	78.2	127.2	2838	inefficient
+ 791	     4	73.5	103.3	3401	inefficient
+ 792	     4	75.8	116.1	3169	inefficient
+ 793	     4	74.4	104.4	3374	inefficient
+ 794	     4	77.5	141.4	2318	inefficient
+ 795	     4	75.9	119.6	3059	inefficient
+ 796	     4	76.4	112.5	3230	inefficient
+ 797	     4	74.3	121.8	3011	inefficient
+ 798	     4	77.8	134.7	2566	inefficient
+ 799	     4	74.9	117.0	3155	inefficient
+ 800	     4	70.8	88.7	3474	inefficient
+ 801	     4	74.1	108.6	3390	inefficient
+ 802	     4	75.4	133.0	2542	inefficient
+ 803	     4	76.8	133.1	2586	inefficient
+ 804	     4	77.1	136.1	2494	inefficient
+ 805	     4	78.3	134.7	2587	inefficient
+ 806	     4	75.2	130.8	2677	inefficient
+ 807	     4	76.0	126.2	2919	inefficient
+ 808	     4	77.7	129.4	2824	inefficient
+ 809	     4	76.2	115.5	3227	inefficient
+ 810	     4	76.1	126.3	3081	inefficient
+ 811	     4	78.2	136.3	2784	inefficient
+ 812	     4	73.7	116.1	3425	inefficient
+ 813	     4	77.0	112.0	3527	inefficient
+ 814	     4	76.2	123.6	3318	inefficient
+ 815	     4	76.0	134.7	2892	inefficient
+ 816	     4	76.4	118.9	3146	inefficient
+ 817	     4	75.8	126.0	2965	inefficient
+ 818	     4	76.9	133.4	2742	inefficient
+ 819	     4	74.5	107.5	3381	inefficient
+ 820	     4	76.6	130.2	2842	inefficient
+ 821	     4	75.1	121.7	3227	inefficient
+ 822	     4	76.7	126.8	2977	inefficient
+ 823	     4	76.5	133.3	2737	inefficient
+ 824	     4	75.2	109.8	3386	inefficient
+ 825	     4	75.9	116.0	3343	inefficient
+ 826	     4	78.1	142.6	2504	inefficient
+ 827	     4	77.0	130.5	2909	inefficient
+ 828	     4	77.8	129.6	3008	inefficient
+ 829	     4	77.3	122.0	3099	inefficient
+ 830	     4	67.7	79.2	3703	inefficient
+ 831	     4	78.4	130.9	2942	inefficient
+ 832	     4	78.4	141.2	2584	inefficient
+ 833	     4	76.8	138.5	2639	inefficient
+ 834	     4	76.0	121.2	3238	inefficient
+ 835	     4	76.3	128.3	2957	inefficient
+ 836	     4	71.3	99.9	3654	inefficient
+ 837	     4	77.7	123.3	3151	inefficient
+ 838	     4	76.1	130.4	2984	inefficient
+ 839	     4	74.5	126.6	3034	inefficient
+ 840	     4	72.6	91.5	3611	inefficient
+ 841	     4	73.8	116.6	3420	inefficient
+ 842	     4	77.4	139.0	2723	inefficient
+ 843	     4	73.2	114.1	3354	inefficient
+ 844	     4	78.5	144.5	2609	inefficient
+ 845	     4	75.2	112.7	3512	inefficient
+ 846	     4	74.5	120.2	3292	inefficient
+ 847	     4	70.5	90.8	3683	inefficient
+ 848	     4	76.9	125.2	3164	inefficient
+ 849	     4	76.2	125.9	3095	inefficient
+ 850	     4	75.0	118.8	3294	inefficient
+ 851	     4	75.5	121.7	3335	inefficient
+ 852	     4	75.0	124.9	3362	inefficient
+ 853	     4	74.1	119.0	3431	inefficient
+ 854	     4	73.1	115.5	3511	inefficient
+ 855	     4	76.5	124.6	3319	inefficient
+ 856	     4	76.6	123.6	3230	inefficient
+ 857	     4	75.7	115.7	3322	inefficient
+ 858	     4	76.9	125.3	3142	inefficient
+ 859	     4	75.3	125.5	3032	inefficient
+ 860	     4	73.9	116.8	3389	inefficient
+ 861	     4	77.0	120.9	3190	inefficient
+ 862	     4	78.2	129.8	2941	inefficient
+ 863	     4	75.9	131.6	2866	inefficient
+ 864	     4	75.3	113.4	3383	inefficient
+ 865	     4	76.5	122.5	3161	inefficient
+ 866	     4	75.0	104.8	3555	inefficient
+ 867	     4	76.2	130.0	2941	inefficient
+ 868	     4	75.4	118.7	3288	inefficient
+ 869	     4	75.5	130.1	2911	inefficient
+ 870	     4	78.4	129.5	2984	inefficient
+ 871	     4	76.8	126.2	3077	inefficient
+ 872	     4	74.8	108.7	3511	inefficient
+ 873	     4	75.0	113.1	3396	inefficient
+ 874	     4	77.0	113.3	3421	inefficient
+ 875	     4	75.8	115.4	3351	inefficient
+ 876	     4	75.9	127.8	2998	inefficient
+ 877	     4	78.4	136.2	2739	inefficient
+ 878	     4	76.1	124.2	3076	inefficient
+ 879	     4	75.2	115.5	3395	inefficient
+ 880	     4	75.9	112.9	3354	inefficient
+ 881	     4	77.3	130.9	2936	inefficient
+ 882	     4	75.9	116.6	3340	inefficient
+ 883	     4	76.2	122.9	3175	inefficient
+ 884	     4	74.2	112.7	3374	inefficient
+ 885	     4	78.8	146.5	2413	inefficient
+ 886	     4	74.7	113.6	3407	inefficient
+ 887	     4	78.3	142.2	2542	inefficient
+ 888	     4	74.1	110.3	3423	inefficient
+ 889	     4	77.1	121.1	3150	inefficient
+ 890	     4	78.9	136.4	2703	inefficient
+ 891	     4	75.4	101.8	3523	inefficient
+ 892	     4	79.3	123.8	3156	inefficient
+ 893	     4	75.9	140.6	2453	inefficient
+ 894	     4	77.9	115.1	3376	inefficient
+ 895	     4	76.1	128.2	2982	inefficient
+ 896	     4	78.8	116.9	3314	inefficient
+ 897	     4	78.5	115.2	3288	inefficient
+ 898	     4	78.5	128.0	2916	inefficient
+ 899	     4	78.7	108.2	3454	inefficient
+ 900	     4	79.8	139.6	2551	inefficient
+ 901	     4	80.2	137.6	2624	inefficient
+ 902	     4	78.8	121.1	3159	inefficient
+ 903	     4	77.7	125.9	2997	inefficient
+ 904	     4	79.3	131.5	2838	inefficient
+ 905	     4	77.3	114.5	3322	inefficient
+ 906	     4	79.3	141.2	2486	inefficient
+ 907	     4	76.4	119.5	3130	inefficient
+ 908	     4	80.0	135.2	2665	inefficient
+ 909	     4	79.7	145.7	2342	inefficient
+ 910	     4	80.0	133.8	2767	inefficient
+ 911	     4	74.6	110.2	3408	inefficient
+ 912	     4	78.3	123.1	3006	inefficient
+ 913	     4	80.9	131.2	2793	inefficient
+ 914	     4	78.4	137.9	2472	inefficient
+ 915	     4	79.1	132.0	2696	inefficient
+ 916	     4	76.5	113.7	3162	inefficient
+ 917	     4	79.9	123.4	2989	inefficient
+ 918	     4	81.4	142.8	2336	inefficient
+ 919	     4	80.1	123.7	2961	inefficient
+ 920	     4	79.1	138.8	2385	inefficient
+ 921	     4	81.4	124.4	2884	inefficient
+ 922	     4	78.7	136.5	2344	inefficient
+ 923	     4	80.7	127.5	2670	inefficient
+ 924	     4	78.9	114.9	3006	inefficient
+ 925	     4	81.3	146.6	2016	inefficient
+ 926	     4	82.1	144.7	2063	inefficient
+ 927	     4	81.6	144.0	2039	inefficient
+ 928	     4	80.7	137.7	2146	inefficient
+ 929	     4	80.5	140.5	2003	inefficient
+ 930	     4	79.6	135.7	2133	inefficient
+ 931	     4	79.9	135.8	2118	inefficient
+ 932	     4	81.7	146.2	1920	inefficient
+ 933	     4	80.3	120.7	2724	inefficient
+ 934	     4	82.4	142.7	1983	inefficient
+ 935	     4	78.9	135.4	2117	inefficient
+ 936	     4	81.9	141.3	2014	inefficient
+ 937	     4	76.7	121.6	2683	inefficient
+ 938	     4	78.9	132.0	2221	inefficient
+ 939	     4	79.4	140.0	2000	inefficient
+ 940	     4	80.2	146.6	1879	inefficient
+ 941	     4	79.2	126.1	2497	inefficient
+ 942	     4	83.1	146.1	1900	inefficient
+ 943	     4	81.3	136.9	2131	inefficient
+ 944	     4	79.3	134.2	2226	inefficient
+ 945	     4	80.4	140.0	2070	inefficient
+ 946	     4	81.1	139.3	2088	inefficient
+ 947	     4	81.4	148.0	1911	inefficient
+ 948	     4	78.4	117.8	2894	inefficient
+ 949	     4	81.3	149.4	1882	inefficient
+ 950	     4	78.9	116.6	2800	inefficient
+ 951	     4	80.1	139.1	2039	inefficient
+ 952	     4	78.8	126.0	2534	inefficient
+ 953	     4	77.8	115.5	2862	inefficient
+ 954	     4	80.8	141.3	1955	inefficient
+ 955	     4	79.6	145.4	1851	inefficient
+ 956	     4	78.0	127.2	2497	inefficient
+ 957	     4	80.4	144.3	1916	inefficient
+ 958	     4	81.1	139.9	2038	inefficient
+ 959	     4	81.9	145.6	1903	inefficient
+ 960	     4	75.2	94.7	3315	inefficient
+ 961	     4	82.1	153.2	1856	inefficient
+ 962	     4	79.1	137.7	2068	inefficient
+ 963	 80000	80.8	172.6	1800	very high noise
+ 964	     4	79.1	134.9	2178	inefficient
+ 965	     4	81.3	147.5	1907	inefficient
+ 966	     4	82.5	145.3	1910	inefficient
+ 967	     4	81.9	147.8	1930	inefficient
+ 968	     4	78.0	125.7	2501	inefficient
+ 969	     4	78.8	128.8	2310	inefficient
+ 970	     4	79.3	140.7	1895	inefficient
+ 971	     4	81.8	145.1	1867	inefficient
+ 972	     4	78.1	141.4	1880	inefficient
+ 973	     4	79.6	133.4	2106	inefficient
+ 974	     4	78.4	121.1	2609	inefficient
+ 975	     4	80.6	136.2	2039	inefficient
+ 976	     4	80.5	141.2	1976	inefficient
+ 977	     4	83.8	147.7	1823	inefficient
+ 978	     4	79.5	137.5	1979	inefficient
+ 979	     4	78.5	132.4	2202	inefficient
+ 980	     4	80.0	127.1	2449	inefficient
+ 981	     4	80.0	142.1	1910	inefficient
+ 982	     4	79.7	130.8	2237	inefficient
+ 983	     4	78.2	132.0	2099	inefficient
+ 984	     4	79.8	124.3	2547	inefficient
+ 985	     4	78.1	132.4	2074	inefficient
+ 986	     4	80.0	142.9	1786	inefficient
+ 987	     4	78.4	142.1	1806	inefficient
+ 988	     4	79.5	136.7	1996	inefficient
+ 989	     4	79.9	145.0	1787	inefficient
+ 990	     4	82.1	143.8	1834	inefficient
+ 991	     4	80.3	129.8	2247	inefficient
+ 992	     4	82.4	141.9	1855	inefficient
+ 993	     4	79.6	143.7	1800	inefficient
+ 994	     4	75.8	96.7	3261	inefficient
+ 995	     4	80.4	144.8	1780	inefficient
+ 996	     4	78.6	136.1	1951	inefficient
+ 997	     4	77.7	133.3	2061	inefficient
+ 998	     4	80.9	144.0	1808	inefficient
+ 999	     4	79.6	141.6	1842	inefficient
+1000	     4	78.5	137.2	1946	inefficient
+1001	     4	80.8	140.3	1861	inefficient
+1002	     4	80.9	138.9	1928	inefficient
+1003	     4	77.9	133.5	2069	inefficient
+1004	     4	81.2	138.6	1941	inefficient
+1005	     4	78.8	121.3	2591	inefficient
+1006	     4	77.5	119.4	2708	inefficient
+1007	     4	75.8	102.7	3033	inefficient
+1008	     4	81.0	145.7	1790	inefficient
+1009	     4	74.7	110.7	2992	inefficient
+1010	     4	80.9	142.8	1823	inefficient
+1011	     4	82.1	140.7	1851	inefficient
+1012	     4	77.9	134.5	1952	inefficient
+1013	     4	81.9	151.3	1719	inefficient
+1014	     4	77.4	128.9	2159	inefficient
+1015	     4	78.5	141.9	1787	inefficient
+1016	     4	76.4	114.4	2779	inefficient
+1017	 80000	79.3	182.4	1706	very high noise
+1018	     4	80.2	152.1	1754	inefficient
+1019	     4	77.6	118.9	2850	inefficient
+1020	     4	77.8	123.1	2891	inefficient
+1021	     4	79.0	124.6	2831	inefficient
+1022	 80000	82.1	182.8	1830	very high noise
+1023	     4	79.1	109.8	2922	inefficient
+1024	     4	78.7	137.9	1850	inefficient
+1025	     4	82.1	144.6	1731	inefficient
+1026	     4	77.5	119.2	2653	inefficient
+1027	     4	79.9	139.8	1843	inefficient
+1028	     4	83.4	145.0	1719	inefficient
+1029	     4	82.1	143.0	1783	inefficient
+1030	     4	82.1	147.2	1694	inefficient
+1031	     4	81.4	145.4	1742	inefficient
+1032	     4	79.5	145.9	1716	inefficient
+1033	     4	76.6	136.3	1869	inefficient
+1034	     4	81.0	131.0	2153	inefficient
+1035	     4	81.4	148.9	1727	inefficient
+1036	     4	76.8	136.2	1884	inefficient
+1037	     4	81.5	139.8	1890	inefficient
+1038	     4	80.1	143.1	1802	inefficient
+1039	     4	80.7	129.5	2298	inefficient
+1040	     4	78.3	126.0	2312	inefficient
+1041	     4	78.9	140.9	1834	inefficient
+1042	     4	77.0	122.2	2744	inefficient
+1043	     4	78.2	127.3	2806	inefficient
+1044	     4	76.7	128.9	2506	inefficient
+1045	     4	77.4	129.5	2398	inefficient
+1046	     4	78.5	140.1	2057	inefficient
+1047	     4	81.0	141.0	2093	inefficient
+1048	     4	79.6	143.7	2033	inefficient
+1049	     4	79.0	128.4	2465	inefficient
+1050	     4	81.4	147.3	1856	inefficient
+1051	     4	80.0	121.3	2790	inefficient
+1052	     4	83.0	142.2	1988	inefficient
+1053	     4	81.0	139.7	2008	inefficient
+1054	     4	78.9	142.8	1911	inefficient
+1055	     4	76.3	122.3	2669	inefficient
+1056	     4	82.2	145.5	1896	inefficient
+1057	     4	76.2	107.1	3035	inefficient
+1058	     4	78.8	136.3	2007	inefficient
+1059	     4	75.4	109.3	2992	inefficient
+1060	     4	79.6	125.8	2513	inefficient
+1061	     4	83.4	140.9	1988	inefficient
+1062	     4	81.0	143.5	1870	inefficient
+1063	     4	82.3	140.3	1935	inefficient
+1064	     4	78.7	140.2	1893	inefficient
+1065	     4	79.1	130.6	2280	inefficient
+1066	     4	79.5	129.4	2339	inefficient
+1067	     4	79.6	147.7	1810	inefficient
+1068	     4	79.9	140.0	1961	inefficient
+1069	     4	80.4	147.9	1791	inefficient
+1070	     4	81.5	144.1	1889	inefficient
+1071	     4	81.0	143.2	1894	inefficient
+1072	     4	78.2	123.5	2572	inefficient
+1073	     4	79.0	139.0	1931	inefficient
+1074	     4	80.4	140.3	1993	inefficient
+1075	     4	74.3	113.2	2956	inefficient
+1076	     4	81.3	137.5	2129	inefficient
+1077	     4	77.0	99.5	3276	inefficient
+1078	     4	79.2	139.3	1963	inefficient
+1079	     4	79.3	132.5	2203	inefficient
+1080	     4	76.0	105.2	3115	inefficient
+1081	     4	79.4	138.2	1888	inefficient
+1082	     4	81.8	143.5	1813	inefficient
+1083	     0	82.4	168.5	1663	OK
+1084	     4	78.9	130.5	2244	inefficient
+1085	     4	78.8	137.9	1879	inefficient
+1086	     4	78.5	115.7	2817	inefficient
+1087	     4	81.7	137.0	2002	inefficient
+1088	     4	79.9	135.8	1994	inefficient
+1089	     4	83.4	148.5	1770	inefficient
+1090	     4	77.8	122.8	2487	inefficient
+1091	     4	76.8	99.2	3132	inefficient
+1092	     4	82.1	153.1	1687	inefficient
+1093	     4	79.2	139.9	1878	inefficient
+1094	     4	81.5	141.3	1841	inefficient
+1095	     4	80.1	138.5	1899	inefficient
+1096	     4	80.1	131.9	2165	inefficient
+1097	     4	85.2	145.4	1802	inefficient
+1098	     4	77.0	133.3	2011	inefficient
+1099	     4	80.5	136.2	1955	inefficient
+1100	     4	85.0	146.9	1753	inefficient
+1101	     0	81.4	175.6	1648	OK
+1102	     4	81.2	142.1	1771	inefficient
+1103	     4	78.8	135.1	1948	inefficient
+1104	     4	79.4	116.7	2678	inefficient
+1105	     4	76.4	127.3	2264	inefficient
+1106	     4	82.9	138.8	1883	inefficient
+1107	     4	79.4	124.7	2451	inefficient
+1108	     4	82.9	145.4	1747	inefficient
+1109	     4	83.3	144.7	1781	inefficient
+1110	     4	81.5	146.9	1726	inefficient
+1111	     4	80.5	113.7	2891	inefficient
+1112	     4	79.0	134.6	1949	inefficient
+1113	     4	77.5	118.4	2639	inefficient
+1114	     4	83.3	144.8	1755	inefficient
+1115	     4	80.7	136.7	1905	inefficient
+1116	     4	81.4	141.8	1813	inefficient
+1117	     4	77.6	101.9	3178	inefficient
+1118	     4	81.9	142.7	1799	inefficient
+1119	     4	82.1	139.1	1880	inefficient
+1120	     4	83.7	138.6	1924	inefficient
+1121	     4	82.9	153.2	1669	inefficient
+1122	     4	82.5	160.9	1628	inefficient
+1123	     4	82.7	145.9	1734	inefficient
+1124	     0	81.6	170.7	1606	OK
+1125	     4	81.1	142.1	1776	inefficient
+1126	     4	80.4	132.0	2003	inefficient
+1127	     4	83.1	145.2	1714	inefficient
+1128	     4	77.1	113.2	2836	inefficient
+1129	     4	81.1	135.5	1985	inefficient
+1130	     4	79.5	137.0	1879	inefficient
+1131	     4	84.8	145.7	1739	inefficient
+1132	     4	83.5	150.5	1692	inefficient
+1133	     4	82.1	146.5	1690	inefficient
+1134	     4	82.7	154.8	1647	inefficient
+1135	     4	83.1	142.2	1775	inefficient
+1136	     4	83.7	145.4	1693	inefficient
+1137	     4	82.0	130.3	2170	inefficient
+1138	     4	81.6	130.5	2085	inefficient
+1139	     4	81.1	136.5	1880	inefficient
+1140	     4	80.6	140.9	1718	inefficient
+1141	     4	79.6	127.8	2179	inefficient
+1142	     4	82.5	132.8	2018	inefficient
+1143	     4	82.4	138.4	1809	inefficient
+1144	     4	84.9	146.9	1717	inefficient
+1145	     4	82.3	133.5	2022	inefficient
+1146	     4	79.2	133.0	2013	inefficient
+1147	     4	83.8	145.6	1673	inefficient
+1148	     4	80.7	136.0	1875	inefficient
+1149	     4	79.5	112.6	2835	inefficient
+1150	     4	84.5	152.2	1651	inefficient
+1151	     4	86.2	153.6	1696	inefficient
+1152	     4	82.3	137.6	1921	inefficient
+1153	     4	82.8	148.3	1747	inefficient
+1154	     4	83.4	139.9	1869	inefficient
+1155	     4	79.3	112.4	2898	inefficient
+1156	     0	83.5	164.9	1645	OK
+1157	     4	81.9	141.2	1813	inefficient
+1158	     4	84.0	146.8	1722	inefficient
+1159	     4	82.4	139.2	1800	inefficient
+1160	     4	82.9	158.3	1659	inefficient
+1161	     4	81.6	140.0	1830	inefficient
+1162	     4	82.1	130.6	2226	inefficient
+1163	     4	76.8	112.9	2829	inefficient
+1164	     4	79.0	109.7	2924	inefficient
+1165	     4	81.9	140.7	1811	inefficient
+1166	     4	81.2	140.9	1787	inefficient
+1167	     4	80.3	140.4	1845	inefficient
+1168	     4	79.2	121.2	2685	inefficient
+1169	     4	81.9	139.2	1858	inefficient
+1170	     4	82.4	145.3	1733	inefficient
+1171	     4	79.7	140.2	1780	inefficient
+1172	     4	85.8	152.3	1701	inefficient
+1173	     4	81.6	122.7	2556	inefficient
+1174	     4	80.1	113.7	2843	inefficient
+1175	     4	80.3	138.2	1862	inefficient
+1176	     4	82.8	145.7	1733	inefficient
+1177	     4	82.5	140.3	1805	inefficient
+1178	     4	81.1	140.4	1797	inefficient
+1179	     4	82.1	139.7	1789	inefficient
+1180	     4	82.2	142.6	1764	inefficient
+1181	     4	82.5	143.7	1692	inefficient
+1182	     4	83.8	149.0	1692	inefficient
+1183	     4	78.4	123.1	2460	inefficient
+1184	     4	79.8	130.3	2128	inefficient
+1185	     4	79.2	137.5	1818	inefficient
+1186	     4	82.0	138.4	1846	inefficient
+1187	     4	81.9	137.6	1881	inefficient
+1188	     4	80.9	126.2	2388	inefficient
+1189	     4	80.8	145.2	1703	inefficient
+1190	     4	81.6	143.0	1774	inefficient
+1191	     4	79.7	143.3	1731	inefficient
+1192	     4	80.8	142.0	1731	inefficient
+1193	     4	80.7	138.6	1810	inefficient
+1194	     4	79.2	136.4	1846	inefficient
+1195	     4	79.4	137.6	1818	inefficient
+1196	     4	79.4	139.3	1802	inefficient
+1197	     4	83.3	140.5	1829	inefficient
+1198	     4	78.1	118.5	2665	inefficient
+1199	     4	82.4	145.1	1750	inefficient
+1200	     4	81.3	146.5	1709	inefficient
+1201	     4	87.2	151.9	1682	inefficient
+1202	     4	81.0	141.8	1791	inefficient
+1203	     4	75.0	107.2	2978	inefficient
+1204	     4	75.7	107.1	2944	inefficient
+1205	     4	82.0	142.4	1760	inefficient
+1206	     4	80.1	131.9	2085	inefficient
+1207	     4	81.1	142.1	1739	inefficient
+1208	     4	79.6	121.7	2466	inefficient
+1209	     4	81.2	144.6	1695	inefficient
+1210	     4	82.2	145.1	1717	inefficient
+1211	     4	78.8	132.0	2077	inefficient
+1212	     4	81.7	142.9	1754	inefficient
+1213	     4	81.7	138.2	1879	inefficient
+1214	     4	82.4	139.3	1812	inefficient
+1215	     4	82.2	135.2	1928	inefficient
+1216	     4	82.1	140.3	1827	inefficient
+1217	     4	81.6	130.2	2150	inefficient
+1218	     4	80.7	142.0	1709	inefficient
+1219	     4	80.7	136.4	1824	inefficient
+1220	     4	80.8	135.3	1855	inefficient
+1221	     4	83.5	142.1	1724	inefficient
+1222	     4	79.6	117.7	2607	inefficient
+1223	     4	81.3	137.3	1792	inefficient
+1224	     4	82.7	135.9	1859	inefficient
+1225	     0	82.0	163.4	1578	OK
+1226	     4	79.1	126.4	2204	inefficient
+1227	     4	79.9	135.3	1810	inefficient
+1228	     4	80.5	134.0	1897	inefficient
+1229	     4	79.4	134.4	1842	inefficient
+1230	     4	81.5	133.5	1932	inefficient
+1231	     4	81.9	144.1	1640	inefficient
+1232	     4	84.0	143.7	1663	inefficient
+1233	     4	84.1	143.2	1658	inefficient
+1234	     4	83.5	145.5	1617	inefficient
+1235	     4	82.1	153.2	1549	inefficient
+1236	     4	82.0	143.1	1618	inefficient
+1237	     0	81.2	158.5	1546	OK
+1238	     0	84.5	164.7	1493	OK
+1239	     4	80.0	139.3	1649	inefficient
+1240	     4	80.8	135.9	1748	inefficient
+1241	     4	81.3	141.5	1641	inefficient
+1242	     4	81.1	135.9	1803	inefficient
+1243	     4	81.5	134.1	1839	inefficient
+1244	     4	80.8	141.3	1621	inefficient
+1245	     4	83.0	147.6	1579	inefficient
+1246	     4	83.5	148.6	1566	inefficient
+1247	     4	82.2	141.9	1632	inefficient
+1248	     4	80.9	138.5	1685	inefficient
+1249	     4	83.4	150.0	1544	inefficient
+1250	     4	79.3	145.1	1538	inefficient
+1251	     4	79.3	133.7	1820	inefficient
+1252	     4	76.8	116.9	2557	inefficient
+1253	     4	80.1	128.1	2036	inefficient
+1254	     4	82.2	144.7	1598	inefficient
+1255	     4	81.2	132.9	1854	inefficient
+1256	     4	79.4	137.1	1742	inefficient
+1257	     4	82.5	140.9	1666	inefficient
+1258	     4	81.2	138.0	1677	inefficient
+1259	     4	79.1	128.0	2064	inefficient
+1260	     4	85.1	146.1	1640	inefficient
+1261	     4	75.8	101.4	3066	inefficient
+1262	     4	80.8	142.0	1639	inefficient
+1263	     4	81.7	138.8	1742	inefficient
+1264	     4	79.5	117.6	2722	inefficient
+1265	     4	83.4	152.1	1666	inefficient
+1266	     4	79.2	123.8	2414	inefficient
+1267	     4	78.4	102.2	3081	inefficient
+1268	     4	81.6	140.1	1815	inefficient
+1269	     4	75.7	98.5	3221	inefficient
+1270	     4	78.0	113.5	2872	inefficient
+1271	     4	82.1	141.2	1850	inefficient
+1272	     4	77.7	116.8	2752	inefficient
+1273	     4	79.9	136.3	2120	inefficient
+1274	     4	74.4	88.8	3348	inefficient
+1275	     4	81.0	140.5	1933	inefficient
+1276	     4	77.8	116.5	2901	inefficient
+1277	     4	76.9	109.2	3189	inefficient
+1278	     4	81.0	132.8	2417	inefficient
+1279	     4	78.3	91.9	3532	inefficient
+1280	     4	75.8	126.6	1788	inefficient
+1281	     4	75.1	127.9	1827	inefficient
+1282	     0	73.9	174.9	1455	OK
+1283	     4	74.0	134.1	1503	inefficient
+1284	     4	72.7	130.8	1568	inefficient
+1285	     4	75.7	136.1	1499	inefficient
+1286	     4	73.4	133.8	1480	inefficient
+1287	     4	73.7	131.6	1576	inefficient
+1288	     4	74.0	135.8	1487	inefficient
+1289	     4	73.5	131.9	1526	inefficient
+1290	     4	74.5	134.6	1495	inefficient
+1291	     4	71.9	123.6	1904	inefficient
+1292	     4	72.1	130.5	1526	inefficient
+1293	     0	73.1	150.2	1397	OK
+1294	     4	73.9	129.9	1625	inefficient
+1295	     4	71.4	128.8	1588	inefficient
+1296	     4	76.4	138.4	1432	inefficient
+1297	     0	77.6	160.4	1378	OK
+1298	     4	71.1	100.7	2657	inefficient
+1299	     4	73.6	133.5	1470	inefficient
+1300	     4	74.5	133.4	1526	inefficient
+1301	     0	76.2	148.8	1382	OK
+1302	     4	72.4	122.8	1963	inefficient
+1303	     4	64.9	68.3	2872	inefficient
+1304	     4	74.4	132.1	1518	inefficient
+1305	     0	77.7	157.2	1386	OK
+1306	     4	73.6	131.5	1528	inefficient
+1307	     4	74.1	132.9	1528	inefficient
+1308	     4	75.2	135.3	1515	inefficient
+1309	     4	76.6	141.1	1419	inefficient
+1310	     0	71.8	129.8	1575	OK
+1311	     4	72.6	131.0	1533	inefficient
+1312	     4	74.2	125.8	1735	inefficient
+1313	     4	74.8	133.0	1528	inefficient
+1314	     4	72.8	128.7	1581	inefficient
+1315	     0	76.1	163.0	1380	OK
+1316	     4	69.2	96.9	2814	inefficient
+1317	     4	74.2	136.1	1466	inefficient
+1318	     4	74.6	132.1	1548	inefficient
+1319	     4	73.8	132.6	1491	inefficient
+1320	     4	74.8	129.7	1601	inefficient
+1321	     4	72.9	125.1	1760	inefficient
+1322	     0	74.9	145.7	1427	OK
+1323	     4	69.7	99.9	2682	inefficient
+1324	     4	74.0	137.1	1471	inefficient
+1325	     0	77.1	152.0	1401	OK
+1326	     4	71.0	106.1	2565	inefficient
+1327	     4	74.5	132.9	1545	inefficient
+1328	     4	71.7	113.9	2326	inefficient
+1329	     4	74.8	133.7	1739	inefficient
+1330	     4	74.0	130.0	2021	inefficient
+1331	     4	75.4	128.6	2115	inefficient
+1332	 80000	73.9	176.7	1720	very high noise
+1333	     4	76.5	137.8	1892	inefficient
+1334	     4	69.6	110.4	2787	inefficient
+1335	     4	73.2	121.9	2372	inefficient
+1336	     4	71.7	125.6	2392	inefficient
+1337	     4	71.0	126.2	2369	inefficient
+1338	     4	74.8	130.8	2212	inefficient
+1339	     4	70.5	113.3	2747	inefficient
+1340	     4	74.8	126.7	2405	inefficient
+1341	     4	74.3	133.1	2181	inefficient
+1342	     4	73.3	127.3	2280	inefficient
+1343	     4	74.8	130.9	2161	inefficient
+1344	     4	76.5	133.0	2075	inefficient
+1345	     4	73.5	125.7	2266	inefficient
+1346	     4	74.8	131.3	1993	inefficient
+1347	     4	76.4	136.9	1841	inefficient
+1348	     4	73.8	130.3	2019	inefficient
+1349	     4	74.7	131.3	1963	inefficient
+1350	     0	74.9	164.4	1603	OK
+1351	     4	75.4	127.8	2012	inefficient
+1352	     0	75.1	156.6	1611	OK
+1353	     4	73.0	133.6	1790	inefficient
+1354	     4	72.8	125.5	2077	inefficient
+1355	     4	73.4	129.4	1913	inefficient
+1356	     4	73.7	127.2	2072	inefficient
+1357	     4	74.5	130.2	1887	inefficient
+1358	     4	73.7	131.7	1830	inefficient
+1359	     4	72.8	126.6	1999	inefficient
+1360	     4	75.5	139.4	1651	inefficient
+1361	     4	74.2	133.5	1701	inefficient
+1362	     4	72.6	126.8	1878	inefficient
+1363	     4	74.1	111.6	2589	inefficient
+1364	     4	75.5	131.4	1852	inefficient
+1365	     4	71.7	117.5	2370	inefficient
+1366	     4	75.3	129.6	1814	inefficient
+1367	     4	74.0	135.8	1635	inefficient
+1368	     4	73.2	128.0	1837	inefficient
+1369	     4	74.9	132.9	1665	inefficient
+1370	     4	72.3	128.5	1768	inefficient
+1371	     4	75.6	128.8	1832	inefficient
+1372	     4	74.8	129.7	1784	inefficient
+1373	     4	74.5	137.7	1575	inefficient
+1374	     4	75.7	131.8	1714	inefficient
+1375	     4	76.0	135.6	1581	inefficient
+1376	     4	74.4	133.0	1621	inefficient
+1377	     4	73.0	126.8	1848	inefficient
+1378	     4	74.3	130.9	1673	inefficient
+1379	     4	73.1	125.9	1951	inefficient
+1380	     4	73.5	125.0	1961	inefficient
+1381	     4	75.6	134.5	1636	inefficient
+1382	     4	71.6	120.0	2122	inefficient
+1383	     4	74.0	137.7	1584	inefficient
+1384	     4	75.0	136.1	1625	inefficient
+1385	     4	72.6	109.5	2529	inefficient
+1386	     4	76.0	135.9	1601	inefficient
+1387	     4	72.7	109.6	2531	inefficient
+1388	     4	75.7	135.9	1699	inefficient
+1389	     4	76.2	137.5	1600	inefficient
+1390	     4	73.4	128.7	1832	inefficient
+1391	     4	75.0	133.0	1723	inefficient
+1392	     4	71.7	121.9	2103	inefficient
+1393	     4	73.1	113.6	2482	inefficient
+1394	     4	74.6	131.8	1798	inefficient
+1395	     4	74.4	132.3	1803	inefficient
+1396	     4	73.8	127.7	1919	inefficient
+1397	     4	71.4	105.3	2709	inefficient
+1398	     4	73.9	126.0	1910	inefficient
+1399	     4	74.9	132.7	1716	inefficient
+1400	     4	75.1	126.2	1954	inefficient
+1401	     4	77.7	136.4	1634	inefficient
+1402	     4	74.9	138.2	1541	inefficient
+1403	     4	76.1	136.5	1595	inefficient
+1404	     4	76.5	124.6	2145	inefficient
+1405	     4	73.9	124.3	2024	inefficient
+1406	     4	75.2	128.7	1834	inefficient
+1407	     4	73.3	127.5	1725	inefficient
+1408	     4	76.6	130.3	1574	inefficient
+1409	     4	72.5	107.6	2439	inefficient
+1410	     4	77.0	127.7	1611	inefficient
+1411	     4	81.0	141.2	1405	inefficient
+1412	     4	75.0	135.7	1484	inefficient
+1413	     4	73.3	128.7	1582	inefficient
+1414	     4	77.1	132.4	1525	inefficient
+1415	     4	74.9	122.9	1826	inefficient
+1416	     4	76.0	136.6	1428	inefficient
+1417	     4	79.6	145.2	1377	inefficient
+1418	     4	74.4	120.0	2001	inefficient
+1419	     4	74.5	130.5	1512	inefficient
+1420	     4	77.4	137.2	1424	inefficient
+1421	     4	71.0	95.9	2701	inefficient
+1422	     4	77.7	141.6	1387	inefficient
+1423	     4	75.3	131.4	1486	inefficient
+1424	     4	78.5	147.0	1391	inefficient
+1425	     0	79.1	146.5	1383	OK
+1426	     4	75.5	119.9	1989	inefficient
+1427	     0	75.9	144.0	1387	OK
+1428	     4	78.2	136.5	1453	inefficient
+1429	     0	79.2	167.9	1359	OK
+1430	     4	79.2	136.4	1477	inefficient
+1431	     4	77.1	131.1	1563	inefficient
+1432	     4	74.2	130.6	1547	inefficient
+1433	     4	77.3	140.0	1382	inefficient
+1434	     4	76.6	137.6	1451	inefficient
+1435	     4	77.7	118.8	2091	inefficient
+1436	     0	79.5	145.3	1399	OK
+1437	     4	77.6	140.7	1420	inefficient
+1438	     4	80.4	146.8	1392	inefficient
+1439	     4	75.7	136.4	1429	inefficient
+1440	     4	75.5	129.5	1594	inefficient
+1441	     4	78.0	138.6	1403	inefficient
+1442	     4	77.0	131.0	1557	inefficient
+1443	     0	79.6	161.7	1365	OK
+1444	     0	78.6	146.3	1381	OK
+1445	     4	76.2	137.2	1437	inefficient
+1446	     4	77.9	135.5	1468	inefficient
+1447	     4	77.2	137.5	1439	inefficient
+1448	     4	72.5	125.7	1727	inefficient
+1449	     4	74.7	119.8	2032	inefficient
+1450	     4	76.7	132.0	1560	inefficient
+1451	     4	75.5	133.4	1477	inefficient
+1452	     4	75.8	132.3	1512	inefficient
+1453	     4	75.8	137.4	1440	inefficient
+1454	     4	77.6	136.8	1445	inefficient
+1455	     4	77.0	137.7	1460	inefficient
+1456	     4	77.2	136.9	1456	inefficient
+1457	     4	77.0	135.9	1495	inefficient
+1458	     4	77.7	135.7	1459	inefficient
+1459	     4	76.5	126.2	1768	inefficient
+1460	     4	74.2	132.5	1493	inefficient
+1461	     4	79.8	137.6	1472	inefficient
+1462	     4	74.2	110.9	2320	inefficient
+1463	     4	76.1	133.8	1507	inefficient
+1464	     4	77.5	140.6	1451	inefficient
+1465	     4	73.4	128.0	1587	inefficient
+1466	     0	77.1	144.5	1421	OK
+1467	     4	76.4	138.0	1443	inefficient
+1468	     0	80.8	168.4	1350	OK
+1469	     4	77.7	138.5	1469	inefficient
+1470	     4	79.3	131.9	1572	inefficient
+1471	     4	76.9	134.1	1441	inefficient
+1472	     4	78.8	142.4	1424	inefficient
+1473	     4	74.8	137.6	1432	inefficient
+1474	     4	78.1	136.8	1464	inefficient
+1475	     4	74.2	127.5	1647	inefficient
+1476	     4	79.1	137.0	1466	inefficient
+1477	     4	77.0	135.5	1475	inefficient
+1478	     4	79.3	137.9	1500	inefficient
+1479	     4	75.4	131.7	1543	inefficient
+1480	     4	76.6	135.7	1460	inefficient
+1481	     0	77.1	157.3	1395	OK
+1482	     4	75.7	139.4	1416	inefficient
+1483	     4	77.7	137.4	1474	inefficient
+1484	     4	73.8	125.5	1749	inefficient
+1485	     4	74.3	96.7	2643	inefficient
+1486	     4	76.3	135.1	1463	inefficient
+1487	     4	77.3	136.8	1453	inefficient
+1488	     4	74.6	123.0	1829	inefficient
+1489	     4	74.1	129.8	1567	inefficient
+1490	     4	76.6	126.0	1792	inefficient
+1491	  4000	75.1	134.5	1490	high noise
+1492	     4	73.8	96.0	2672	inefficient
+1493	     4	77.3	143.6	1408	inefficient
+1494	     4	76.9	134.7	1503	inefficient
+1495	     4	73.6	133.1	1485	inefficient
+1496	     4	75.8	137.5	1414	inefficient
+1497	     4	76.2	136.3	1479	inefficient
+1498	     4	76.2	130.3	1563	inefficient
+1499	     4	77.2	140.1	1408	inefficient
+1500	     4	80.7	134.5	1531	inefficient
+1501	     4	77.0	114.6	2188	inefficient
+1502	     4	75.6	137.3	1445	inefficient
+1503	     4	74.8	139.4	1424	inefficient
+1504	     4	76.8	140.4	1417	inefficient
+1505	     4	72.2	130.8	1483	inefficient
+1506	     4	76.5	137.8	1446	inefficient
+1507	     4	75.7	132.4	1522	inefficient
+1508	     4	76.6	142.4	1390	inefficient
+1509	     4	76.9	142.5	1385	inefficient
+1510	     4	74.9	129.6	1583	inefficient
+1511	     4	76.9	131.0	1552	inefficient
+1512	     4	77.5	140.5	1435	inefficient
+1513	     4	74.0	121.8	1879	inefficient
+1514	     4	77.5	135.5	1446	inefficient
+1515	     4	76.4	130.2	1564	inefficient
+1516	     0	77.3	147.4	1372	OK
+1517	     4	76.2	130.4	1574	inefficient
+1518	     4	74.2	120.2	1984	inefficient
+1519	     4	74.0	129.4	1587	inefficient
+1520	     4	75.6	131.5	1523	inefficient
+1521	     4	75.0	131.1	1481	inefficient
+1522	     4	76.4	139.7	1447	inefficient
+1523	     4	77.4	138.0	1438	inefficient
+1524	     4	75.9	135.8	1464	inefficient
+1525	     0	77.7	175.8	1396	OK
+1526	     4	76.0	130.7	1548	inefficient
+1527	     4	75.3	135.6	1484	inefficient
+1528	     4	75.6	129.9	1545	inefficient
+1529	     4	75.6	135.5	1474	inefficient
+1530	     4	74.7	122.3	1932	inefficient
+1531	     4	74.7	131.6	1521	inefficient
+1532	     4	79.2	143.0	1419	inefficient
+1533	     4	76.5	130.4	1591	inefficient
+1534	     4	78.0	143.7	1404	inefficient
+1535	     4	76.4	135.1	1414	inefficient
+1536	     4	80.7	134.2	1518	inefficient
+1537	     4	81.4	145.0	1376	inefficient
+1538	     4	82.3	148.9	1332	inefficient
+1539	     4	82.1	143.5	1373	inefficient
+1540	     4	81.9	135.3	1442	inefficient
+1541	     4	82.6	136.6	1445	inefficient
+1542	     4	80.6	145.6	1378	inefficient
+1543	     4	82.6	142.4	1371	inefficient
+1544	     4	82.6	149.2	1359	inefficient
+1545	     4	80.5	138.3	1410	inefficient
+1546	     4	82.6	143.5	1390	inefficient
+1547	     4	81.7	139.5	1408	inefficient
+1548	     4	82.0	145.2	1362	inefficient
+1549	     4	81.4	144.9	1372	inefficient
+1550	     0	81.3	182.2	1378	OK
+1551	     4	79.7	141.0	1367	inefficient
+1552	     4	80.0	121.7	1939	inefficient
+1553	     0	81.0	147.7	1339	OK
+1554	     4	81.5	145.0	1374	inefficient
+1555	     4	79.9	141.7	1395	inefficient
+1556	     4	81.7	142.1	1360	inefficient
+1557	     0	82.7	154.4	1359	OK
+1558	     4	79.2	141.7	1371	inefficient
+1559	     4	79.9	135.8	1403	inefficient
+1560	     4	83.7	146.4	1368	inefficient
+1561	     4	83.5	145.9	1372	inefficient
+1562	     4	80.2	140.1	1385	inefficient
+1563	     4	77.4	119.7	1937	inefficient
+1564	     4	75.8	118.2	2063	inefficient
+1565	     4	81.4	145.9	1344	inefficient
+1566	     4	80.0	132.9	1440	inefficient
+1567	     4	81.9	144.6	1361	inefficient
+1568	     4	82.5	147.4	1361	inefficient
+1569	     4	80.0	139.1	1390	inefficient
+1570	     4	79.8	135.8	1444	inefficient
+1571	     4	81.2	148.5	1348	inefficient
+1572	     4	76.1	101.1	2617	inefficient
+1573	     4	80.8	146.2	1337	inefficient
+1574	     0	79.8	144.4	1357	OK
+1575	     4	81.0	139.0	1374	inefficient
+1576	     4	79.9	138.6	1392	inefficient
+1577	     0	81.7	143.6	1366	OK
+1578	     4	83.0	148.6	1360	inefficient
+1579	     4	81.1	138.7	1404	inefficient
+1580	     4	84.6	150.4	1384	inefficient
+1581	     4	83.2	148.3	1356	inefficient
+1582	     4	82.6	141.9	1363	inefficient
+1583	     4	79.6	134.5	1418	inefficient
+1584	     4	79.9	137.1	1401	inefficient
+1585	     4	81.6	139.8	1418	inefficient
+1586	     0	79.6	140.4	1376	OK
+1587	     4	79.6	138.4	1404	inefficient
+1588	     0	83.3	159.9	1321	OK
+1589	     4	82.1	140.1	1419	inefficient
+1590	     4	80.5	141.9	1382	inefficient
+1591	     4	81.9	143.2	1375	inefficient
+1592	     0	82.1	146.0	1367	OK
+1593	     0	83.5	151.2	1338	OK
+1594	     4	81.2	136.5	1439	inefficient
+1595	     4	80.2	140.0	1385	inefficient
+1596	     0	83.0	150.3	1364	OK
+1597	     4	80.7	144.2	1343	inefficient
+1598	     4	83.6	145.9	1374	inefficient
+1599	     0	83.8	150.0	1354	OK
+1600	     0	82.2	144.3	1360	OK
+1601	     4	85.6	150.3	1343	inefficient
+1602	     4	83.3	148.1	1343	inefficient
+1603	     0	84.2	154.0	1329	OK
+1604	     4	84.3	149.3	1336	inefficient
+1605	     4	79.0	137.6	1396	inefficient
+1606	     4	81.0	138.0	1390	inefficient
+1607	     4	81.5	138.6	1376	inefficient
+1608	     4	81.7	145.2	1361	inefficient
+1609	     4	83.1	143.5	1310	inefficient
+1610	     4	81.9	145.5	1333	inefficient
+1611	     0	85.2	149.8	1339	OK
+1612	     4	81.0	140.3	1356	inefficient
+1613	     4	82.4	143.8	1360	inefficient
+1614	     0	84.2	151.8	1334	OK
+1615	     0	83.0	148.5	1322	OK
+1616	     4	82.5	146.5	1348	inefficient
+1617	     4	80.5	142.1	1367	inefficient
+1618	     4	79.3	131.2	1468	inefficient
+1619	     0	83.8	149.3	1312	OK
+1620	     4	79.3	138.0	1367	inefficient
+1621	     4	83.9	145.0	1334	inefficient
+1622	     0	85.3	153.8	1331	OK
+1623	     4	82.3	147.3	1344	inefficient
+1624	     4	83.1	145.4	1353	inefficient
+1625	     0	84.1	158.2	1323	OK
+1626	     0	83.7	153.1	1343	OK
+1627	     4	80.7	139.2	1372	inefficient
+1628	     4	80.3	135.2	1425	inefficient
+1629	     4	82.7	143.1	1354	inefficient
+1630	     0	84.2	154.9	1300	OK
+1631	     4	78.9	140.2	1358	inefficient
+1632	     4	83.8	141.3	1385	inefficient
+1633	     0	82.3	148.7	1320	OK
+1634	     0	81.2	175.3	1341	OK
+1635	     0	81.8	149.1	1321	OK
+1636	     0	85.1	160.4	1330	OK
+1637	     4	82.4	147.1	1335	inefficient
+1638	     4	81.4	145.4	1313	inefficient
+1639	     4	84.5	146.8	1351	inefficient
+1640	     0	82.8	151.6	1314	OK
+1641	     4	84.7	148.6	1320	inefficient
+1642	     0	83.2	151.1	1317	OK
+1643	     0	83.7	147.9	1311	OK
+1644	     4	83.0	144.4	1338	inefficient
+1645	     4	80.8	145.0	1337	inefficient
+1646	     4	81.6	144.0	1352	inefficient
+1647	     0	83.8	151.5	1311	OK
+1648	     4	81.7	145.1	1352	inefficient
+1649	     0	79.1	143.5	1336	OK
+1650	     4	83.6	143.0	1334	inefficient
+1651	     0	83.9	147.8	1344	OK
+1652	     4	78.3	104.8	2333	inefficient
+1653	     0	84.5	150.7	1304	OK
+1654	     0	81.3	146.6	1316	OK
+1655	     4	81.7	141.1	1349	inefficient
+1656	     0	83.5	149.9	1318	OK
+1657	     4	79.2	139.2	1378	inefficient
+1658	     4	80.7	131.3	1494	inefficient
+1659	     4	82.5	145.5	1339	inefficient
+1660	     0	83.2	152.8	1293	OK
+1661	     4	83.6	140.1	1405	inefficient
+1662	     4	83.9	141.4	1381	inefficient
+1663	     4	78.4	125.8	1691	inefficient
+1664	     4	76.3	134.9	1411	inefficient
+1665	     4	77.8	134.4	1456	inefficient
+1666	     4	78.4	136.1	1469	inefficient
+1667	     4	78.2	130.1	1593	inefficient
+1668	     4	78.4	142.4	1412	inefficient
+1669	     4	79.6	144.1	1411	inefficient
+1670	     4	77.0	137.4	1434	inefficient
+1671	     0	77.1	139.3	1409	OK
+1672	     4	78.4	137.0	1469	inefficient
+1673	     4	79.2	136.1	1453	inefficient
+1674	     4	78.5	138.0	1454	inefficient
+1675	     4	77.4	139.2	1429	inefficient
+1676	     4	77.8	138.4	1451	inefficient
+1677	     4	78.9	134.5	1478	inefficient
+1678	     4	73.7	89.3	2627	inefficient
+1679	     4	77.3	132.8	1534	inefficient
+1680	     4	76.6	112.8	2339	inefficient
+1681	     0	78.5	140.8	1403	OK
+1682	     4	79.1	139.8	1453	inefficient
+1683	     4	77.4	136.1	1458	inefficient
+1684	     4	76.9	133.8	1473	inefficient
+1685	     4	73.1	99.5	2637	inefficient
+1686	     4	77.5	134.1	1492	inefficient
+1687	     4	75.9	138.9	1412	inefficient
+1688	     4	79.3	140.6	1410	inefficient
+1689	     4	76.4	136.3	1476	inefficient
+1690	     4	76.4	137.3	1445	inefficient
+1691	     0	79.9	157.7	1389	OK
+1692	     4	79.1	137.8	1445	inefficient
+1693	     4	78.7	135.5	1485	inefficient
+1694	     4	80.1	142.7	1412	inefficient
+1695	     4	77.6	138.1	1446	inefficient
+1696	     4	76.0	133.2	1503	inefficient
+1697	     4	79.7	143.4	1426	inefficient
+1698	     0	81.1	161.3	1370	OK
+1699	     4	78.2	137.3	1451	inefficient
+1700	     0	78.2	152.3	1384	OK
+1701	     0	81.8	176.7	1410	OK
+1702	     4	82.2	152.0	1385	inefficient
+1703	     4	76.4	134.3	1477	inefficient
+1704	     4	77.2	141.9	1428	inefficient
+1705	     4	77.7	133.9	1458	inefficient
+1706	     4	78.1	139.4	1464	inefficient
+1707	     4	77.2	124.8	1845	inefficient
+1708	     4	77.0	137.3	1467	inefficient
+1709	     4	79.0	140.8	1403	inefficient
+1710	     4	81.1	147.9	1394	inefficient
+1711	     4	79.6	145.7	1392	inefficient
+1712	     4	80.6	144.7	1409	inefficient
+1713	     4	77.2	128.8	1618	inefficient
+1714	     4	81.2	144.4	1432	inefficient
+1715	     4	78.2	135.1	1476	inefficient
+1716	     4	74.3	125.4	1784	inefficient
+1717	     4	78.2	139.9	1445	inefficient
+1718	     4	79.9	146.7	1413	inefficient
+1719	     0	81.0	180.9	1413	OK
+1720	     4	76.9	136.5	1471	inefficient
+1721	     4	77.7	135.1	1502	inefficient
+1722	     4	80.1	139.7	1471	inefficient
+1723	     4	78.9	141.7	1408	inefficient
+1724	     4	78.4	146.0	1394	inefficient
+1725	     4	78.4	138.1	1457	inefficient
+1726	     0	77.3	154.9	1389	OK
+1727	     4	79.7	136.0	1499	inefficient
+1728	     4	79.8	145.0	1435	inefficient
+1729	     4	77.5	139.4	1435	inefficient
+1730	     4	74.3	107.7	2465	inefficient
+1731	     4	78.5	142.6	1444	inefficient
+1732	     4	81.4	138.9	1479	inefficient
+1733	     4	77.1	132.0	1567	inefficient
+1734	     4	78.5	138.8	1459	inefficient
+1735	     4	79.7	140.6	1464	inefficient
+1736	     4	77.4	140.9	1448	inefficient
+1737	     4	74.6	132.5	1543	inefficient
+1738	     4	77.3	132.2	1557	inefficient
+1739	     0	79.0	154.5	1435	OK
+1740	     4	77.1	141.8	1411	inefficient
+1741	     4	75.9	136.6	1475	inefficient
+1742	     4	77.4	137.6	1469	inefficient
+1743	     4	75.5	143.5	1434	inefficient
+1744	     4	78.2	142.6	1421	inefficient
+1745	     4	77.5	135.8	1489	inefficient
+1746	     4	75.9	136.3	1474	inefficient
+1747	     4	78.0	140.8	1441	inefficient
+1748	     4	76.6	134.9	1505	inefficient
+1749	     4	81.0	145.3	1430	inefficient
+1750	     4	78.3	144.2	1426	inefficient
+1751	     4	76.8	138.5	1433	inefficient
+1752	     4	79.2	141.1	1471	inefficient
+1753	     4	79.8	138.0	1453	inefficient
+1754	     4	76.6	133.1	1570	inefficient
+1755	     4	78.2	143.0	1426	inefficient
+1756	     4	79.6	140.6	1447	inefficient
+1757	     4	76.1	128.8	1636	inefficient
+1758	     0	78.1	146.5	1426	OK
+1759	     4	77.1	137.5	1446	inefficient
+1760	     4	77.3	134.4	1501	inefficient
+1761	     4	76.6	139.8	1441	inefficient
+1762	     4	76.4	121.9	1992	inefficient
+1763	     4	78.6	135.5	1493	inefficient
+1764	     4	78.3	138.2	1475	inefficient
+1765	     4	79.5	141.4	1422	inefficient
+1766	     4	77.4	140.1	1439	inefficient
+1767	     4	77.4	141.3	1439	inefficient
+1768	     4	75.3	117.9	2261	inefficient
+1769	     4	79.6	138.1	1480	inefficient
+1770	     4	77.9	133.1	1544	inefficient
+1771	     4	75.6	133.5	1540	inefficient
+1772	     4	75.4	127.9	1688	inefficient
+1773	     4	78.2	152.9	1392	inefficient
+1774	     4	77.5	134.9	1476	inefficient
+1775	     4	75.8	126.1	1758	inefficient
+1776	     4	76.7	132.9	1512	inefficient
+1777	     4	78.1	137.8	1485	inefficient
+1778	     4	78.6	135.5	1497	inefficient
+1779	     4	75.2	134.2	1530	inefficient
+1780	     4	76.6	143.1	1401	inefficient
+1781	     4	77.3	138.7	1488	inefficient
+1782	     4	79.6	143.6	1451	inefficient
+1783	     4	77.4	130.7	1641	inefficient
+1784	     4	76.3	121.5	2038	inefficient
+1785	     4	77.0	129.9	1642	inefficient
+1786	     4	78.5	145.5	1433	inefficient
+1787	     4	78.7	142.1	1469	inefficient
+1788	     4	77.7	135.6	1501	inefficient
+1789	     4	78.6	136.8	1465	inefficient
+1790	     4	79.2	138.7	1477	inefficient
+1791	     4	78.5	114.0	2300	inefficient
+1792	     4	82.6	142.9	1389	inefficient
+1793	     4	82.7	140.7	1433	inefficient
+1794	     4	81.2	146.2	1361	inefficient
+1795	     4	81.8	139.7	1436	inefficient
+1796	     4	81.4	142.4	1396	inefficient
+1797	     4	79.4	135.8	1455	inefficient
+1798	     0	82.3	181.2	1349	OK
+1799	     4	80.8	134.3	1496	inefficient
+1800	     4	83.4	146.0	1369	inefficient
+1801	     4	80.8	139.3	1415	inefficient
+1802	     4	83.0	146.1	1383	inefficient
+1803	     4	81.2	138.2	1423	inefficient
+1804	     4	80.7	136.2	1427	inefficient
+1805	     4	82.0	142.8	1373	inefficient
+1806	     4	81.3	140.5	1432	inefficient
+1807	     4	82.0	147.5	1361	inefficient
+1808	     4	79.8	140.3	1384	inefficient
+1809	     4	80.6	138.6	1400	inefficient
+1810	     4	80.1	136.8	1443	inefficient
+1811	     4	78.2	130.5	1543	inefficient
+1812	     0	81.1	148.9	1356	OK
+1813	     4	78.1	139.9	1405	inefficient
+1814	     4	82.6	142.7	1386	inefficient
+1815	     4	81.2	145.3	1363	inefficient
+1816	     0	82.1	152.2	1334	OK
+1817	     0	81.5	165.0	1380	OK
+1818	     4	78.7	132.1	1513	inefficient
+1819	     0	81.5	156.4	1337	OK
+1820	     4	79.8	137.1	1453	inefficient
+1821	     4	77.8	132.5	1486	inefficient
+1822	     4	79.9	140.6	1403	inefficient
+1823	     4	77.5	122.7	1874	inefficient
+1824	     4	78.3	128.7	1660	inefficient
+1825	     4	80.6	125.3	1814	inefficient
+1826	     4	83.0	143.0	1414	inefficient
+1827	     0	79.8	145.6	1388	OK
+1828	     4	81.6	149.3	1381	inefficient
+1829	     4	79.8	140.0	1428	inefficient
+1830	     4	79.8	140.3	1377	inefficient
+1831	     4	84.2	146.8	1389	inefficient
+1832	     4	79.4	137.2	1448	inefficient
+1833	     4	79.9	141.5	1382	inefficient
+1834	     4	78.3	138.5	1449	inefficient
+1835	     4	81.0	138.7	1428	inefficient
+1836	     4	79.8	124.8	1829	inefficient
+1837	     4	79.9	137.1	1440	inefficient
+1838	     4	81.3	141.8	1407	inefficient
+1839	     4	78.8	129.5	1574	inefficient
+1840	     4	85.1	148.4	1388	inefficient
+1841	     4	84.1	146.4	1363	inefficient
+1842	     4	78.2	132.0	1534	inefficient
+1843	     4	82.0	146.1	1378	inefficient
+1844	     0	80.7	155.9	1344	OK
+1845	     4	79.8	138.1	1433	inefficient
+1846	     4	79.7	135.1	1473	inefficient
+1847	     4	81.3	143.7	1402	inefficient
+1848	     4	81.2	140.8	1408	inefficient
+1849	     4	80.4	123.6	1931	inefficient
+1850	     4	79.8	138.8	1465	inefficient
+1851	     4	79.9	107.6	2458	inefficient
+1852	     0	83.6	161.4	1372	OK
+1853	     4	83.1	146.7	1399	inefficient
+1854	     4	81.8	150.5	1375	inefficient
+1855	     0	80.9	147.8	1343	OK
+1856	     0	81.5	177.6	1346	OK
+1857	     4	81.8	142.1	1373	inefficient
+1858	     4	80.8	137.4	1446	inefficient
+1859	     4	80.5	137.4	1450	inefficient
+1860	     4	81.8	144.7	1385	inefficient
+1861	     4	81.3	143.5	1415	inefficient
+1862	     4	78.5	137.9	1413	inefficient
+1863	     4	81.1	141.6	1384	inefficient
+1864	     4	81.8	144.4	1384	inefficient
+1865	     4	82.1	148.4	1373	inefficient
+1866	     4	79.9	136.1	1424	inefficient
+1867	     4	81.5	146.7	1380	inefficient
+1868	     4	81.5	147.8	1368	inefficient
+1869	     4	80.7	137.9	1424	inefficient
+1870	     0	82.8	159.2	1363	OK
+1871	     4	82.2	138.6	1449	inefficient
+1872	     4	70.6	72.8	2805	inefficient
+1873	     4	81.1	137.7	1444	inefficient
+1874	     0	81.8	156.2	1375	OK
+1875	     4	78.7	130.8	1599	inefficient
+1876	     4	82.4	142.4	1419	inefficient
+1877	     4	80.5	132.8	1517	inefficient
+1878	     4	80.2	140.9	1413	inefficient
+1879	     4	83.5	144.5	1380	inefficient
+1880	     4	78.5	101.3	2675	inefficient
+1881	     4	79.7	136.0	1453	inefficient
+1882	     0	81.9	162.6	1339	OK
+1883	     4	81.6	142.3	1348	inefficient
+1884	     4	81.9	141.7	1402	inefficient
+1885	     4	81.9	145.8	1402	inefficient
+1886	     4	82.8	141.9	1393	inefficient
+1887	     4	75.7	105.1	2573	inefficient
+1888	     0	81.8	153.9	1354	OK
+1889	     4	80.2	140.6	1407	inefficient
+1890	     4	83.1	141.3	1392	inefficient
+1891	     4	82.3	138.7	1454	inefficient
+1892	     4	81.5	142.7	1359	inefficient
+1893	     4	79.0	128.2	1669	inefficient
+1894	     4	79.3	144.6	1403	inefficient
+1895	     4	85.2	142.6	1432	inefficient
+1896	     4	82.4	144.0	1389	inefficient
+1897	     4	78.9	135.3	1447	inefficient
+1898	     4	80.7	142.7	1390	inefficient
+1899	     4	81.8	144.7	1382	inefficient
+1900	     4	79.5	139.1	1425	inefficient
+1901	     4	80.9	140.6	1432	inefficient
+1902	     4	79.9	138.2	1424	inefficient
+1903	     4	81.0	142.3	1420	inefficient
+1904	     4	82.6	137.6	1449	inefficient
+1905	     4	83.5	151.6	1358	inefficient
+1906	     4	81.5	135.4	1482	inefficient
+1907	     0	83.0	148.9	1363	OK
+1908	     4	81.5	136.7	1479	inefficient
+1909	     4	83.7	149.4	1371	inefficient
+1910	     4	81.4	135.8	1503	inefficient
+1911	     4	82.3	141.9	1431	inefficient
+1912	     4	80.8	139.3	1439	inefficient
+1913	     0	83.8	161.0	1359	OK
+1914	     4	82.6	143.9	1400	inefficient
+1915	     4	80.3	144.8	1369	inefficient
+1916	     4	82.3	144.2	1374	inefficient
+1917	     0	82.3	176.5	1361	OK
+1918	     4	85.0	149.6	1389	inefficient
+1919	     4	81.3	142.3	1397	inefficient
+1920	     4	82.8	142.2	1381	inefficient
+1921	     0	82.6	164.4	1339	OK
+1922	     4	79.6	146.7	1372	inefficient
+1923	     4	81.8	130.3	1594	inefficient
+1924	     4	80.9	143.7	1376	inefficient
+1925	     4	83.3	150.8	1387	inefficient
+1926	     4	82.1	131.7	1636	inefficient
+1927	     4	84.2	147.2	1378	inefficient
+1928	     4	83.4	148.5	1403	inefficient
+1929	     4	81.2	131.7	1604	inefficient
+1930	     4	83.0	145.6	1418	inefficient
+1931	     4	83.3	147.4	1407	inefficient
+1932	     0	83.1	166.1	1327	OK
+1933	     4	81.3	136.2	1505	inefficient
+1934	     4	79.4	140.5	1422	inefficient
+1935	     0	82.5	150.4	1364	OK
+1936	     4	83.6	149.0	1393	inefficient
+1937	     4	77.6	133.7	1534	inefficient
+1938	     4	82.2	146.4	1381	inefficient
+1939	     4	81.7	146.7	1401	inefficient
+1940	     4	82.8	150.2	1403	inefficient
+1941	     4	81.7	143.5	1405	inefficient
+1942	     4	82.3	146.7	1411	inefficient
+1943	     4	80.2	141.1	1417	inefficient
+1944	     4	81.3	136.4	1504	inefficient
+1945	     4	79.7	133.8	1549	inefficient
+1946	     4	81.3	138.3	1473	inefficient
+1947	     0	83.7	152.1	1371	OK
+1948	     4	81.8	134.4	1536	inefficient
+1949	     4	76.7	103.5	2716	inefficient
+1950	     4	81.5	142.0	1414	inefficient
+1951	     4	82.3	147.6	1407	inefficient
+1952	     4	81.9	142.6	1396	inefficient
+1953	     4	80.4	142.0	1406	inefficient
+1954	     4	79.3	136.8	1472	inefficient
+1955	     4	84.3	149.8	1419	inefficient
+1956	     4	80.9	137.5	1532	inefficient
+1957	     4	78.3	135.7	1471	inefficient
+1958	     4	85.7	151.3	1407	inefficient
+1959	     4	79.7	143.6	1439	inefficient
+1960	     4	84.2	147.6	1404	inefficient
+1961	     4	83.2	140.8	1437	inefficient
+1962	     4	83.0	148.9	1429	inefficient
+1963	     4	81.1	143.0	1448	inefficient
+1964	     0	83.1	169.0	1381	OK
+1965	     0	82.4	149.5	1393	OK
+1966	     4	84.0	148.7	1422	inefficient
+1967	     4	82.4	146.0	1406	inefficient
+1968	     4	82.9	145.8	1417	inefficient
+1969	     0	79.0	178.3	1427	OK
+1970	     4	81.9	145.6	1434	inefficient
+1971	     4	82.0	143.9	1419	inefficient
+1972	     4	82.5	141.6	1441	inefficient
+1973	     4	84.5	150.3	1427	inefficient
+1974	     4	81.9	137.0	1510	inefficient
+1975	     4	82.1	156.2	1382	inefficient
+1976	     0	81.7	177.0	1425	OK
+1977	     4	80.1	135.1	1555	inefficient
+1978	     4	82.0	135.6	1531	inefficient
+1979	     4	76.6	131.2	1627	inefficient
+1980	     4	81.2	149.9	1428	inefficient
+1981	     4	80.5	137.4	1502	inefficient
+1982	     4	83.0	140.2	1483	inefficient
+1983	     4	82.6	141.0	1479	inefficient
+1984	     4	80.3	141.4	1484	inefficient
+1985	     4	80.0	142.0	1457	inefficient
+1986	     4	81.1	140.4	1497	inefficient
+1987	     4	77.5	101.9	2762	inefficient
+1988	     4	82.8	150.6	1444	inefficient
+1989	     4	80.0	135.9	1526	inefficient
+1990	     4	84.6	140.9	1527	inefficient
+1991	     4	81.8	147.7	1433	inefficient
+1992	     4	80.6	143.0	1430	inefficient
+1993	     4	81.3	143.3	1428	inefficient
+1994	     4	83.1	144.4	1438	inefficient
+1995	     4	81.4	145.0	1462	inefficient
+1996	     4	80.4	137.2	1498	inefficient
+1997	     4	81.4	140.6	1469	inefficient
+1998	     4	79.5	124.2	1978	inefficient
+1999	     4	81.6	132.9	1664	inefficient
+2000	     4	78.6	118.2	2223	inefficient
+2001	     4	80.7	139.0	1473	inefficient
+2002	     4	81.7	141.6	1459	inefficient
+2003	     4	82.0	144.3	1468	inefficient
+2004	     4	82.9	141.0	1501	inefficient
+2005	     4	78.5	102.5	2796	inefficient
+2006	     4	79.9	139.3	1477	inefficient
+2007	     4	81.0	137.2	1546	inefficient
+2008	     0	82.5	172.1	1438	OK
+2009	     4	86.7	154.0	1416	inefficient
+2010	     4	81.3	142.2	1469	inefficient
+2011	     4	82.0	147.8	1425	inefficient
+2012	     4	78.2	108.1	2645	inefficient
+2013	     4	78.8	136.0	1517	inefficient
+2014	     4	81.3	142.9	1445	inefficient
+2015	     4	81.6	134.5	1636	inefficient
+2016	     4	79.1	144.0	1448	inefficient
+2017	     4	81.0	149.1	1450	inefficient
+2018	     4	82.2	151.3	1437	inefficient
+2019	     4	82.5	141.3	1483	inefficient
+2020	     4	81.6	137.8	1536	inefficient
+2021	     4	83.6	146.1	1482	inefficient
+2022	     4	82.3	147.8	1430	inefficient
+2023	     4	84.8	156.8	1433	inefficient
+2024	     4	82.8	143.1	1455	inefficient
+2025	     4	80.3	140.8	1457	inefficient
+2026	     4	80.7	142.0	1482	inefficient
+2027	     4	79.5	128.8	1791	inefficient
+2028	     4	80.0	141.1	1481	inefficient
+2029	     0	80.8	196.2	1441	OK
+2030	     4	80.0	136.4	1568	inefficient
+2031	     4	81.6	143.0	1485	inefficient
+2032	     4	80.9	142.5	1455	inefficient
+2033	     4	82.5	138.4	1521	inefficient
+2034	     4	82.0	129.1	1865	inefficient
+2035	     4	79.1	122.9	2067	inefficient
+2036	     4	81.1	142.2	1507	inefficient
+2037	     4	80.5	135.6	1593	inefficient
+2038	     4	82.7	148.6	1461	inefficient
+2039	     0	83.0	161.9	1410	OK
+2040	     4	85.7	145.8	1474	inefficient
+2041	     4	81.1	135.4	1567	inefficient
+2042	     4	80.8	140.7	1515	inefficient
+2043	     4	81.9	144.8	1436	inefficient
+2044	     0	83.3	159.0	1412	OK
+2045	     0	84.1	153.4	1431	OK
+2046	     4	83.0	137.0	1583	inefficient
+2047	     4	82.1	141.1	1539	inefficient
+2048	     4	80.3	141.5	1469	inefficient
+2049	     4	76.0	116.7	2211	inefficient
+2050	     4	79.4	146.8	1436	inefficient
+2051	     4	79.2	142.9	1427	inefficient
+2052	     4	79.7	141.7	1481	inefficient
+2053	     4	82.1	147.6	1423	inefficient
+2054	     4	79.6	137.2	1495	inefficient
+2055	     4	78.2	139.3	1447	inefficient
+2056	     4	80.7	145.7	1408	inefficient
+2057	     4	79.1	146.9	1398	inefficient
+2058	     0	80.2	154.5	1397	OK
+2059	     4	79.2	142.0	1442	inefficient
+2060	     4	76.8	124.2	1957	inefficient
+2061	     4	75.0	119.3	2150	inefficient
+2062	     0	78.8	161.1	1394	OK
+2063	     4	79.9	137.3	1465	inefficient
+2064	     0	77.8	150.1	1389	OK
+2065	     4	80.8	146.4	1420	inefficient
+2066	     4	74.7	128.0	1720	inefficient
+2067	     4	77.7	139.8	1446	inefficient
+2068	     4	72.7	101.2	2798	inefficient
+2069	     4	78.7	134.4	1517	inefficient
+2070	     4	77.9	136.2	1500	inefficient
+2071	     4	77.1	136.3	1445	inefficient
+2072	     4	77.1	136.8	1500	inefficient
+2073	     4	76.7	135.4	1539	inefficient
+2074	     0	79.3	153.5	1394	OK
+2075	     4	81.5	147.0	1431	inefficient
+2076	     4	78.4	138.8	1445	inefficient
+2077	     4	78.7	141.7	1447	inefficient
+2078	     4	80.6	145.4	1434	inefficient
+2079	     4	75.0	99.6	2776	inefficient
+2080	     4	79.3	140.7	1443	inefficient
+2081	     4	77.4	129.6	1676	inefficient
+2082	     4	77.3	130.7	1602	inefficient
+2083	     4	80.0	142.8	1435	inefficient
+2084	     4	78.6	146.4	1402	inefficient
+2085	     4	76.6	130.3	1628	inefficient
+2086	     4	76.5	123.9	1968	inefficient
+2087	     4	77.7	136.1	1464	inefficient
+2088	     4	77.2	123.9	1973	inefficient
+2089	     4	77.8	126.4	1855	inefficient
+2090	     4	75.6	132.4	1561	inefficient
+2091	     4	79.4	141.8	1455	inefficient
+2092	     4	80.1	146.0	1416	inefficient
+2093	     4	79.7	139.7	1473	inefficient
+2094	     4	77.0	128.3	1770	inefficient
+2095	     0	79.8	159.6	1405	OK
+2096	     4	76.5	136.4	1498	inefficient
+2097	     4	77.2	138.5	1488	inefficient
+2098	     4	76.6	131.3	1633	inefficient
+2099	     4	78.1	136.6	1469	inefficient
+2100	     4	75.8	132.3	1585	inefficient
+2101	     4	80.4	152.2	1408	inefficient
+2102	     0	78.5	188.1	1434	OK
+2103	     4	79.7	141.3	1447	inefficient
+2104	     4	80.0	138.4	1492	inefficient
+2105	     4	80.9	147.1	1456	inefficient
+2106	     4	75.6	111.9	2550	inefficient
+2107	     4	77.7	139.4	1481	inefficient
+2108	     4	78.4	134.6	1552	inefficient
+2109	     4	78.1	137.7	1488	inefficient
+2110	     4	79.6	139.8	1464	inefficient
+2111	     4	80.9	133.5	1577	inefficient
+2112	     4	78.1	141.1	1441	inefficient
+2113	     4	78.3	138.5	1463	inefficient
+2114	     4	75.5	118.1	2230	inefficient
+2115	     4	81.3	140.3	1458	inefficient
+2116	     4	80.6	136.0	1531	inefficient
+2117	     4	80.8	141.3	1425	inefficient
+2118	     4	80.9	140.3	1448	inefficient
+2119	     4	79.1	138.8	1455	inefficient
+2120	     4	78.6	135.7	1504	inefficient
+2121	     4	79.7	143.8	1415	inefficient
+2122	     4	75.7	119.9	2144	inefficient
+2123	     4	82.8	151.1	1410	inefficient
+2124	     4	78.3	131.9	1628	inefficient
+2125	     4	76.3	116.2	2297	inefficient
+2126	     0	80.4	149.0	1370	OK
+2127	     4	77.6	132.3	1542	inefficient
+2128	     4	79.6	142.9	1428	inefficient
+2129	     0	81.7	176.8	1413	OK
+2130	     4	76.1	134.0	1528	inefficient
+2131	     4	79.8	141.1	1454	inefficient
+2132	     4	77.2	135.4	1471	inefficient
+2133	     4	80.3	145.1	1421	inefficient
+2134	     4	78.4	136.8	1483	inefficient
+2135	     4	79.8	139.9	1423	inefficient
+2136	     4	77.8	132.0	1562	inefficient
+2137	     4	78.7	134.0	1531	inefficient
+2138	     4	80.3	135.6	1517	inefficient
+2139	     4	78.7	139.0	1458	inefficient
+2140	     4	80.0	141.5	1440	inefficient
+2141	     4	80.8	137.3	1460	inefficient
+2142	     4	79.4	140.2	1448	inefficient
+2143	     4	75.4	100.6	2751	inefficient
+2144	     4	79.3	139.4	1439	inefficient
+2145	     4	77.6	136.7	1488	inefficient
+2146	     4	79.8	142.9	1465	inefficient
+2147	     4	76.2	135.0	1492	inefficient
+2148	     4	81.6	136.1	1511	inefficient
+2149	     4	80.8	138.9	1468	inefficient
+2150	     4	79.4	140.0	1455	inefficient
+2151	     4	80.8	143.6	1404	inefficient
+2152	     0	79.3	186.8	1400	OK
+2153	     0	81.5	168.0	1363	OK
+2154	     4	83.0	149.4	1420	inefficient
+2155	     4	77.0	133.7	1476	inefficient
+2156	     4	80.2	143.7	1423	inefficient
+2157	     4	79.9	142.8	1388	inefficient
+2158	     4	79.8	136.5	1498	inefficient
+2159	     0	79.7	187.4	1416	OK
+2160	     4	77.7	117.2	2318	inefficient
+2161	     4	80.7	146.8	1426	inefficient
+2162	     4	76.3	119.0	2177	inefficient
+2163	     4	78.3	133.0	1561	inefficient
+2164	     4	80.0	134.1	1553	inefficient
+2165	     4	79.0	135.6	1514	inefficient
+2166	     4	78.0	135.1	1519	inefficient
+2167	     4	81.3	140.5	1464	inefficient
+2168	     4	80.5	126.2	1849	inefficient
+2169	     4	81.2	147.8	1383	inefficient
+2170	     4	81.5	145.3	1438	inefficient
+2171	     4	80.0	150.9	1390	inefficient
+2172	     4	78.8	133.4	1544	inefficient
+2173	     4	77.2	125.6	1846	inefficient
+2174	     4	81.3	141.3	1453	inefficient
+2175	     4	82.1	151.9	1414	inefficient
+2176	     4	84.5	147.8	1364	inefficient
+2177	     0	86.3	174.8	1358	OK
+2178	     4	80.3	142.7	1392	inefficient
+2179	     0	85.8	167.4	1363	OK
+2180	     4	81.3	146.8	1398	inefficient
+2181	     4	85.4	147.6	1429	inefficient
+2182	     4	80.5	117.0	2259	inefficient
+2183	     4	82.5	143.2	1428	inefficient
+2184	     0	80.6	160.8	1356	OK
+2185	     4	81.2	127.9	1786	inefficient
+2186	     4	83.0	140.3	1433	inefficient
+2187	     0	81.6	146.0	1386	OK
+2188	     0	80.7	151.8	1376	OK
+2189	     4	80.4	140.6	1422	inefficient
+2190	     4	81.9	146.8	1380	inefficient
+2191	     4	79.6	140.4	1413	inefficient
+2192	     4	80.3	127.8	1793	inefficient
+2193	     4	82.6	146.1	1404	inefficient
+2194	     4	82.3	135.5	1572	inefficient
+2195	     4	81.8	144.5	1423	inefficient
+2196	     4	82.8	148.7	1393	inefficient
+2197	     4	83.3	146.2	1388	inefficient
+2198	     4	82.3	149.9	1374	inefficient
+2199	     4	82.0	146.1	1412	inefficient
+2200	     4	80.4	142.2	1417	inefficient
+2201	     4	82.4	145.8	1408	inefficient
+2202	     4	80.5	139.8	1442	inefficient
+2203	     4	79.0	137.2	1478	inefficient
+2204	     0	81.1	152.0	1369	OK
+2205	     4	79.0	133.8	1512	inefficient
+2206	     4	81.8	143.9	1433	inefficient
+2207	     4	84.6	160.1	1381	inefficient
+2208	     4	81.3	151.1	1416	inefficient
+2209	     4	79.2	138.5	1501	inefficient
+2210	     4	83.6	150.2	1390	inefficient
+2211	     4	78.6	135.4	1500	inefficient
+2212	     4	80.9	126.5	1892	inefficient
+2213	     4	82.7	146.1	1406	inefficient
+2214	     4	82.2	146.7	1443	inefficient
+2215	     4	78.4	132.0	1591	inefficient
+2216	     4	80.0	135.6	1517	inefficient
+2217	     4	80.3	135.2	1517	inefficient
+2218	     4	81.6	139.9	1454	inefficient
+2219	     4	79.2	138.2	1471	inefficient
+2220	     4	83.1	147.3	1413	inefficient
+2221	     4	79.0	121.5	2170	inefficient
+2222	     4	83.0	151.7	1408	inefficient
+2223	     4	79.0	137.0	1447	inefficient
+2224	     4	85.4	162.6	1375	inefficient
+2225	     4	82.9	147.1	1422	inefficient
+2226	     4	82.0	145.0	1404	inefficient
+2227	     4	80.8	145.2	1403	inefficient
+2228	     4	77.6	134.0	1535	inefficient
+2229	     4	82.5	146.3	1411	inefficient
+2230	     4	80.9	143.7	1444	inefficient
+2231	     4	80.2	142.2	1431	inefficient
+2232	     4	79.2	136.0	1523	inefficient
+2233	     4	79.6	137.2	1491	inefficient
+2234	     4	81.7	142.1	1445	inefficient
+2235	     4	80.8	138.6	1480	inefficient
+2236	     4	73.2	87.5	3145	inefficient
+2237	     0	83.8	156.2	1406	OK
+2238	     4	78.1	120.7	2206	inefficient
+2239	     4	85.1	153.4	1403	inefficient
+2240	     4	81.9	142.8	1452	inefficient
+2241	     4	80.1	141.0	1450	inefficient
+2242	     4	81.4	139.8	1447	inefficient
+2243	     4	79.1	136.3	1487	inefficient
+2244	     4	81.9	148.0	1402	inefficient
+2245	     4	80.3	134.3	1556	inefficient
+2246	     4	79.3	138.8	1459	inefficient
+2247	     4	78.7	137.7	1473	inefficient
+2248	     4	80.5	134.8	1528	inefficient
+2249	     4	84.6	150.8	1432	inefficient
+2250	     4	78.7	136.1	1493	inefficient
+2251	     0	81.1	171.3	1390	OK
+2252	     4	79.9	138.5	1478	inefficient
+2253	     4	80.0	142.1	1407	inefficient
+2254	     4	81.5	149.6	1407	inefficient
+2255	     4	81.0	150.6	1416	inefficient
+2256	     4	82.5	147.6	1418	inefficient
+2257	     4	81.8	146.4	1418	inefficient
+2258	     4	81.1	145.5	1424	inefficient
+2259	     0	81.4	154.1	1372	OK
+2260	     4	80.0	135.9	1510	inefficient
+2261	     4	78.7	136.5	1501	inefficient
+2262	     4	81.2	141.2	1459	inefficient
+2263	     4	77.2	117.0	2261	inefficient
+2264	     4	81.5	146.1	1434	inefficient
+2265	     0	81.9	159.4	1406	OK
+2266	     4	78.2	130.7	1632	inefficient
+2267	     4	80.3	144.6	1409	inefficient
+2268	     4	82.4	148.6	1414	inefficient
+2269	     0	81.3	152.3	1383	OK
+2270	     4	80.0	150.4	1397	inefficient
+2271	     0	83.4	190.7	1402	OK
+2272	     4	81.3	138.7	1495	inefficient
+2273	     4	78.6	138.4	1447	inefficient
+2274	     4	80.1	140.4	1477	inefficient
+2275	     4	78.1	135.8	1497	inefficient
+2276	     4	82.4	147.3	1426	inefficient
+2277	     4	82.9	148.2	1423	inefficient
+2278	     4	80.0	134.0	1557	inefficient
+2279	     4	81.7	144.3	1427	inefficient
+2280	     4	81.4	146.3	1450	inefficient
+2281	     4	78.6	123.4	2031	inefficient
+2282	     4	80.8	143.5	1460	inefficient
+2283	     4	83.4	153.5	1393	inefficient
+2284	     4	81.8	149.0	1417	inefficient
+2285	     4	82.5	146.5	1415	inefficient
+2286	     4	78.6	134.5	1521	inefficient
+2287	     4	80.9	140.7	1446	inefficient
+2288	     4	80.6	139.1	1492	inefficient
+2289	     4	77.8	127.0	1775	inefficient
+2290	     4	81.5	146.1	1436	inefficient
+2291	     4	80.7	137.9	1500	inefficient
+2292	     4	77.2	131.6	1605	inefficient
+2293	     4	82.0	154.4	1397	inefficient
+2294	     4	81.4	144.9	1432	inefficient
+2295	     4	80.4	140.3	1456	inefficient
+2296	     4	78.5	136.8	1445	inefficient
+2297	     4	80.8	142.5	1446	inefficient
+2298	     4	79.6	133.8	1565	inefficient
+2299	     4	78.7	131.3	1670	inefficient
+2300	     0	84.2	169.9	1377	OK
+2301	     4	83.9	147.1	1425	inefficient
+2302	     4	81.1	151.4	1400	inefficient
+2303	     4	83.0	140.6	1471	inefficient
+2304	     4	81.7	141.6	1469	inefficient
+2305	     4	79.3	137.7	1515	inefficient
+2306	     4	78.9	132.0	1659	inefficient
+2307	     4	76.6	123.9	1973	inefficient
+2308	     4	81.5	140.5	1488	inefficient
+2309	     4	81.9	143.4	1435	inefficient
+2310	     4	82.4	149.9	1412	inefficient
+2311	     4	83.1	151.5	1415	inefficient
+2312	     4	79.7	132.6	1621	inefficient
+2313	     4	82.5	143.0	1467	inefficient
+2314	     4	77.0	110.2	2622	inefficient
+2315	     0	84.1	158.7	1385	OK
+2316	     4	81.8	144.4	1432	inefficient
+2317	     4	79.4	133.7	1570	inefficient
+2318	     4	79.0	116.8	2382	inefficient
+2319	     4	75.2	99.0	3013	inefficient
+2320	     4	80.6	140.7	1454	inefficient
+2321	     4	81.4	141.8	1437	inefficient
+2322	     4	80.7	141.6	1486	inefficient
+2323	     4	82.8	148.5	1444	inefficient
+2324	     4	81.5	144.2	1450	inefficient
+2325	     4	83.0	147.9	1415	inefficient
+2326	     4	82.1	141.4	1483	inefficient
+2327	     4	77.2	114.1	2438	inefficient
+2328	     4	80.8	137.1	1509	inefficient
+2329	     4	81.1	142.6	1453	inefficient
+2330	     4	80.6	142.5	1469	inefficient
+2331	     4	78.8	113.9	2440	inefficient
+2332	     4	78.3	126.1	1951	inefficient
+2333	     4	76.5	124.6	1975	inefficient
+2334	     4	81.0	140.9	1447	inefficient
+2335	     4	83.2	146.1	1447	inefficient
+2336	     0	81.1	151.5	1386	OK
+2337	     4	80.5	136.2	1545	inefficient
+2338	     4	81.1	141.5	1431	inefficient
+2339	     4	79.8	140.3	1476	inefficient
+2340	     4	83.5	152.0	1414	inefficient
+2341	     4	79.5	137.2	1523	inefficient
+2342	     4	80.7	140.6	1492	inefficient
+2343	     4	83.2	144.7	1445	inefficient
+2344	     0	83.4	152.2	1406	OK
+2345	     4	80.1	140.4	1454	inefficient
+2346	     0	83.8	149.9	1414	OK
+2347	     4	82.8	145.4	1430	inefficient
+2348	     4	83.7	146.1	1439	inefficient
+2349	     4	82.5	142.5	1472	inefficient
+2350	     4	82.0	149.1	1411	inefficient
+2351	     4	77.6	133.1	1547	inefficient
+2352	     4	81.0	135.2	1587	inefficient
+2353	     4	81.1	137.5	1521	inefficient
+2354	     0	81.3	168.6	1393	OK
+2355	     4	82.8	141.9	1446	inefficient
+2356	     4	78.4	127.5	1845	inefficient
+2357	     4	83.1	146.6	1423	inefficient
+2358	     4	81.3	151.5	1417	inefficient
+2359	     4	81.3	142.0	1455	inefficient
+2360	     4	79.7	128.7	1800	inefficient
+2361	     4	81.1	143.0	1425	inefficient
+2362	     4	80.8	142.5	1433	inefficient
+2363	     4	80.4	140.9	1491	inefficient
+2364	     4	79.1	126.3	1992	inefficient
+2365	     4	82.0	154.3	1379	inefficient
+2366	     4	82.6	152.7	1393	inefficient
+2367	     4	83.2	151.5	1381	inefficient
+2368	     4	79.3	137.9	1476	inefficient
+2369	     4	80.6	142.1	1443	inefficient
+2370	     4	79.0	137.3	1513	inefficient
+2371	     4	81.5	141.7	1475	inefficient
+2372	     4	80.2	133.2	1572	inefficient
+2373	     4	80.9	144.6	1434	inefficient
+2374	     4	81.2	145.6	1401	inefficient
+2375	     4	80.0	142.6	1451	inefficient
+2376	     4	81.0	141.2	1449	inefficient
+2377	     4	80.7	139.7	1459	inefficient
+2378	     4	84.8	148.8	1404	inefficient
+2379	     4	83.0	143.7	1442	inefficient
+2380	     4	81.6	138.6	1492	inefficient
+2381	     0	83.2	170.2	1384	OK
+2382	     4	83.3	143.1	1429	inefficient
+2383	     4	81.8	146.2	1417	inefficient
+2384	     4	81.4	138.0	1503	inefficient
+2385	     4	79.9	132.3	1640	inefficient
+2386	     4	78.7	136.0	1458	inefficient
+2387	     4	80.7	141.4	1434	inefficient
+2388	     4	83.2	149.1	1400	inefficient
+2389	     4	79.9	137.9	1472	inefficient
+2390	     4	82.1	147.1	1417	inefficient
+2391	     4	83.6	146.8	1409	inefficient
+2392	     4	83.1	151.2	1377	inefficient
+2393	     4	80.6	140.5	1437	inefficient
+2394	     4	83.2	147.2	1408	inefficient
+2395	     4	80.1	143.7	1434	inefficient
+2396	     4	81.9	147.4	1389	inefficient
+2397	     4	82.5	144.3	1415	inefficient
+2398	     4	80.2	141.1	1464	inefficient
+2399	     4	84.3	147.8	1396	inefficient
+2400	     0	81.6	153.1	1350	OK
+2401	     4	87.4	152.3	1407	inefficient
+2402	     4	81.6	148.6	1396	inefficient
+2403	     4	83.2	146.9	1381	inefficient
+2404	     4	81.5	133.3	1578	inefficient
+2405	     0	81.6	144.8	1385	OK
+2406	     4	81.3	144.3	1410	inefficient
+2407	     4	81.2	137.2	1519	inefficient
+2408	     4	83.5	146.9	1392	inefficient
+2409	     0	81.6	154.4	1370	OK
+2410	     0	81.9	158.8	1374	OK
+2411	     4	82.6	139.9	1455	inefficient
+2412	     0	83.0	149.2	1372	OK
+2413	     4	82.9	143.6	1425	inefficient
+2414	     4	80.8	141.1	1420	inefficient
+2415	     4	79.5	129.5	1643	inefficient
+2416	     4	81.6	136.1	1547	inefficient
+2417	     4	83.1	143.3	1467	inefficient
+2418	     4	82.0	142.4	1502	inefficient
+2419	     4	84.7	148.7	1530	inefficient
+2420	  4000	84.3	163.9	1474	high noise
+2421	     4	86.1	147.6	1522	inefficient
+2422	     4	77.9	120.5	2292	inefficient
+2423	     4	81.1	143.2	1513	inefficient
+2424	  4000	85.8	167.0	1460	high noise
+2425	     4	82.7	139.3	1708	inefficient
+2426	     4	80.0	134.5	1803	inefficient
+2427	     4	79.7	120.9	2365	inefficient
+2428	     4	82.8	145.8	1648	inefficient
+2429	     4	82.4	114.8	2698	inefficient
+2430	     4	79.6	133.2	1962	inefficient
+2431	     4	83.1	144.3	1663	inefficient
+2432	     4	82.1	144.7	1619	inefficient
+2433	     4	78.2	114.4	2616	inefficient
+2434	     4	77.1	105.5	2960	inefficient
+2435	     4	80.7	129.0	2033	inefficient
+2436	     4	83.1	146.4	1567	inefficient
+2437	     4	82.2	142.7	1600	inefficient
+2438	     4	82.4	141.8	1618	inefficient
+2439	     4	81.8	143.0	1549	inefficient
+2440	     4	81.7	135.6	1715	inefficient
+2441	     4	82.7	152.9	1532	inefficient
+2442	     4	82.7	148.0	1571	inefficient
+2443	     4	82.2	137.2	1664	inefficient
+2444	     4	76.1	102.3	2893	inefficient
+2445	     4	82.1	143.8	1546	inefficient
+2446	     4	79.9	136.0	1677	inefficient
+2447	     4	82.1	147.5	1533	inefficient
+2448	     4	80.7	139.8	1614	inefficient
+2449	     4	83.0	143.7	1592	inefficient
+2450	     4	79.9	131.7	1861	inefficient
+2451	     4	80.9	141.7	1583	inefficient
+2452	     4	80.8	141.7	1585	inefficient
+2453	     4	80.5	146.1	1528	inefficient
+2454	     4	82.4	149.2	1492	inefficient
+2455	     4	76.9	117.1	2455	inefficient
+2456	     4	80.9	131.2	1947	inefficient
+2457	     4	80.4	138.6	1622	inefficient
+2458	     4	84.9	142.8	1623	inefficient
+2459	     4	79.2	141.4	1629	inefficient
+2460	     4	81.7	138.2	1705	inefficient
+2461	     4	81.2	143.6	1583	inefficient
+2462	     4	79.7	140.7	1617	inefficient
+2463	     4	83.7	146.8	1582	inefficient
+2464	     4	84.3	142.3	1687	inefficient
+2465	     4	80.8	141.7	1599	inefficient
+2466	     4	79.8	137.2	1701	inefficient
+2467	     4	81.1	125.8	2222	inefficient
+2468	     4	81.4	138.8	1660	inefficient
+2469	     4	83.6	146.9	1598	inefficient
+2470	     4	82.5	137.3	1768	inefficient
+2471	     0	84.6	157.2	1555	OK
+2472	     4	81.2	144.5	1630	inefficient
+2473	     4	81.5	139.5	1724	inefficient
+2474	     4	79.3	139.4	1745	inefficient
+2475	     4	82.0	146.1	1550	inefficient
+2476	     4	79.9	135.6	1741	inefficient
+2477	     4	80.8	139.8	1647	inefficient
+2478	     0	82.5	192.7	1583	OK
+2479	     4	79.5	124.1	2265	inefficient
+2480	     4	80.0	137.5	1789	inefficient
+2481	     4	84.9	150.5	1628	inefficient
+2482	     4	80.9	137.6	1770	inefficient
+2483	     4	81.6	134.9	1881	inefficient
+2484	     4	79.6	139.6	1780	inefficient
+2485	     4	81.2	131.8	2083	inefficient
+2486	     4	77.8	133.0	1902	inefficient
+2487	     4	79.8	139.3	1782	inefficient
+2488	     4	80.3	135.9	1897	inefficient
+2489	     4	82.1	146.7	1677	inefficient
+2490	     4	78.4	114.8	2741	inefficient
+2491	     4	77.8	110.5	2845	inefficient
+2492	     4	81.7	139.0	1760	inefficient
+2493	     4	83.4	148.2	1611	inefficient
+2494	     4	79.9	131.0	2085	inefficient
+2495	     4	75.8	93.4	3219	inefficient
+2496	     4	74.8	107.1	2906	inefficient
+2497	     4	82.5	144.6	1510	inefficient
+2498	     4	78.8	132.9	1746	inefficient
+2499	     4	84.1	148.3	1459	inefficient
+2500	     4	80.5	146.1	1414	inefficient
+2501	     4	81.0	143.5	1490	inefficient
+2502	     4	80.5	134.8	1623	inefficient
+2503	     4	77.6	106.9	2760	inefficient
+2504	     4	80.9	144.1	1423	inefficient
+2505	     4	81.7	140.2	1450	inefficient
+2506	     4	79.5	129.2	1761	inefficient
+2507	     4	84.5	143.9	1443	inefficient
+2508	     4	81.3	140.1	1459	inefficient
+2509	     4	82.3	141.6	1422	inefficient
+2510	     4	79.8	137.7	1480	inefficient
+2511	     0	83.6	156.3	1401	OK
+2512	     4	81.8	139.0	1506	inefficient
+2513	     4	83.3	149.9	1391	inefficient
+2514	     4	82.5	146.6	1427	inefficient
+2515	     0	85.1	160.1	1369	OK
+2516	     4	82.8	145.4	1418	inefficient
+2517	     4	81.3	144.1	1426	inefficient
+2518	     4	81.8	137.3	1531	inefficient
+2519	     4	81.9	138.9	1492	inefficient
+2520	     4	83.9	148.4	1416	inefficient
+2521	     4	80.8	136.0	1517	inefficient
+2522	     4	85.0	154.3	1395	inefficient
+2523	     4	80.6	139.8	1470	inefficient
+2524	     4	82.5	138.4	1500	inefficient
+2525	     4	82.1	144.3	1427	inefficient
+2526	     0	83.1	158.6	1377	OK
+2527	     4	81.2	137.4	1497	inefficient
+2528	     4	82.9	148.0	1426	inefficient
+2529	     4	80.7	141.7	1444	inefficient
+2530	     4	78.5	135.8	1540	inefficient
+2531	     4	82.1	145.6	1425	inefficient
+2532	     4	76.2	105.9	2770	inefficient
+2533	     4	79.5	114.9	2441	inefficient
+2534	     4	79.4	114.9	2521	inefficient
+2535	     4	80.9	124.1	2019	inefficient
+2536	     4	83.1	144.5	1444	inefficient
+2537	     0	82.6	155.9	1429	OK
+2538	     4	79.0	123.9	2026	inefficient
+2539	     4	79.4	134.5	1585	inefficient
+2540	     4	81.7	139.9	1461	inefficient
+2541	     4	82.0	145.1	1442	inefficient
+2542	     4	80.0	136.9	1521	inefficient
+2543	     4	82.6	141.1	1417	inefficient
+2544	     4	78.1	131.0	1645	inefficient
+2545	     4	81.3	145.5	1408	inefficient
+2546	     4	80.7	143.3	1425	inefficient
+2547	     4	83.9	146.8	1398	inefficient
+2548	     4	82.6	141.1	1467	inefficient
+2549	     4	80.9	139.4	1476	inefficient
+2550	     4	82.6	141.2	1478	inefficient
+2551	     4	81.3	145.7	1434	inefficient
+2552	     4	80.8	138.7	1512	inefficient
+2553	     4	83.2	147.5	1415	inefficient
+2554	     4	79.0	135.8	1555	inefficient
+2555	     4	80.2	137.4	1588	inefficient
+2556	     4	83.8	147.3	1467	inefficient
+2557	     4	81.7	141.4	1580	inefficient
+2558	     4	83.5	145.6	1549	inefficient
+2559	     4	83.6	136.3	1652	inefficient

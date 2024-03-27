@@ -1,0 +1,107 @@
+{
+    "component": "20USBHX2001216",
+    "date": "2023-10-26T10:44:37.000Z",
+    "defects": [
+        {
+            "description": "IV did not complete successfully",
+            "name": "IV_STATUS",
+            "properties": {
+                "info": "ABORT (hit compliance)"
+            }
+        }
+    ],
+    "passed": true,
+    "problems": true,
+    "properties": {
+        "AMAC_CURRENT_RANGE": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "AMAC_READINGS": 1000,
+        "DCS": {
+            "Module 0-9_HV_current": 0.0,
+            "Module 0-9_HV_voltage": 0.0,
+            "Module 0-9_LV_current": 283.0,
+            "Module 0-9_LV_voltage": 10995.0,
+            "Nexys_LV_current": 675.0,
+            "Nexys_LV_voltage": 11999.0
+        },
+        "det_info": {
+            "AMAC_FuseID": "40154f",
+            "Module 0-9_HV_model": "ITKHV",
+            "Module 0-9_LV_model": "CPX400DP",
+            "Module 0-9_LV_serial": "394124",
+            "Nexys_LV_model": "CPX400DP",
+            "Nexys_LV_serial": "394124",
+            "name": "SN20USBHX2001216"
+        },
+        "scan_info": {
+            "AMAC_ILIMIT": 10,
+            "PS_ILIMIT": 10,
+            "SET_VOLTAGE": [
+                0.0,
+                -10.0,
+                -20.0,
+                -30.0,
+                -40.0,
+                -50.0
+            ]
+        },
+        "sensor_type": "BARREL_LS_MODULE",
+        "system_info": {
+            "Firmware revision": "0xb66d",
+            "GIT URL": "https://gitlab.cern.ch/atlas-itk-strips-daq/itsdaq-sw.git/-/tree/47ee5d3757e976342d53e6ef8cb9ee75a4942289",
+            "GIT branch": "AutoModuleType",
+            "GIT build date": "2023-10-26 09:38:55 +0000 (Thu, 26 Oct 2023)",
+            "GIT commit date": "2023-10-26 09:33:17 +0000 (Thu, 26 Oct 2023)",
+            "GIT describe": "itsdaq_23_3_2023-841-g47ee5d375",
+            "GIT revision": "47ee5d3757e976342d53e6ef8cb9ee75a4942289",
+            "analysis_version": "3.43",
+            "dedication": "New dedication as we're going for PPA"
+        }
+    },
+    "results": {
+        "CURRENT": [
+            -0.0010316085536032915,
+            515.1612548828125,
+            1469.5791015625,
+            1738.05224609375,
+            1779.0770263671875,
+            0.00385284423828125
+        ],
+        "CURRENT_RMS": [
+            0.004882009234279394,
+            1.0427225828170776,
+            2.0529966354370117,
+            2.097341537475586,
+            2.206462860107422,
+            0.0
+        ],
+        "HUMIDITY": 0.0,
+        "I_500V": 0.0,
+        "PS_CURRENT": [
+            0.0,
+            5.0,
+            7.0,
+            11.0,
+            15.0,
+            1.0
+        ],
+        "TEMPERATURE": 22.0,
+        "VBD": 9.990000452351092e+37,
+        "VOLTAGE": [
+            0.0,
+            -6.0,
+            -17.0,
+            -26.0,
+            -37.0,
+            -0.0
+        ]
+    },
+    "runNumber": "697-1",
+    "testType": "MODULE_IV_AMAC"
+}

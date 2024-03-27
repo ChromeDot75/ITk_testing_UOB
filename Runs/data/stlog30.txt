@@ -1,0 +1,12 @@
+EVENT 0 Wed Dec 06 10:04:00 2023
+  Startup
+EVENT 1 Wed Dec 06 10:04:00 2023
+  Firmware revision b66d
+EVENT 2 Wed Dec 06 10:04:00 2023
+  GIT hash: 5ec1b143729a4ebf94c30c25eee33aaba29ae143
+EVENT 3 Wed Dec 06 10:04:00 2023
+  GIT describe: itsdaq_23_3_2023-1019-g5ec1b1437
+EVENT 4 Wed Dec 06 10:04:00 2023
+  GIT branch: 
+EVENT 5 Wed Dec 06 10:04:00 2023
+  Build date: 2023-12-06 10:02:03 +0000 (Wed, 06 Dec 2023)

@@ -1,0 +1,583 @@
+{
+    "comments": [
+        "FAIL due to 2560 bad strips (more than 15)",
+        "FAIL due to 1280 consecutive bad strips (more than 8)",
+        "No trim data found"
+    ],
+    "date": "2024-02-08T10:40:54.000Z",
+    "defects": [
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 0
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 1
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 2
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 3
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 4
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 5
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 6
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 7
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 8
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "under",
+                "chip_in_histo": 9
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 0
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 1
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 2
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 3
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 4
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 5
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 6
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 7
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 8
+            }
+        },
+        {
+            "description": "High Noise occupancy > 0.000500",
+            "name": "NO_HI",
+            "properties": {
+                "chip_bank": "away",
+                "chip_in_histo": 9
+            }
+        }
+    ],
+    "passed": false,
+    "problems": false,
+    "properties": {
+        "DCS": {
+            "ABC_temp_raw_1": 2176.0,
+            "ABC_temp_raw_10": 2547.0,
+            "ABC_temp_raw_2": 2324.0,
+            "ABC_temp_raw_3": 2453.0,
+            "ABC_temp_raw_4": 2751.0,
+            "ABC_temp_raw_5": 2778.0,
+            "ABC_temp_raw_6": 2520.0,
+            "ABC_temp_raw_7": 2434.0,
+            "ABC_temp_raw_8": 2596.0,
+            "ABC_temp_raw_9": 2587.0,
+            "AMAC_AM600BG": 608.8693237304688,
+            "AMAC_AM900BG": 900.537353515625,
+            "AMAC_AMref": 109.00724792480469,
+            "AMAC_BG600": 633.4204711914063,
+            "AMAC_CAL": -10.802519798278809,
+            "AMAC_CALx": 14.730709075927734,
+            "AMAC_CALy": 12.766613960266113,
+            "AMAC_CHIPGND": 0.0,
+            "AMAC_CTAT": 437.9930725097656,
+            "AMAC_Cur10V": 361.3934020996094,
+            "AMAC_Cur1V5": 828.847900390625,
+            "AMAC_DCDCin": 10812.33984375,
+            "AMAC_DCDCinHigh": 847.5067749023438,
+            "AMAC_DCDCinLow": 873.0400390625,
+            "AMAC_DCDCoutHigh": 826.8837890625,
+            "AMAC_DCDCoutLow": 805.2787475585938,
+            "AMAC_HGND": 0.0,
+            "AMAC_HVret": 421.53887939453125,
+            "AMAC_HVret_V": 69.72535705566406,
+            "AMAC_Hrefx": 4.910236358642578,
+            "AMAC_Hrefy": 3.9281890392303467,
+            "AMAC_NTCpb": 33.25853729248047,
+            "AMAC_NTCpb_V": 748.3200073242188,
+            "AMAC_NTCx": 23.1470890045166,
+            "AMAC_NTCx_V": 699.2176513671875,
+            "AMAC_NTCy": 23.68731117248535,
+            "AMAC_NTCy_V": 724.7508544921875,
+            "AMAC_PTAT_V": 1294.3382568359375,
+            "AMAC_Shuntx": 125.7020492553711,
+            "AMAC_Shunty": 128.648193359375,
+            "AMAC_VDCDC": 1335.584228515625,
+            "AMAC_VDDHI": 3445.021728515625,
+            "AMAC_VDDLRhigh": 797.42236328125,
+            "AMAC_VDDLRlow": 796.4403076171875,
+            "AMAC_VREG": 1199.0797119140625,
+            "HCC_temp_raw": 439.0,
+            "HCC_temp_rough_cal": 8.47900390625,
+            "Module 0-9_HV_current": 38000.0,
+            "Module 0-9_HV_voltage": -348000.0,
+            "Module 0-9_LV_current": 490.0,
+            "Module 0-9_LV_voltage": 10994.0,
+            "Nexys_LV_current": 696.0,
+            "Nexys_LV_voltage": 12001.0
+        },
+        "det_info": {
+            "ABC_Fuse": [
+                "8941818a",
+                "8941818b",
+                "8945b193",
+                "8945b195",
+                "8945b196",
+                "8945b198",
+                "8945b19a",
+                "8945b19b",
+                "8945b19c",
+                "8945b1a4"
+            ],
+            "AMAC_FuseID": "401586",
+            "AMAC_Side": "Y",
+            "Address": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "Channel": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "DUT_type": "Barrel",
+            "HCC_Fuse": "30401061",
+            "Module 0-9_HV_model": "ITKHV",
+            "Module 0-9_LV_model": "CPX400DP",
+            "Module 0-9_LV_serial": "394124",
+            "Nexys_LV_model": "CPX400DP",
+            "Nexys_LV_serial": "394124",
+            "name": "JaneDoe3Y"
+        },
+        "scan_info": {
+            "event_count": [
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                248,
+                744,
+                1736,
+                5952,
+                11904,
+                23808,
+                47616,
+                95232,
+                190464,
+                380928,
+                761856,
+                1523712,
+                3047424,
+                6094848,
+                12189696,
+                24379392,
+                48758784,
+                64000120,
+                64000120,
+                64000120,
+                64000120,
+                64000120,
+                64000120,
+                64000120
+            ],
+            "rc_fit": [
+                [
+                    1235.9100341796875,
+                    3.8299999237060547,
+                    -589.3800048828125
+                ],
+                [
+                    1269.4100341796875,
+                    4.269999980926514,
+                    -606.02001953125
+                ],
+                [
+                    1218.9100341796875,
+                    3.640000104904175,
+                    -579.5499877929688
+                ],
+                [
+                    1282.8299560546875,
+                    4.070000171661377,
+                    -611.02001953125
+                ],
+                [
+                    1266.7099609375,
+                    3.9100000858306885,
+                    -603.780029296875
+                ],
+                [
+                    1299.739990234375,
+                    3.859999895095825,
+                    -619.6099853515625
+                ],
+                [
+                    1202.8599853515625,
+                    3.6600000858306885,
+                    -572.5599975585938
+                ],
+                [
+                    1206.8199462890625,
+                    3.6700000762939453,
+                    -573.3900146484375
+                ],
+                [
+                    1203.989990234375,
+                    3.700000047683716,
+                    -571.4400024414063
+                ],
+                [
+                    1201.3699951171875,
+                    3.9600000381469727,
+                    -570.5800170898438
+                ],
+                [
+                    1239.760009765625,
+                    3.8399999141693115,
+                    -590.780029296875
+                ],
+                [
+                    1282.5,
+                    4.329999923706055,
+                    -611.739990234375
+                ],
+                [
+                    1221.02001953125,
+                    3.6700000762939453,
+                    -579.9299926757813
+                ],
+                [
+                    1286.43994140625,
+                    4.099999904632568,
+                    -612.239990234375
+                ],
+                [
+                    1279.0899658203125,
+                    3.9600000381469727,
+                    -609.2000122070313
+                ],
+                [
+                    1307.5799560546875,
+                    3.890000104904175,
+                    -622.6799926757813
+                ],
+                [
+                    1211.5899658203125,
+                    3.7200000286102295,
+                    -576.239990234375
+                ],
+                [
+                    1216.800048828125,
+                    3.690000057220459,
+                    -577.6400146484375
+                ],
+                [
+                    1215.1700439453125,
+                    3.740000009536743,
+                    -576.4099731445313
+                ],
+                [
+                    1219.239990234375,
+                    4.039999961853027,
+                    -578.9199829101563
+                ]
+            ],
+            "rc_func": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "trim_target": [
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0,
+                15.0
+            ]
+        },
+        "system_info": {
+            "Analysis_time": "2024-02-08T10:40:56.000Z",
+            "Firmware revision": "0xb66d",
+            "GIT URL": "https://gitlab.cern.ch/atlas-itk-strips-daq/itsdaq-sw.git/-/tree/4b966b8d83bb1116847c6f8d7422d01455532a83",
+            "GIT branch": "commandsetv2",
+            "GIT build date": "2023-11-06 09:29:37 +0000 (Mon, 06 Nov 2023)",
+            "GIT commit date": "2023-11-02 17:55:31 +0000 (Thu, 02 Nov 2023)",
+            "GIT describe": "itsdaq_23_3_2023-890-g4b966b8d8",
+            "GIT revision": "4b966b8d83bb1116847c6f8d7422d01455532a83",
+            "Location": "BHAM_COLDJIG",
+            "User": "FU",
+            "analysis_version": "3.43",
+            "dedication": "New dedication as we're going for PPA",
+            "host": "epldt116.ph.bham.ac.uk"
+        }
+    },
+    "results": {
+        "enc_est_away": [
+            875.2383422851563,
+            888.0081787109375,
+            708.0523071289063,
+            785.3921508789063,
+            922.7094116210938,
+            837.220703125,
+            949.1012573242188,
+            558.8982543945313,
+            750.684814453125,
+            1137.4737548828125
+        ],
+        "enc_est_under": [
+            721.70068359375,
+            757.9732055664063,
+            617.0307006835938,
+            746.1602172851563,
+            751.1332397460938,
+            684.9814453125,
+            676.7090454101563,
+            773.993408203125,
+            961.4840087890625,
+            607.1456909179688
+        ],
+        "occupancy_mean_away": [
+            0.3974921703338623,
+            0.39664164185523987,
+            0.39078232645988464,
+            0.39279839396476746,
+            0.3865296542644501,
+            0.38432446122169495,
+            0.3795992434024811,
+            0.3833794593811035,
+            0.383883535861969,
+            0.38067030906677246
+        ],
+        "occupancy_mean_under": [
+            0.39944544434547424,
+            0.3904988765716553,
+            0.38671860098838806,
+            0.38826218247413635,
+            0.3845764696598053,
+            0.37701621651649475,
+            0.38082775473594666,
+            0.3816467821598053,
+            0.384986013174057,
+            0.38372597098350525
+        ],
+        "occupancy_rms_away": [
+            0.018977394327521324,
+            0.0166626013815403,
+            0.017365556210279465,
+            0.019063666462898254,
+            0.019616730511188507,
+            0.01935608871281147,
+            0.020558921620249748,
+            0.021082831546664238,
+            0.01983966864645481,
+            0.02193228155374527
+        ],
+        "occupancy_rms_under": [
+            0.01942160725593567,
+            0.01900968700647354,
+            0.01783759705722332,
+            0.017190029844641685,
+            0.01564125157892704,
+            0.02158530242741108,
+            0.019270971417427063,
+            0.020496148616075516,
+            0.018703371286392212,
+            0.019467508420348167
+        ],
+        "offset_away": [
+            12.831839561462402,
+            12.861796379089355,
+            12.476949691772461,
+            12.547377586364746,
+            12.426398277282715,
+            12.422189712524414,
+            12.621248245239258,
+            12.503215789794922,
+            12.55932903289795,
+            12.75568962097168
+        ],
+        "offset_under": [
+            12.912786483764648,
+            12.857856750488281,
+            12.425567626953125,
+            12.466526985168457,
+            12.257894515991211,
+            12.348637580871582,
+            12.527337074279785,
+            12.410211563110352,
+            12.457131385803223,
+            12.728181838989258
+        ]
+    },
+    "runNumber": "37-842",
+    "testType": "NO_PPA"
+}

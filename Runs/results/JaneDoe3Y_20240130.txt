@@ -1,0 +1,1488 @@
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-176
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"00:51:01"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	 43 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.1119e-315
+#S06
+#	9.7825e-322	9.7825e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.0974e-315
+#M00
+#	2.0974e-315	2.0974e-315
+#S01
+#	2.0974e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.0974e-315
+#S03
+#	2.1007e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-194
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"02:04:17"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	 42 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.0478e-315
+#S06
+#	9.8319e-322	9.8319e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.0431e-315
+#M00
+#	2.0431e-315	2.0431e-315
+#S01
+#	2.0431e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.0431e-315
+#S03
+#	2.0361e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-212
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"03:15:19"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	 42 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.0738e-315
+#S06
+#	9.8319e-322	9.8319e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.0779e-315
+#M00
+#	2.0779e-315	2.0779e-315
+#S01
+#	2.0779e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.0779e-315
+#S03
+#	2.0698e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-230
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"04:25:29"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	 43 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.0365e-315
+#S06
+#	9.8319e-322	9.8319e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.0177e-315
+#M00
+#	2.0177e-315	2.0177e-315
+#S01
+#	2.0177e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.0177e-315
+#S03
+#	2.0935e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-248
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"05:34:43"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	 43 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.0862e-315
+#S06
+#	9.8813e-322	9.8813e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.1775e-315
+#M00
+#	2.1775e-315	2.1775e-315
+#S01
+#	2.1775e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.1775e-315
+#S03
+#	2.0895e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-266
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"06:45:49"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	 43 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.1243e-315
+#S06
+#	9.8813e-322	9.8813e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.0733e-315
+#M00
+#	2.0733e-315	2.0733e-315
+#S01
+#	2.0733e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.0733e-315
+#S03
+#	2.0534e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-284
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"07:56:12"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	 43 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.0880e-315
+#S06
+#	9.8813e-322	9.8813e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.1284e-315
+#M00
+#	2.1284e-315	2.1284e-315
+#S01
+#	2.1284e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.1284e-315
+#S03
+#	2.0454e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 34-302
+TEST_DATE      : 30/01/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"09:06:13"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	 43 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#M00
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S01
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S02
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S03
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S04
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S05
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S06
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S07
+	0.0 	0.0e+00 	0.0e+00 	   0
+#S08
+	0.0 	0.0e+00 	0.0e+00 	   0
+#E09
+	0.0 	0.0e+00 	0.0e+00 	   0
+#
+#	fitpar0 fitpar1
+#M00
+#	6.9529e-310	6.9529e-310
+#S01
+#	6.9391e-310	6.9391e-310
+#S02
+#	6.9391e-310	6.9391e-310
+#S03
+#	6.9391e-310	6.9391e-310
+#S04
+#	6.9391e-310	6.9391e-310
+#S05
+#	6.9529e-310	2.1322e-315
+#S06
+#	9.8813e-322	9.8813e-322
+#S07
+#	0.0000e+00	6.9391e-310
+#S08
+#	0.0000e+00	6.9391e-310
+#E09
+#	6.9391e-310	2.1704e-315
+#M00
+#	2.1704e-315	2.1704e-315
+#S01
+#	2.1705e-315	6.9391e-310
+#S02
+#	6.9391e-310	2.1704e-315
+#S03
+#	2.1546e-315	6.9529e-310
+#S04
+#	6.9391e-310	3.4585e-323
+#S05
+#	0.0000e+00	0.0000e+00
+#S06
+#	9.8813e-324	0.0000e+00
+#S07
+#	4.9407e-324	5.8794e-322
+#S08
+#	0.0000e+00	3.2757e-321
+#E09
+#	6.9529e-310	6.9529e-310
+#
+#No defects found!
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip M00 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S01 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S02 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S03 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S04 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S05 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S06 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S07 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip S08 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : FAIL due to chip E09 low ENC (0.0 < 400)
+#
+%Comment
+COMMENT        : No trim data found
+#

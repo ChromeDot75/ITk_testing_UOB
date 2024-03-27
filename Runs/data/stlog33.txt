@@ -1,0 +1,12 @@
+EVENT 0 Mon Jan 29 14:20:52 2024
+  Startup
+EVENT 1 Mon Jan 29 14:20:53 2024
+  Firmware revision b66d
+EVENT 2 Mon Jan 29 14:20:53 2024
+  GIT hash: 4b966b8d83bb1116847c6f8d7422d01455532a83
+EVENT 3 Mon Jan 29 14:20:53 2024
+  GIT describe: itsdaq_23_3_2023-890-g4b966b8d8
+EVENT 4 Mon Jan 29 14:20:53 2024
+  GIT branch: commandsetv2
+EVENT 5 Mon Jan 29 14:20:53 2024
+  Build date: 2023-11-06 09:29:37 +0000 (Mon, 06 Nov 2023)

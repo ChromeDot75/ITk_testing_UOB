@@ -1,0 +1,6585 @@
+EVENT 6 Mon Jan 29 15:06:30 2024
+  Start scan runnum 34 scannum 3
+date 20240129 time 150630
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 0
+run_evcnt 0
+run_ercnt 0
+run_tocnt 0
+
+EVENT 7 Mon Jan 29 15:06:33 2024
+  Post scan stats
+runnum 34
+scannum 3
+date 20240129
+time 150633
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 3200
+run_evcnt 3200
+run_ercnt 0
+run_tocnt 0
+
+EVENT 8 Mon Jan 29 15:06:34 2024
+  Start scan runnum 34 scannum 4
+date 20240129 time 150634
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 3200
+run_evcnt 3200
+run_ercnt 0
+run_tocnt 0
+
+EVENT 9 Mon Jan 29 15:06:37 2024
+  Post scan stats
+runnum 34
+scannum 4
+date 20240129
+time 150637
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 4448
+run_evcnt 4448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 10 Mon Jan 29 15:06:38 2024
+  Start scan runnum 34 scannum 5
+date 20240129 time 150638
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 4448
+run_evcnt 4448
+run_ercnt 0
+run_tocnt 0
+
+EVENT 11 Mon Jan 29 15:06:56 2024
+  Post scan stats
+runnum 34
+scannum 5
+date 20240129
+time 150656
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 46432
+run_evcnt 46432
+run_ercnt 0
+run_tocnt 0
+
+EVENT 12 Mon Jan 29 15:06:56 2024
+  Start scan runnum 34 scannum 6
+date 20240129 time 150656
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 46432
+run_evcnt 46432
+run_ercnt 0
+run_tocnt 0
+
+EVENT 13 Mon Jan 29 15:07:20 2024
+  Post scan stats
+runnum 34
+scannum 6
+date 20240129
+time 150720
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 103776
+run_evcnt 103776
+run_ercnt 0
+run_tocnt 0
+
+EVENT 14 Mon Jan 29 15:07:20 2024
+  Start scan runnum 34 scannum 7
+date 20240129 time 150720
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 103776
+run_evcnt 103776
+run_ercnt 0
+run_tocnt 0
+
+EVENT 15 Mon Jan 29 15:07:50 2024
+  Post scan stats
+runnum 34
+scannum 7
+date 20240129
+time 150750
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 176480
+run_evcnt 176480
+run_ercnt 0
+run_tocnt 0
+
+EVENT 16 Mon Jan 29 15:07:51 2024
+  Start scan runnum 34 scannum 8
+date 20240129 time 150751
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 176480
+run_evcnt 176480
+run_ercnt 0
+run_tocnt 0
+
+EVENT 17 Mon Jan 29 15:08:05 2024
+  Post scan stats
+runnum 34
+scannum 8
+date 20240129
+time 150805
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 208224
+run_evcnt 208224
+run_ercnt 0
+run_tocnt 0
+
+EVENT 18 Mon Jan 29 15:08:05 2024
+  Start scan runnum 34 scannum 9
+date 20240129 time 150805
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 208224
+run_evcnt 208224
+run_ercnt 0
+run_tocnt 0
+
+EVENT 19 Mon Jan 29 15:08:23 2024
+  Post scan stats
+runnum 34
+scannum 9
+date 20240129
+time 150823
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 250208
+run_evcnt 250208
+run_ercnt 0
+run_tocnt 0
+
+EVENT 20 Mon Jan 29 15:08:23 2024
+  Start scan runnum 34 scannum 10
+date 20240129 time 150823
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 250208
+run_evcnt 250208
+run_ercnt 0
+run_tocnt 0
+
+EVENT 21 Mon Jan 29 15:08:45 2024
+  Post scan stats
+runnum 34
+scannum 10
+date 20240129
+time 150845
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 301408
+run_evcnt 301408
+run_ercnt 0
+run_tocnt 0
+
+EVENT 22 Mon Jan 29 15:08:45 2024
+  Start scan runnum 34 scannum 11
+date 20240129 time 150845
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 301408
+run_evcnt 301408
+run_ercnt 0
+run_tocnt 0
+
+EVENT 23 Mon Jan 29 15:09:10 2024
+  Post scan stats
+runnum 34
+scannum 11
+date 20240129
+time 150909
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 358752
+run_evcnt 358752
+run_ercnt 0
+run_tocnt 0
+
+EVENT 24 Mon Jan 29 15:09:10 2024
+  Start scan runnum 34 scannum 12
+date 20240129 time 150910
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 358752
+run_evcnt 358752
+run_ercnt 0
+run_tocnt 0
+
+EVENT 25 Mon Jan 29 15:09:36 2024
+  Post scan stats
+runnum 34
+scannum 12
+date 20240129
+time 150936
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 423264
+run_evcnt 423264
+run_ercnt 0
+run_tocnt 0
+
+EVENT 26 Mon Jan 29 15:09:37 2024
+  Start scan runnum 34 scannum 13
+date 20240129 time 150937
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 423264
+run_evcnt 423264
+run_ercnt 0
+run_tocnt 0
+
+EVENT 27 Mon Jan 29 15:10:07 2024
+  Post scan stats
+runnum 34
+scannum 13
+date 20240129
+time 151007
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 495968
+run_evcnt 495968
+run_ercnt 0
+run_tocnt 0
+
+EVENT 28 Mon Jan 29 15:10:07 2024
+  Start scan runnum 34 scannum 14
+date 20240129 time 151007
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 495968
+run_evcnt 495968
+run_ercnt 0
+run_tocnt 0
+
+EVENT 29 Mon Jan 29 15:10:43 2024
+  Post scan stats
+runnum 34
+scannum 14
+date 20240129
+time 151043
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 584032
+run_evcnt 584032
+run_ercnt 0
+run_tocnt 0
+
+EVENT 30 Mon Jan 29 15:10:44 2024
+  Start scan runnum 34 scannum 15
+date 20240129 time 151044
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 584032
+run_evcnt 584032
+run_ercnt 0
+run_tocnt 0
+
+EVENT 31 Mon Jan 29 15:11:25 2024
+  Post scan stats
+runnum 34
+scannum 15
+date 20240129
+time 151125
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 685408
+run_evcnt 685408
+run_ercnt 0
+run_tocnt 0
+
+EVENT 32 Mon Jan 29 15:11:26 2024
+  Start scan runnum 34 scannum 16
+date 20240129 time 151126
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 685408
+run_evcnt 685408
+run_ercnt 0
+run_tocnt 0
+
+EVENT 33 Mon Jan 29 15:12:06 2024
+  Post scan stats
+runnum 34
+scannum 16
+date 20240129
+time 151206
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 782688
+run_evcnt 782688
+run_ercnt 0
+run_tocnt 0
+
+EVENT 34 Mon Jan 29 15:12:06 2024
+  Start scan runnum 34 scannum 17
+date 20240129 time 151206
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 782688
+run_evcnt 782688
+run_ercnt 0
+run_tocnt 0
+
+EVENT 35 Mon Jan 29 15:12:37 2024
+  Post scan stats
+runnum 34
+scannum 17
+date 20240129
+time 151237
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 858464
+run_evcnt 858464
+run_ercnt 0
+run_tocnt 0
+
+EVENT 36 Mon Jan 29 15:12:39 2024
+  Start scan runnum 34 scannum 18
+date 20240129 time 151239
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 858464
+run_evcnt 858464
+run_ercnt 0
+run_tocnt 0
+
+EVENT 37 Mon Jan 29 15:21:17 2024
+  Post scan stats
+runnum 34
+scannum 18
+date 20240129
+time 152117
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 546377368
+run_evcnt 546377368
+run_ercnt 0
+run_tocnt 0
+
+EVENT 38 Mon Jan 29 15:41:55 2024
+  Start scan runnum 34 scannum 19
+date 20240129 time 154155
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 546377368
+run_evcnt 546377368
+run_ercnt 0
+run_tocnt 0
+
+EVENT 39 Mon Jan 29 15:41:57 2024
+  Post scan stats
+runnum 34
+scannum 19
+date 20240129
+time 154157
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 546377496
+run_evcnt 546377496
+run_ercnt 0
+run_tocnt 256
+
+EVENT 40 Mon Jan 29 15:41:58 2024
+  Start scan runnum 34 scannum 20
+date 20240129 time 154158
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 546377496
+run_evcnt 546377496
+run_ercnt 0
+run_tocnt 256
+
+EVENT 41 Mon Jan 29 15:42:05 2024
+  Post scan stats
+runnum 34
+scannum 20
+date 20240129
+time 154205
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 546379544
+run_evcnt 546379544
+run_ercnt 0
+run_tocnt 256
+
+EVENT 42 Mon Jan 29 15:42:05 2024
+  Start scan runnum 34 scannum 21
+date 20240129 time 154205
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 546379544
+run_evcnt 546379544
+run_ercnt 0
+run_tocnt 256
+
+EVENT 43 Mon Jan 29 15:43:01 2024
+  Post scan stats
+runnum 34
+scannum 21
+date 20240129
+time 154301
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 546471704
+run_evcnt 546471704
+run_ercnt 0
+run_tocnt 46336
+
+EVENT 44 Mon Jan 29 15:43:01 2024
+  Start scan runnum 34 scannum 22
+date 20240129 time 154301
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 546471704
+run_evcnt 546471704
+run_ercnt 0
+run_tocnt 46336
+
+EVENT 45 Mon Jan 29 15:44:06 2024
+  Post scan stats
+runnum 34
+scannum 22
+date 20240129
+time 154405
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 546579224
+run_evcnt 546579224
+run_ercnt 0
+run_tocnt 100096
+
+EVENT 46 Mon Jan 29 15:44:06 2024
+  Start scan runnum 34 scannum 23
+date 20240129 time 154406
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 546579224
+run_evcnt 546579224
+run_ercnt 0
+run_tocnt 100096
+
+EVENT 47 Mon Jan 29 15:45:20 2024
+  Post scan stats
+runnum 34
+scannum 23
+date 20240129
+time 154520
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 546702104
+run_evcnt 546702104
+run_ercnt 0
+run_tocnt 161536
+
+EVENT 48 Mon Jan 29 15:45:20 2024
+  Start scan runnum 34 scannum 24
+date 20240129 time 154520
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 546702104
+run_evcnt 546702104
+run_ercnt 0
+run_tocnt 161536
+
+EVENT 49 Mon Jan 29 15:46:10 2024
+  Post scan stats
+runnum 34
+scannum 24
+date 20240129
+time 154610
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 546785048
+run_evcnt 546785048
+run_ercnt 0
+run_tocnt 203008
+
+EVENT 50 Mon Jan 29 15:46:10 2024
+  Start scan runnum 34 scannum 25
+date 20240129 time 154610
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 546785048
+run_evcnt 546785048
+run_ercnt 0
+run_tocnt 203008
+
+EVENT 51 Mon Jan 29 15:47:06 2024
+  Post scan stats
+runnum 34
+scannum 25
+date 20240129
+time 154706
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 546877208
+run_evcnt 546877208
+run_ercnt 0
+run_tocnt 249088
+
+EVENT 52 Mon Jan 29 15:47:06 2024
+  Start scan runnum 34 scannum 26
+date 20240129 time 154706
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 546877208
+run_evcnt 546877208
+run_ercnt 0
+run_tocnt 249088
+
+EVENT 53 Mon Jan 29 15:48:08 2024
+  Post scan stats
+runnum 34
+scannum 26
+date 20240129
+time 154808
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 546979608
+run_evcnt 546979608
+run_ercnt 0
+run_tocnt 300288
+
+EVENT 54 Mon Jan 29 15:48:08 2024
+  Start scan runnum 34 scannum 27
+date 20240129 time 154808
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 546979608
+run_evcnt 546979608
+run_ercnt 0
+run_tocnt 300288
+
+EVENT 55 Mon Jan 29 15:49:14 2024
+  Post scan stats
+runnum 34
+scannum 27
+date 20240129
+time 154914
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 547087128
+run_evcnt 547087128
+run_ercnt 0
+run_tocnt 354048
+
+EVENT 56 Mon Jan 29 15:49:14 2024
+  Start scan runnum 34 scannum 28
+date 20240129 time 154914
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 547087128
+run_evcnt 547087128
+run_ercnt 0
+run_tocnt 354048
+
+EVENT 57 Mon Jan 29 15:50:24 2024
+  Post scan stats
+runnum 34
+scannum 28
+date 20240129
+time 155024
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 547203864
+run_evcnt 547203864
+run_ercnt 0
+run_tocnt 412416
+
+EVENT 58 Mon Jan 29 15:50:24 2024
+  Start scan runnum 34 scannum 29
+date 20240129 time 155024
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 547203864
+run_evcnt 547203864
+run_ercnt 0
+run_tocnt 412416
+
+EVENT 59 Mon Jan 29 15:51:38 2024
+  Post scan stats
+runnum 34
+scannum 29
+date 20240129
+time 155138
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 547326744
+run_evcnt 547326744
+run_ercnt 0
+run_tocnt 473856
+
+EVENT 60 Mon Jan 29 15:51:38 2024
+  Start scan runnum 34 scannum 30
+date 20240129 time 155138
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 547326744
+run_evcnt 547326744
+run_ercnt 0
+run_tocnt 473856
+
+EVENT 61 Mon Jan 29 15:53:02 2024
+  Post scan stats
+runnum 34
+scannum 30
+date 20240129
+time 155301
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 547464984
+run_evcnt 547464984
+run_ercnt 0
+run_tocnt 542976
+
+EVENT 62 Mon Jan 29 15:53:02 2024
+  Start scan runnum 34 scannum 31
+date 20240129 time 155302
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 547464984
+run_evcnt 547464984
+run_ercnt 0
+run_tocnt 542976
+
+EVENT 63 Mon Jan 29 15:54:34 2024
+  Post scan stats
+runnum 34
+scannum 31
+date 20240129
+time 155434
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 547619608
+run_evcnt 547619608
+run_ercnt 0
+run_tocnt 620288
+
+EVENT 64 Mon Jan 29 15:54:34 2024
+  Start scan runnum 34 scannum 32
+date 20240129 time 155434
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 547619608
+run_evcnt 547619608
+run_ercnt 0
+run_tocnt 620288
+
+EVENT 65 Mon Jan 29 15:56:06 2024
+  Post scan stats
+runnum 34
+scannum 32
+date 20240129
+time 155606
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 547774232
+run_evcnt 547774232
+run_ercnt 0
+run_tocnt 697600
+
+EVENT 66 Mon Jan 29 15:56:06 2024
+  Start scan runnum 34 scannum 33
+date 20240129 time 155606
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 547774232
+run_evcnt 547774232
+run_ercnt 0
+run_tocnt 697600
+
+EVENT 67 Mon Jan 29 15:57:39 2024
+  Post scan stats
+runnum 34
+scannum 33
+date 20240129
+time 155739
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 547928856
+run_evcnt 547928856
+run_ercnt 0
+run_tocnt 774912
+
+EVENT 68 Mon Jan 29 15:57:39 2024
+  Start scan runnum 34 scannum 34
+date 20240129 time 155739
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 547928856
+run_evcnt 547928856
+run_ercnt 0
+run_tocnt 774912
+
+EVENT 69 Mon Jan 29 16:00:24 2024
+  Post scan stats
+runnum 34
+scannum 34
+date 20240129
+time 160024
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 709443568
+run_evcnt 709443568
+run_ercnt 0
+run_tocnt 796928
+
+EVENT 70 Mon Jan 29 16:20:49 2024
+  Start scan runnum 34 scannum 35
+date 20240129 time 162049
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 709443568
+run_evcnt 709443568
+run_ercnt 0
+run_tocnt 796928
+
+EVENT 71 Mon Jan 29 16:20:51 2024
+  Post scan stats
+runnum 34
+scannum 35
+date 20240129
+time 162051
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 709443696
+run_evcnt 709443696
+run_ercnt 0
+run_tocnt 797184
+
+EVENT 72 Mon Jan 29 16:20:51 2024
+  Start scan runnum 34 scannum 36
+date 20240129 time 162051
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 709443696
+run_evcnt 709443696
+run_ercnt 0
+run_tocnt 797184
+
+EVENT 73 Mon Jan 29 16:20:59 2024
+  Post scan stats
+runnum 34
+scannum 36
+date 20240129
+time 162058
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 709445744
+run_evcnt 709445744
+run_ercnt 0
+run_tocnt 797184
+
+EVENT 74 Mon Jan 29 16:20:59 2024
+  Start scan runnum 34 scannum 37
+date 20240129 time 162059
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 709445744
+run_evcnt 709445744
+run_ercnt 0
+run_tocnt 797184
+
+EVENT 75 Mon Jan 29 16:21:54 2024
+  Post scan stats
+runnum 34
+scannum 37
+date 20240129
+time 162154
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 709537904
+run_evcnt 709537904
+run_ercnt 0
+run_tocnt 843264
+
+EVENT 76 Mon Jan 29 16:21:54 2024
+  Start scan runnum 34 scannum 38
+date 20240129 time 162154
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 709537904
+run_evcnt 709537904
+run_ercnt 0
+run_tocnt 843264
+
+EVENT 77 Mon Jan 29 16:22:58 2024
+  Post scan stats
+runnum 34
+scannum 38
+date 20240129
+time 162258
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 709645424
+run_evcnt 709645424
+run_ercnt 0
+run_tocnt 897024
+
+EVENT 78 Mon Jan 29 16:22:58 2024
+  Start scan runnum 34 scannum 39
+date 20240129 time 162258
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 709645424
+run_evcnt 709645424
+run_ercnt 0
+run_tocnt 897024
+
+EVENT 79 Mon Jan 29 16:24:11 2024
+  Post scan stats
+runnum 34
+scannum 39
+date 20240129
+time 162411
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 709768304
+run_evcnt 709768304
+run_ercnt 0
+run_tocnt 958464
+
+EVENT 80 Mon Jan 29 16:24:11 2024
+  Start scan runnum 34 scannum 40
+date 20240129 time 162411
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 709768304
+run_evcnt 709768304
+run_ercnt 0
+run_tocnt 958464
+
+EVENT 81 Mon Jan 29 16:25:01 2024
+  Post scan stats
+runnum 34
+scannum 40
+date 20240129
+time 162501
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 709851248
+run_evcnt 709851248
+run_ercnt 0
+run_tocnt 999936
+
+EVENT 82 Mon Jan 29 16:25:02 2024
+  Start scan runnum 34 scannum 41
+date 20240129 time 162502
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 709851248
+run_evcnt 709851248
+run_ercnt 0
+run_tocnt 999936
+
+EVENT 83 Mon Jan 29 16:25:57 2024
+  Post scan stats
+runnum 34
+scannum 41
+date 20240129
+time 162556
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 709943408
+run_evcnt 709943408
+run_ercnt 0
+run_tocnt 1046016
+
+EVENT 84 Mon Jan 29 16:25:57 2024
+  Start scan runnum 34 scannum 42
+date 20240129 time 162557
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 709943408
+run_evcnt 709943408
+run_ercnt 0
+run_tocnt 1046016
+
+EVENT 85 Mon Jan 29 16:26:57 2024
+  Post scan stats
+runnum 34
+scannum 42
+date 20240129
+time 162657
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 710045808
+run_evcnt 710045808
+run_ercnt 0
+run_tocnt 1097216
+
+EVENT 86 Mon Jan 29 16:26:57 2024
+  Start scan runnum 34 scannum 43
+date 20240129 time 162657
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 710045808
+run_evcnt 710045808
+run_ercnt 0
+run_tocnt 1097216
+
+EVENT 87 Mon Jan 29 16:28:01 2024
+  Post scan stats
+runnum 34
+scannum 43
+date 20240129
+time 162801
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 710153328
+run_evcnt 710153328
+run_ercnt 0
+run_tocnt 1150976
+
+EVENT 88 Mon Jan 29 16:28:02 2024
+  Start scan runnum 34 scannum 44
+date 20240129 time 162802
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 710153328
+run_evcnt 710153328
+run_ercnt 0
+run_tocnt 1150976
+
+EVENT 89 Mon Jan 29 16:29:11 2024
+  Post scan stats
+runnum 34
+scannum 44
+date 20240129
+time 162911
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 710270064
+run_evcnt 710270064
+run_ercnt 0
+run_tocnt 1209344
+
+EVENT 90 Mon Jan 29 16:29:11 2024
+  Start scan runnum 34 scannum 45
+date 20240129 time 162911
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 710270064
+run_evcnt 710270064
+run_ercnt 0
+run_tocnt 1209344
+
+EVENT 91 Mon Jan 29 16:30:24 2024
+  Post scan stats
+runnum 34
+scannum 45
+date 20240129
+time 163024
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 710392944
+run_evcnt 710392944
+run_ercnt 0
+run_tocnt 1270784
+
+EVENT 92 Mon Jan 29 16:30:24 2024
+  Start scan runnum 34 scannum 46
+date 20240129 time 163024
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 710392944
+run_evcnt 710392944
+run_ercnt 0
+run_tocnt 1270784
+
+EVENT 93 Mon Jan 29 16:31:46 2024
+  Post scan stats
+runnum 34
+scannum 46
+date 20240129
+time 163146
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 710531184
+run_evcnt 710531184
+run_ercnt 0
+run_tocnt 1339904
+
+EVENT 94 Mon Jan 29 16:31:46 2024
+  Start scan runnum 34 scannum 47
+date 20240129 time 163146
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 710531184
+run_evcnt 710531184
+run_ercnt 0
+run_tocnt 1339904
+
+EVENT 95 Mon Jan 29 16:33:18 2024
+  Post scan stats
+runnum 34
+scannum 47
+date 20240129
+time 163318
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 710685808
+run_evcnt 710685808
+run_ercnt 0
+run_tocnt 1417216
+
+EVENT 96 Mon Jan 29 16:33:19 2024
+  Start scan runnum 34 scannum 48
+date 20240129 time 163319
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 710685808
+run_evcnt 710685808
+run_ercnt 0
+run_tocnt 1417216
+
+EVENT 97 Mon Jan 29 16:34:51 2024
+  Post scan stats
+runnum 34
+scannum 48
+date 20240129
+time 163450
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 710840432
+run_evcnt 710840432
+run_ercnt 0
+run_tocnt 1494528
+
+EVENT 98 Mon Jan 29 16:34:51 2024
+  Start scan runnum 34 scannum 49
+date 20240129 time 163451
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 710840432
+run_evcnt 710840432
+run_ercnt 0
+run_tocnt 1494528
+
+EVENT 99 Mon Jan 29 16:36:23 2024
+  Post scan stats
+runnum 34
+scannum 49
+date 20240129
+time 163622
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 710995056
+run_evcnt 710995056
+run_ercnt 0
+run_tocnt 1571840
+
+EVENT 100 Mon Jan 29 16:36:23 2024
+  Start scan runnum 34 scannum 50
+date 20240129 time 163623
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 710995056
+run_evcnt 710995056
+run_ercnt 0
+run_tocnt 1571840
+
+EVENT 101 Mon Jan 29 16:39:07 2024
+  Post scan stats
+runnum 34
+scannum 50
+date 20240129
+time 163907
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 872509768
+run_evcnt 872509768
+run_ercnt 0
+run_tocnt 1593856
+
+EVENT 102 Mon Jan 29 17:32:33 2024
+  Start scan runnum 34 scannum 53
+date 20240129 time 173233
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 872509768
+run_evcnt 872509768
+run_ercnt 0
+run_tocnt 1593856
+
+EVENT 103 Mon Jan 29 17:32:35 2024
+  Post scan stats
+runnum 34
+scannum 53
+date 20240129
+time 173235
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 872509896
+run_evcnt 872509896
+run_ercnt 0
+run_tocnt 1594112
+
+EVENT 104 Mon Jan 29 17:32:35 2024
+  Start scan runnum 34 scannum 54
+date 20240129 time 173235
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 872509896
+run_evcnt 872509896
+run_ercnt 0
+run_tocnt 1594112
+
+EVENT 105 Mon Jan 29 17:32:42 2024
+  Post scan stats
+runnum 34
+scannum 54
+date 20240129
+time 173242
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 872511944
+run_evcnt 872511944
+run_ercnt 0
+run_tocnt 1594112
+
+EVENT 106 Mon Jan 29 17:32:43 2024
+  Start scan runnum 34 scannum 55
+date 20240129 time 173243
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 872511944
+run_evcnt 872511944
+run_ercnt 0
+run_tocnt 1594112
+
+EVENT 107 Mon Jan 29 17:33:39 2024
+  Post scan stats
+runnum 34
+scannum 55
+date 20240129
+time 173338
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 872604104
+run_evcnt 872604104
+run_ercnt 0
+run_tocnt 1640192
+
+EVENT 108 Mon Jan 29 17:33:39 2024
+  Start scan runnum 34 scannum 56
+date 20240129 time 173339
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 872604104
+run_evcnt 872604104
+run_ercnt 0
+run_tocnt 1640192
+
+EVENT 109 Mon Jan 29 17:34:44 2024
+  Post scan stats
+runnum 34
+scannum 56
+date 20240129
+time 173443
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 872711624
+run_evcnt 872711624
+run_ercnt 0
+run_tocnt 1693952
+
+EVENT 110 Mon Jan 29 17:34:44 2024
+  Start scan runnum 34 scannum 57
+date 20240129 time 173444
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 872711624
+run_evcnt 872711624
+run_ercnt 0
+run_tocnt 1693952
+
+EVENT 111 Mon Jan 29 17:35:57 2024
+  Post scan stats
+runnum 34
+scannum 57
+date 20240129
+time 173557
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 872834504
+run_evcnt 872834504
+run_ercnt 0
+run_tocnt 1755392
+
+EVENT 112 Mon Jan 29 17:35:58 2024
+  Start scan runnum 34 scannum 58
+date 20240129 time 173558
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 872834504
+run_evcnt 872834504
+run_ercnt 0
+run_tocnt 1755392
+
+EVENT 113 Mon Jan 29 17:36:48 2024
+  Post scan stats
+runnum 34
+scannum 58
+date 20240129
+time 173648
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 872917448
+run_evcnt 872917448
+run_ercnt 0
+run_tocnt 1796864
+
+EVENT 114 Mon Jan 29 17:36:48 2024
+  Start scan runnum 34 scannum 59
+date 20240129 time 173648
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 872917448
+run_evcnt 872917448
+run_ercnt 0
+run_tocnt 1796864
+
+EVENT 115 Mon Jan 29 17:37:44 2024
+  Post scan stats
+runnum 34
+scannum 59
+date 20240129
+time 173744
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 873009608
+run_evcnt 873009608
+run_ercnt 0
+run_tocnt 1842944
+
+EVENT 116 Mon Jan 29 17:37:44 2024
+  Start scan runnum 34 scannum 60
+date 20240129 time 173744
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 873009608
+run_evcnt 873009608
+run_ercnt 0
+run_tocnt 1842944
+
+EVENT 117 Mon Jan 29 17:38:46 2024
+  Post scan stats
+runnum 34
+scannum 60
+date 20240129
+time 173846
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 873112008
+run_evcnt 873112008
+run_ercnt 0
+run_tocnt 1894144
+
+EVENT 118 Mon Jan 29 17:38:46 2024
+  Start scan runnum 34 scannum 61
+date 20240129 time 173846
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 873112008
+run_evcnt 873112008
+run_ercnt 0
+run_tocnt 1894144
+
+EVENT 119 Mon Jan 29 17:39:51 2024
+  Post scan stats
+runnum 34
+scannum 61
+date 20240129
+time 173950
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 873219528
+run_evcnt 873219528
+run_ercnt 0
+run_tocnt 1947904
+
+EVENT 120 Mon Jan 29 17:39:51 2024
+  Start scan runnum 34 scannum 62
+date 20240129 time 173951
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 873219528
+run_evcnt 873219528
+run_ercnt 0
+run_tocnt 1947904
+
+EVENT 121 Mon Jan 29 17:41:01 2024
+  Post scan stats
+runnum 34
+scannum 62
+date 20240129
+time 174101
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 873336264
+run_evcnt 873336264
+run_ercnt 0
+run_tocnt 2006272
+
+EVENT 122 Mon Jan 29 17:41:01 2024
+  Start scan runnum 34 scannum 63
+date 20240129 time 174101
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 873336264
+run_evcnt 873336264
+run_ercnt 0
+run_tocnt 2006272
+
+EVENT 123 Mon Jan 29 17:42:15 2024
+  Post scan stats
+runnum 34
+scannum 63
+date 20240129
+time 174215
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 873459144
+run_evcnt 873459144
+run_ercnt 0
+run_tocnt 2067712
+
+EVENT 124 Mon Jan 29 17:42:15 2024
+  Start scan runnum 34 scannum 64
+date 20240129 time 174215
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 873459144
+run_evcnt 873459144
+run_ercnt 0
+run_tocnt 2067712
+
+EVENT 125 Mon Jan 29 17:43:38 2024
+  Post scan stats
+runnum 34
+scannum 64
+date 20240129
+time 174338
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 873597384
+run_evcnt 873597384
+run_ercnt 0
+run_tocnt 2136832
+
+EVENT 126 Mon Jan 29 17:43:38 2024
+  Start scan runnum 34 scannum 65
+date 20240129 time 174338
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 873597384
+run_evcnt 873597384
+run_ercnt 0
+run_tocnt 2136832
+
+EVENT 127 Mon Jan 29 17:45:11 2024
+  Post scan stats
+runnum 34
+scannum 65
+date 20240129
+time 174511
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 873752008
+run_evcnt 873752008
+run_ercnt 0
+run_tocnt 2214144
+
+EVENT 128 Mon Jan 29 17:45:11 2024
+  Start scan runnum 34 scannum 66
+date 20240129 time 174511
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 873752008
+run_evcnt 873752008
+run_ercnt 0
+run_tocnt 2214144
+
+EVENT 129 Mon Jan 29 17:46:44 2024
+  Post scan stats
+runnum 34
+scannum 66
+date 20240129
+time 174644
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 873906632
+run_evcnt 873906632
+run_ercnt 0
+run_tocnt 2291456
+
+EVENT 130 Mon Jan 29 17:46:45 2024
+  Start scan runnum 34 scannum 67
+date 20240129 time 174645
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 873906632
+run_evcnt 873906632
+run_ercnt 0
+run_tocnt 2291456
+
+EVENT 131 Mon Jan 29 17:48:17 2024
+  Post scan stats
+runnum 34
+scannum 67
+date 20240129
+time 174817
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 874061256
+run_evcnt 874061256
+run_ercnt 0
+run_tocnt 2368768
+
+EVENT 132 Mon Jan 29 17:48:18 2024
+  Start scan runnum 34 scannum 68
+date 20240129 time 174818
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 874061256
+run_evcnt 874061256
+run_ercnt 0
+run_tocnt 2368768
+
+EVENT 133 Mon Jan 29 17:51:04 2024
+  Post scan stats
+runnum 34
+scannum 68
+date 20240129
+time 175103
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1035575968
+run_evcnt 1035575968
+run_ercnt 0
+run_tocnt 2390784
+
+EVENT 134 Mon Jan 29 18:44:10 2024
+  Start scan runnum 34 scannum 71
+date 20240129 time 184410
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1035575968
+run_evcnt 1035575968
+run_ercnt 0
+run_tocnt 2390784
+
+EVENT 135 Mon Jan 29 18:44:12 2024
+  Post scan stats
+runnum 34
+scannum 71
+date 20240129
+time 184412
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1035576096
+run_evcnt 1035576096
+run_ercnt 0
+run_tocnt 2391040
+
+EVENT 136 Mon Jan 29 18:44:12 2024
+  Start scan runnum 34 scannum 72
+date 20240129 time 184412
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1035576096
+run_evcnt 1035576096
+run_ercnt 0
+run_tocnt 2391040
+
+EVENT 137 Mon Jan 29 18:44:19 2024
+  Post scan stats
+runnum 34
+scannum 72
+date 20240129
+time 184419
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1035578144
+run_evcnt 1035578144
+run_ercnt 0
+run_tocnt 2391040
+
+EVENT 138 Mon Jan 29 18:44:19 2024
+  Start scan runnum 34 scannum 73
+date 20240129 time 184419
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1035578144
+run_evcnt 1035578144
+run_ercnt 0
+run_tocnt 2391040
+
+EVENT 139 Mon Jan 29 18:45:15 2024
+  Post scan stats
+runnum 34
+scannum 73
+date 20240129
+time 184515
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1035670304
+run_evcnt 1035670304
+run_ercnt 0
+run_tocnt 2437120
+
+EVENT 140 Mon Jan 29 18:45:15 2024
+  Start scan runnum 34 scannum 74
+date 20240129 time 184515
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1035670304
+run_evcnt 1035670304
+run_ercnt 0
+run_tocnt 2437120
+
+EVENT 141 Mon Jan 29 18:46:21 2024
+  Post scan stats
+runnum 34
+scannum 74
+date 20240129
+time 184620
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1035777824
+run_evcnt 1035777824
+run_ercnt 0
+run_tocnt 2490880
+
+EVENT 142 Mon Jan 29 18:46:21 2024
+  Start scan runnum 34 scannum 75
+date 20240129 time 184621
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1035777824
+run_evcnt 1035777824
+run_ercnt 0
+run_tocnt 2490880
+
+EVENT 143 Mon Jan 29 18:47:35 2024
+  Post scan stats
+runnum 34
+scannum 75
+date 20240129
+time 184735
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1035900704
+run_evcnt 1035900704
+run_ercnt 0
+run_tocnt 2552320
+
+EVENT 144 Mon Jan 29 18:47:36 2024
+  Start scan runnum 34 scannum 76
+date 20240129 time 184736
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1035900704
+run_evcnt 1035900704
+run_ercnt 0
+run_tocnt 2552320
+
+EVENT 145 Mon Jan 29 18:48:26 2024
+  Post scan stats
+runnum 34
+scannum 76
+date 20240129
+time 184826
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1035983648
+run_evcnt 1035983648
+run_ercnt 0
+run_tocnt 2593792
+
+EVENT 146 Mon Jan 29 18:48:26 2024
+  Start scan runnum 34 scannum 77
+date 20240129 time 184826
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1035983648
+run_evcnt 1035983648
+run_ercnt 0
+run_tocnt 2593792
+
+EVENT 147 Mon Jan 29 18:49:22 2024
+  Post scan stats
+runnum 34
+scannum 77
+date 20240129
+time 184922
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1036075808
+run_evcnt 1036075808
+run_ercnt 0
+run_tocnt 2639872
+
+EVENT 148 Mon Jan 29 18:49:22 2024
+  Start scan runnum 34 scannum 78
+date 20240129 time 184922
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1036075808
+run_evcnt 1036075808
+run_ercnt 0
+run_tocnt 2639872
+
+EVENT 149 Mon Jan 29 18:50:24 2024
+  Post scan stats
+runnum 34
+scannum 78
+date 20240129
+time 185024
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1036178208
+run_evcnt 1036178208
+run_ercnt 0
+run_tocnt 2691072
+
+EVENT 150 Mon Jan 29 18:50:25 2024
+  Start scan runnum 34 scannum 79
+date 20240129 time 185025
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1036178208
+run_evcnt 1036178208
+run_ercnt 0
+run_tocnt 2691072
+
+EVENT 151 Mon Jan 29 18:51:30 2024
+  Post scan stats
+runnum 34
+scannum 79
+date 20240129
+time 185130
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1036285728
+run_evcnt 1036285728
+run_ercnt 0
+run_tocnt 2744832
+
+EVENT 152 Mon Jan 29 18:51:30 2024
+  Start scan runnum 34 scannum 80
+date 20240129 time 185130
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1036285728
+run_evcnt 1036285728
+run_ercnt 0
+run_tocnt 2744832
+
+EVENT 153 Mon Jan 29 18:52:40 2024
+  Post scan stats
+runnum 34
+scannum 80
+date 20240129
+time 185240
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1036402464
+run_evcnt 1036402464
+run_ercnt 0
+run_tocnt 2803200
+
+EVENT 154 Mon Jan 29 18:52:40 2024
+  Start scan runnum 34 scannum 81
+date 20240129 time 185240
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1036402464
+run_evcnt 1036402464
+run_ercnt 0
+run_tocnt 2803200
+
+EVENT 155 Mon Jan 29 18:53:55 2024
+  Post scan stats
+runnum 34
+scannum 81
+date 20240129
+time 185355
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1036525344
+run_evcnt 1036525344
+run_ercnt 0
+run_tocnt 2864640
+
+EVENT 156 Mon Jan 29 18:53:55 2024
+  Start scan runnum 34 scannum 82
+date 20240129 time 185355
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1036525344
+run_evcnt 1036525344
+run_ercnt 0
+run_tocnt 2864640
+
+EVENT 157 Mon Jan 29 18:55:18 2024
+  Post scan stats
+runnum 34
+scannum 82
+date 20240129
+time 185518
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1036663584
+run_evcnt 1036663584
+run_ercnt 0
+run_tocnt 2933760
+
+EVENT 158 Mon Jan 29 18:55:19 2024
+  Start scan runnum 34 scannum 83
+date 20240129 time 185519
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1036663584
+run_evcnt 1036663584
+run_ercnt 0
+run_tocnt 2933760
+
+EVENT 159 Mon Jan 29 18:56:51 2024
+  Post scan stats
+runnum 34
+scannum 83
+date 20240129
+time 185651
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1036818208
+run_evcnt 1036818208
+run_ercnt 0
+run_tocnt 3011072
+
+EVENT 160 Mon Jan 29 18:56:51 2024
+  Start scan runnum 34 scannum 84
+date 20240129 time 185651
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1036818208
+run_evcnt 1036818208
+run_ercnt 0
+run_tocnt 3011072
+
+EVENT 161 Mon Jan 29 18:58:23 2024
+  Post scan stats
+runnum 34
+scannum 84
+date 20240129
+time 185823
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1036972832
+run_evcnt 1036972832
+run_ercnt 0
+run_tocnt 3088384
+
+EVENT 162 Mon Jan 29 18:58:24 2024
+  Start scan runnum 34 scannum 85
+date 20240129 time 185824
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1036972832
+run_evcnt 1036972832
+run_ercnt 0
+run_tocnt 3088384
+
+EVENT 163 Mon Jan 29 18:59:56 2024
+  Post scan stats
+runnum 34
+scannum 85
+date 20240129
+time 185956
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1037127456
+run_evcnt 1037127456
+run_ercnt 0
+run_tocnt 3165696
+
+EVENT 164 Mon Jan 29 18:59:57 2024
+  Start scan runnum 34 scannum 86
+date 20240129 time 185957
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1037127456
+run_evcnt 1037127456
+run_ercnt 0
+run_tocnt 3165696
+
+EVENT 165 Mon Jan 29 19:02:43 2024
+  Post scan stats
+runnum 34
+scannum 86
+date 20240129
+time 190243
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1198642168
+run_evcnt 1198642168
+run_ercnt 0
+run_tocnt 3187712
+
+EVENT 166 Mon Jan 29 19:45:37 2024
+  Start scan runnum 34 scannum 89
+date 20240129 time 194537
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1198642168
+run_evcnt 1198642168
+run_ercnt 0
+run_tocnt 3187712
+
+EVENT 167 Mon Jan 29 19:45:39 2024
+  Post scan stats
+runnum 34
+scannum 89
+date 20240129
+time 194539
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1198642296
+run_evcnt 1198642296
+run_ercnt 0
+run_tocnt 3187968
+
+EVENT 168 Mon Jan 29 19:45:39 2024
+  Start scan runnum 34 scannum 90
+date 20240129 time 194539
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1198642296
+run_evcnt 1198642296
+run_ercnt 0
+run_tocnt 3187968
+
+EVENT 169 Mon Jan 29 19:45:47 2024
+  Post scan stats
+runnum 34
+scannum 90
+date 20240129
+time 194546
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1198644344
+run_evcnt 1198644344
+run_ercnt 0
+run_tocnt 3187968
+
+EVENT 170 Mon Jan 29 19:45:47 2024
+  Start scan runnum 34 scannum 91
+date 20240129 time 194547
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1198644344
+run_evcnt 1198644344
+run_ercnt 0
+run_tocnt 3187968
+
+EVENT 171 Mon Jan 29 19:46:42 2024
+  Post scan stats
+runnum 34
+scannum 91
+date 20240129
+time 194642
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1198736504
+run_evcnt 1198736504
+run_ercnt 0
+run_tocnt 3234048
+
+EVENT 172 Mon Jan 29 19:46:42 2024
+  Start scan runnum 34 scannum 92
+date 20240129 time 194642
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1198736504
+run_evcnt 1198736504
+run_ercnt 0
+run_tocnt 3234048
+
+EVENT 173 Mon Jan 29 19:47:46 2024
+  Post scan stats
+runnum 34
+scannum 92
+date 20240129
+time 194746
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1198844024
+run_evcnt 1198844024
+run_ercnt 0
+run_tocnt 3287808
+
+EVENT 174 Mon Jan 29 19:47:47 2024
+  Start scan runnum 34 scannum 93
+date 20240129 time 194747
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1198844024
+run_evcnt 1198844024
+run_ercnt 0
+run_tocnt 3287808
+
+EVENT 175 Mon Jan 29 19:49:01 2024
+  Post scan stats
+runnum 34
+scannum 93
+date 20240129
+time 194900
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1198966904
+run_evcnt 1198966904
+run_ercnt 0
+run_tocnt 3349248
+
+EVENT 176 Mon Jan 29 19:49:01 2024
+  Start scan runnum 34 scannum 94
+date 20240129 time 194901
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1198966904
+run_evcnt 1198966904
+run_ercnt 0
+run_tocnt 3349248
+
+EVENT 177 Mon Jan 29 19:49:51 2024
+  Post scan stats
+runnum 34
+scannum 94
+date 20240129
+time 194951
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1199049848
+run_evcnt 1199049848
+run_ercnt 0
+run_tocnt 3390720
+
+EVENT 178 Mon Jan 29 19:49:51 2024
+  Start scan runnum 34 scannum 95
+date 20240129 time 194951
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1199049848
+run_evcnt 1199049848
+run_ercnt 0
+run_tocnt 3390720
+
+EVENT 179 Mon Jan 29 19:50:46 2024
+  Post scan stats
+runnum 34
+scannum 95
+date 20240129
+time 195046
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1199142008
+run_evcnt 1199142008
+run_ercnt 0
+run_tocnt 3436800
+
+EVENT 180 Mon Jan 29 19:50:46 2024
+  Start scan runnum 34 scannum 96
+date 20240129 time 195046
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1199142008
+run_evcnt 1199142008
+run_ercnt 0
+run_tocnt 3436800
+
+EVENT 181 Mon Jan 29 19:51:48 2024
+  Post scan stats
+runnum 34
+scannum 96
+date 20240129
+time 195147
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1199244408
+run_evcnt 1199244408
+run_ercnt 0
+run_tocnt 3488000
+
+EVENT 182 Mon Jan 29 19:51:48 2024
+  Start scan runnum 34 scannum 97
+date 20240129 time 195148
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1199244408
+run_evcnt 1199244408
+run_ercnt 0
+run_tocnt 3488000
+
+EVENT 183 Mon Jan 29 19:52:52 2024
+  Post scan stats
+runnum 34
+scannum 97
+date 20240129
+time 195252
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1199351928
+run_evcnt 1199351928
+run_ercnt 0
+run_tocnt 3541760
+
+EVENT 184 Mon Jan 29 19:52:52 2024
+  Start scan runnum 34 scannum 98
+date 20240129 time 195252
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1199351928
+run_evcnt 1199351928
+run_ercnt 0
+run_tocnt 3541760
+
+EVENT 185 Mon Jan 29 19:54:02 2024
+  Post scan stats
+runnum 34
+scannum 98
+date 20240129
+time 195402
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1199468664
+run_evcnt 1199468664
+run_ercnt 0
+run_tocnt 3600128
+
+EVENT 186 Mon Jan 29 19:54:02 2024
+  Start scan runnum 34 scannum 99
+date 20240129 time 195402
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1199468664
+run_evcnt 1199468664
+run_ercnt 0
+run_tocnt 3600128
+
+EVENT 187 Mon Jan 29 19:55:15 2024
+  Post scan stats
+runnum 34
+scannum 99
+date 20240129
+time 195515
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1199591544
+run_evcnt 1199591544
+run_ercnt 0
+run_tocnt 3661568
+
+EVENT 188 Mon Jan 29 19:55:15 2024
+  Start scan runnum 34 scannum 100
+date 20240129 time 195515
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1199591544
+run_evcnt 1199591544
+run_ercnt 0
+run_tocnt 3661568
+
+EVENT 189 Mon Jan 29 19:56:37 2024
+  Post scan stats
+runnum 34
+scannum 100
+date 20240129
+time 195637
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1199729784
+run_evcnt 1199729784
+run_ercnt 0
+run_tocnt 3730688
+
+EVENT 190 Mon Jan 29 19:56:37 2024
+  Start scan runnum 34 scannum 101
+date 20240129 time 195637
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1199729784
+run_evcnt 1199729784
+run_ercnt 0
+run_tocnt 3730688
+
+EVENT 191 Mon Jan 29 19:58:09 2024
+  Post scan stats
+runnum 34
+scannum 101
+date 20240129
+time 195809
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1199884408
+run_evcnt 1199884408
+run_ercnt 0
+run_tocnt 3808000
+
+EVENT 192 Mon Jan 29 19:58:09 2024
+  Start scan runnum 34 scannum 102
+date 20240129 time 195809
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1199884408
+run_evcnt 1199884408
+run_ercnt 0
+run_tocnt 3808000
+
+EVENT 193 Mon Jan 29 19:59:41 2024
+  Post scan stats
+runnum 34
+scannum 102
+date 20240129
+time 195941
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1200039032
+run_evcnt 1200039032
+run_ercnt 0
+run_tocnt 3885312
+
+EVENT 194 Mon Jan 29 19:59:41 2024
+  Start scan runnum 34 scannum 103
+date 20240129 time 195941
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1200039032
+run_evcnt 1200039032
+run_ercnt 0
+run_tocnt 3885312
+
+EVENT 195 Mon Jan 29 20:01:13 2024
+  Post scan stats
+runnum 34
+scannum 103
+date 20240129
+time 200113
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1200193656
+run_evcnt 1200193656
+run_ercnt 0
+run_tocnt 3962624
+
+EVENT 196 Mon Jan 29 20:01:13 2024
+  Start scan runnum 34 scannum 104
+date 20240129 time 200113
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1200193656
+run_evcnt 1200193656
+run_ercnt 0
+run_tocnt 3962624
+
+EVENT 197 Mon Jan 29 20:04:00 2024
+  Post scan stats
+runnum 34
+scannum 104
+date 20240129
+time 200400
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1361708368
+run_evcnt 1361708368
+run_ercnt 0
+run_tocnt 3984640
+
+EVENT 198 Mon Jan 29 20:57:28 2024
+  Start scan runnum 34 scannum 107
+date 20240129 time 205728
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1361708368
+run_evcnt 1361708368
+run_ercnt 0
+run_tocnt 3984640
+
+EVENT 199 Mon Jan 29 20:57:29 2024
+  Post scan stats
+runnum 34
+scannum 107
+date 20240129
+time 205729
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1361708496
+run_evcnt 1361708496
+run_ercnt 0
+run_tocnt 3984896
+
+EVENT 200 Mon Jan 29 20:57:30 2024
+  Start scan runnum 34 scannum 108
+date 20240129 time 205730
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1361708496
+run_evcnt 1361708496
+run_ercnt 0
+run_tocnt 3984896
+
+EVENT 201 Mon Jan 29 20:57:37 2024
+  Post scan stats
+runnum 34
+scannum 108
+date 20240129
+time 205737
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1361710544
+run_evcnt 1361710544
+run_ercnt 0
+run_tocnt 3984896
+
+EVENT 202 Mon Jan 29 20:57:37 2024
+  Start scan runnum 34 scannum 109
+date 20240129 time 205737
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1361710544
+run_evcnt 1361710544
+run_ercnt 0
+run_tocnt 3984896
+
+EVENT 203 Mon Jan 29 20:58:32 2024
+  Post scan stats
+runnum 34
+scannum 109
+date 20240129
+time 205832
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1361802704
+run_evcnt 1361802704
+run_ercnt 0
+run_tocnt 4030976
+
+EVENT 204 Mon Jan 29 20:58:32 2024
+  Start scan runnum 34 scannum 110
+date 20240129 time 205832
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1361802704
+run_evcnt 1361802704
+run_ercnt 0
+run_tocnt 4030976
+
+EVENT 205 Mon Jan 29 20:59:37 2024
+  Post scan stats
+runnum 34
+scannum 110
+date 20240129
+time 205936
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1361910224
+run_evcnt 1361910224
+run_ercnt 0
+run_tocnt 4084736
+
+EVENT 206 Mon Jan 29 20:59:37 2024
+  Start scan runnum 34 scannum 111
+date 20240129 time 205937
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1361910224
+run_evcnt 1361910224
+run_ercnt 0
+run_tocnt 4084736
+
+EVENT 207 Mon Jan 29 21:00:49 2024
+  Post scan stats
+runnum 34
+scannum 111
+date 20240129
+time 210049
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1362033104
+run_evcnt 1362033104
+run_ercnt 0
+run_tocnt 4146176
+
+EVENT 208 Mon Jan 29 21:00:50 2024
+  Start scan runnum 34 scannum 112
+date 20240129 time 210050
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1362033104
+run_evcnt 1362033104
+run_ercnt 0
+run_tocnt 4146176
+
+EVENT 209 Mon Jan 29 21:01:39 2024
+  Post scan stats
+runnum 34
+scannum 112
+date 20240129
+time 210139
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1362116048
+run_evcnt 1362116048
+run_ercnt 0
+run_tocnt 4187648
+
+EVENT 210 Mon Jan 29 21:01:39 2024
+  Start scan runnum 34 scannum 113
+date 20240129 time 210139
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1362116048
+run_evcnt 1362116048
+run_ercnt 0
+run_tocnt 4187648
+
+EVENT 211 Mon Jan 29 21:02:34 2024
+  Post scan stats
+runnum 34
+scannum 113
+date 20240129
+time 210234
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1362208208
+run_evcnt 1362208208
+run_ercnt 0
+run_tocnt 4233728
+
+EVENT 212 Mon Jan 29 21:02:34 2024
+  Start scan runnum 34 scannum 114
+date 20240129 time 210234
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1362208208
+run_evcnt 1362208208
+run_ercnt 0
+run_tocnt 4233728
+
+EVENT 213 Mon Jan 29 21:03:35 2024
+  Post scan stats
+runnum 34
+scannum 114
+date 20240129
+time 210335
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1362310608
+run_evcnt 1362310608
+run_ercnt 0
+run_tocnt 4284928
+
+EVENT 214 Mon Jan 29 21:03:35 2024
+  Start scan runnum 34 scannum 115
+date 20240129 time 210335
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1362310608
+run_evcnt 1362310608
+run_ercnt 0
+run_tocnt 4284928
+
+EVENT 215 Mon Jan 29 21:04:39 2024
+  Post scan stats
+runnum 34
+scannum 115
+date 20240129
+time 210438
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1362418128
+run_evcnt 1362418128
+run_ercnt 0
+run_tocnt 4338688
+
+EVENT 216 Mon Jan 29 21:04:39 2024
+  Start scan runnum 34 scannum 116
+date 20240129 time 210439
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1362418128
+run_evcnt 1362418128
+run_ercnt 0
+run_tocnt 4338688
+
+EVENT 217 Mon Jan 29 21:05:48 2024
+  Post scan stats
+runnum 34
+scannum 116
+date 20240129
+time 210548
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1362534864
+run_evcnt 1362534864
+run_ercnt 0
+run_tocnt 4397056
+
+EVENT 218 Mon Jan 29 21:05:48 2024
+  Start scan runnum 34 scannum 117
+date 20240129 time 210548
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1362534864
+run_evcnt 1362534864
+run_ercnt 0
+run_tocnt 4397056
+
+EVENT 219 Mon Jan 29 21:07:01 2024
+  Post scan stats
+runnum 34
+scannum 117
+date 20240129
+time 210701
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1362657744
+run_evcnt 1362657744
+run_ercnt 0
+run_tocnt 4458496
+
+EVENT 220 Mon Jan 29 21:07:01 2024
+  Start scan runnum 34 scannum 118
+date 20240129 time 210701
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1362657744
+run_evcnt 1362657744
+run_ercnt 0
+run_tocnt 4458496
+
+EVENT 221 Mon Jan 29 21:08:24 2024
+  Post scan stats
+runnum 34
+scannum 118
+date 20240129
+time 210823
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1362795984
+run_evcnt 1362795984
+run_ercnt 0
+run_tocnt 4527616
+
+EVENT 222 Mon Jan 29 21:08:24 2024
+  Start scan runnum 34 scannum 119
+date 20240129 time 210824
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1362795984
+run_evcnt 1362795984
+run_ercnt 0
+run_tocnt 4527616
+
+EVENT 223 Mon Jan 29 21:09:56 2024
+  Post scan stats
+runnum 34
+scannum 119
+date 20240129
+time 210956
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1362950608
+run_evcnt 1362950608
+run_ercnt 0
+run_tocnt 4604928
+
+EVENT 224 Mon Jan 29 21:09:56 2024
+  Start scan runnum 34 scannum 120
+date 20240129 time 210956
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1362950608
+run_evcnt 1362950608
+run_ercnt 0
+run_tocnt 4604928
+
+EVENT 225 Mon Jan 29 21:11:27 2024
+  Post scan stats
+runnum 34
+scannum 120
+date 20240129
+time 211127
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1363105232
+run_evcnt 1363105232
+run_ercnt 0
+run_tocnt 4682240
+
+EVENT 226 Mon Jan 29 21:11:28 2024
+  Start scan runnum 34 scannum 121
+date 20240129 time 211128
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1363105232
+run_evcnt 1363105232
+run_ercnt 0
+run_tocnt 4682240
+
+EVENT 227 Mon Jan 29 21:13:00 2024
+  Post scan stats
+runnum 34
+scannum 121
+date 20240129
+time 211300
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1363259856
+run_evcnt 1363259856
+run_ercnt 0
+run_tocnt 4759552
+
+EVENT 228 Mon Jan 29 21:13:00 2024
+  Start scan runnum 34 scannum 122
+date 20240129 time 211300
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1363259856
+run_evcnt 1363259856
+run_ercnt 0
+run_tocnt 4759552
+
+EVENT 229 Mon Jan 29 21:15:47 2024
+  Post scan stats
+runnum 34
+scannum 122
+date 20240129
+time 211547
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1524774568
+run_evcnt 1524774568
+run_ercnt 0
+run_tocnt 4781568
+
+EVENT 230 Mon Jan 29 22:08:35 2024
+  Start scan runnum 34 scannum 125
+date 20240129 time 220835
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1524774568
+run_evcnt 1524774568
+run_ercnt 0
+run_tocnt 4781568
+
+EVENT 231 Mon Jan 29 22:08:37 2024
+  Post scan stats
+runnum 34
+scannum 125
+date 20240129
+time 220837
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1524774696
+run_evcnt 1524774696
+run_ercnt 0
+run_tocnt 4781824
+
+EVENT 232 Mon Jan 29 22:08:37 2024
+  Start scan runnum 34 scannum 126
+date 20240129 time 220837
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1524774696
+run_evcnt 1524774696
+run_ercnt 0
+run_tocnt 4781824
+
+EVENT 233 Mon Jan 29 22:08:45 2024
+  Post scan stats
+runnum 34
+scannum 126
+date 20240129
+time 220844
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1524776744
+run_evcnt 1524776744
+run_ercnt 0
+run_tocnt 4781824
+
+EVENT 234 Mon Jan 29 22:08:45 2024
+  Start scan runnum 34 scannum 127
+date 20240129 time 220845
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1524776744
+run_evcnt 1524776744
+run_ercnt 0
+run_tocnt 4781824
+
+EVENT 235 Mon Jan 29 22:09:40 2024
+  Post scan stats
+runnum 34
+scannum 127
+date 20240129
+time 220940
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1524868904
+run_evcnt 1524868904
+run_ercnt 0
+run_tocnt 4827904
+
+EVENT 236 Mon Jan 29 22:09:40 2024
+  Start scan runnum 34 scannum 128
+date 20240129 time 220940
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1524868904
+run_evcnt 1524868904
+run_ercnt 0
+run_tocnt 4827904
+
+EVENT 237 Mon Jan 29 22:10:44 2024
+  Post scan stats
+runnum 34
+scannum 128
+date 20240129
+time 221044
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1524976424
+run_evcnt 1524976424
+run_ercnt 0
+run_tocnt 4881664
+
+EVENT 238 Mon Jan 29 22:10:44 2024
+  Start scan runnum 34 scannum 129
+date 20240129 time 221044
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1524976424
+run_evcnt 1524976424
+run_ercnt 0
+run_tocnt 4881664
+
+EVENT 239 Mon Jan 29 22:11:57 2024
+  Post scan stats
+runnum 34
+scannum 129
+date 20240129
+time 221157
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1525099304
+run_evcnt 1525099304
+run_ercnt 0
+run_tocnt 4943104
+
+EVENT 240 Mon Jan 29 22:11:57 2024
+  Start scan runnum 34 scannum 130
+date 20240129 time 221157
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1525099304
+run_evcnt 1525099304
+run_ercnt 0
+run_tocnt 4943104
+
+EVENT 241 Mon Jan 29 22:12:47 2024
+  Post scan stats
+runnum 34
+scannum 130
+date 20240129
+time 221246
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1525182248
+run_evcnt 1525182248
+run_ercnt 0
+run_tocnt 4984576
+
+EVENT 242 Mon Jan 29 22:12:47 2024
+  Start scan runnum 34 scannum 131
+date 20240129 time 221247
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1525182248
+run_evcnt 1525182248
+run_ercnt 0
+run_tocnt 4984576
+
+EVENT 243 Mon Jan 29 22:13:42 2024
+  Post scan stats
+runnum 34
+scannum 131
+date 20240129
+time 221342
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1525274408
+run_evcnt 1525274408
+run_ercnt 0
+run_tocnt 5030656
+
+EVENT 244 Mon Jan 29 22:13:42 2024
+  Start scan runnum 34 scannum 132
+date 20240129 time 221342
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1525274408
+run_evcnt 1525274408
+run_ercnt 0
+run_tocnt 5030656
+
+EVENT 245 Mon Jan 29 22:14:43 2024
+  Post scan stats
+runnum 34
+scannum 132
+date 20240129
+time 221443
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1525376808
+run_evcnt 1525376808
+run_ercnt 0
+run_tocnt 5081856
+
+EVENT 246 Mon Jan 29 22:14:43 2024
+  Start scan runnum 34 scannum 133
+date 20240129 time 221443
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1525376808
+run_evcnt 1525376808
+run_ercnt 0
+run_tocnt 5081856
+
+EVENT 247 Mon Jan 29 22:15:48 2024
+  Post scan stats
+runnum 34
+scannum 133
+date 20240129
+time 221547
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1525484328
+run_evcnt 1525484328
+run_ercnt 0
+run_tocnt 5135616
+
+EVENT 248 Mon Jan 29 22:15:48 2024
+  Start scan runnum 34 scannum 134
+date 20240129 time 221548
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1525484328
+run_evcnt 1525484328
+run_ercnt 0
+run_tocnt 5135616
+
+EVENT 249 Mon Jan 29 22:16:57 2024
+  Post scan stats
+runnum 34
+scannum 134
+date 20240129
+time 221657
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1525601064
+run_evcnt 1525601064
+run_ercnt 0
+run_tocnt 5193984
+
+EVENT 250 Mon Jan 29 22:16:58 2024
+  Start scan runnum 34 scannum 135
+date 20240129 time 221658
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1525601064
+run_evcnt 1525601064
+run_ercnt 0
+run_tocnt 5193984
+
+EVENT 251 Mon Jan 29 22:18:11 2024
+  Post scan stats
+runnum 34
+scannum 135
+date 20240129
+time 221811
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1525723944
+run_evcnt 1525723944
+run_ercnt 0
+run_tocnt 5255424
+
+EVENT 252 Mon Jan 29 22:18:11 2024
+  Start scan runnum 34 scannum 136
+date 20240129 time 221811
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1525723944
+run_evcnt 1525723944
+run_ercnt 0
+run_tocnt 5255424
+
+EVENT 253 Mon Jan 29 22:19:33 2024
+  Post scan stats
+runnum 34
+scannum 136
+date 20240129
+time 221933
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1525862184
+run_evcnt 1525862184
+run_ercnt 0
+run_tocnt 5324544
+
+EVENT 254 Mon Jan 29 22:19:33 2024
+  Start scan runnum 34 scannum 137
+date 20240129 time 221933
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1525862184
+run_evcnt 1525862184
+run_ercnt 0
+run_tocnt 5324544
+
+EVENT 255 Mon Jan 29 22:21:05 2024
+  Post scan stats
+runnum 34
+scannum 137
+date 20240129
+time 222105
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1526016808
+run_evcnt 1526016808
+run_ercnt 0
+run_tocnt 5401856
+
+EVENT 256 Mon Jan 29 22:21:05 2024
+  Start scan runnum 34 scannum 138
+date 20240129 time 222105
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1526016808
+run_evcnt 1526016808
+run_ercnt 0
+run_tocnt 5401856
+
+EVENT 257 Mon Jan 29 22:22:37 2024
+  Post scan stats
+runnum 34
+scannum 138
+date 20240129
+time 222237
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1526171432
+run_evcnt 1526171432
+run_ercnt 0
+run_tocnt 5479168
+
+EVENT 258 Mon Jan 29 22:22:37 2024
+  Start scan runnum 34 scannum 139
+date 20240129 time 222237
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1526171432
+run_evcnt 1526171432
+run_ercnt 0
+run_tocnt 5479168
+
+EVENT 259 Mon Jan 29 22:24:09 2024
+  Post scan stats
+runnum 34
+scannum 139
+date 20240129
+time 222408
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1526326056
+run_evcnt 1526326056
+run_ercnt 0
+run_tocnt 5556480
+
+EVENT 260 Mon Jan 29 22:24:09 2024
+  Start scan runnum 34 scannum 140
+date 20240129 time 222409
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1526326056
+run_evcnt 1526326056
+run_ercnt 0
+run_tocnt 5556480
+
+EVENT 261 Mon Jan 29 22:26:56 2024
+  Post scan stats
+runnum 34
+scannum 140
+date 20240129
+time 222656
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1687840768
+run_evcnt 1687840768
+run_ercnt 0
+run_tocnt 5578496
+
+EVENT 262 Mon Jan 29 23:22:05 2024
+  Start scan runnum 34 scannum 143
+date 20240129 time 232205
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1687840768
+run_evcnt 1687840768
+run_ercnt 0
+run_tocnt 5578496
+
+EVENT 263 Mon Jan 29 23:22:07 2024
+  Post scan stats
+runnum 34
+scannum 143
+date 20240129
+time 232207
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1687840896
+run_evcnt 1687840896
+run_ercnt 0
+run_tocnt 5578752
+
+EVENT 264 Mon Jan 29 23:22:07 2024
+  Start scan runnum 34 scannum 144
+date 20240129 time 232207
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1687840896
+run_evcnt 1687840896
+run_ercnt 0
+run_tocnt 5578752
+
+EVENT 265 Mon Jan 29 23:22:14 2024
+  Post scan stats
+runnum 34
+scannum 144
+date 20240129
+time 232214
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1687842944
+run_evcnt 1687842944
+run_ercnt 0
+run_tocnt 5578752
+
+EVENT 266 Mon Jan 29 23:22:14 2024
+  Start scan runnum 34 scannum 145
+date 20240129 time 232214
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1687842944
+run_evcnt 1687842944
+run_ercnt 0
+run_tocnt 5578752
+
+EVENT 267 Mon Jan 29 23:23:09 2024
+  Post scan stats
+runnum 34
+scannum 145
+date 20240129
+time 232309
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1687935104
+run_evcnt 1687935104
+run_ercnt 0
+run_tocnt 5624832
+
+EVENT 268 Mon Jan 29 23:23:09 2024
+  Start scan runnum 34 scannum 146
+date 20240129 time 232309
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1687935104
+run_evcnt 1687935104
+run_ercnt 0
+run_tocnt 5624832
+
+EVENT 269 Mon Jan 29 23:24:13 2024
+  Post scan stats
+runnum 34
+scannum 146
+date 20240129
+time 232412
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1688042624
+run_evcnt 1688042624
+run_ercnt 0
+run_tocnt 5678592
+
+EVENT 270 Mon Jan 29 23:24:13 2024
+  Start scan runnum 34 scannum 147
+date 20240129 time 232413
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1688042624
+run_evcnt 1688042624
+run_ercnt 0
+run_tocnt 5678592
+
+EVENT 271 Mon Jan 29 23:25:25 2024
+  Post scan stats
+runnum 34
+scannum 147
+date 20240129
+time 232525
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1688165504
+run_evcnt 1688165504
+run_ercnt 0
+run_tocnt 5740032
+
+EVENT 272 Mon Jan 29 23:25:26 2024
+  Start scan runnum 34 scannum 148
+date 20240129 time 232526
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1688165504
+run_evcnt 1688165504
+run_ercnt 0
+run_tocnt 5740032
+
+EVENT 273 Mon Jan 29 23:26:15 2024
+  Post scan stats
+runnum 34
+scannum 148
+date 20240129
+time 232615
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1688248448
+run_evcnt 1688248448
+run_ercnt 0
+run_tocnt 5781504
+
+EVENT 274 Mon Jan 29 23:26:15 2024
+  Start scan runnum 34 scannum 149
+date 20240129 time 232615
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1688248448
+run_evcnt 1688248448
+run_ercnt 0
+run_tocnt 5781504
+
+EVENT 275 Mon Jan 29 23:27:10 2024
+  Post scan stats
+runnum 34
+scannum 149
+date 20240129
+time 232710
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1688340608
+run_evcnt 1688340608
+run_ercnt 0
+run_tocnt 5827584
+
+EVENT 276 Mon Jan 29 23:27:10 2024
+  Start scan runnum 34 scannum 150
+date 20240129 time 232710
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1688340608
+run_evcnt 1688340608
+run_ercnt 0
+run_tocnt 5827584
+
+EVENT 277 Mon Jan 29 23:28:11 2024
+  Post scan stats
+runnum 34
+scannum 150
+date 20240129
+time 232811
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1688443008
+run_evcnt 1688443008
+run_ercnt 0
+run_tocnt 5878784
+
+EVENT 278 Mon Jan 29 23:28:12 2024
+  Start scan runnum 34 scannum 151
+date 20240129 time 232812
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1688443008
+run_evcnt 1688443008
+run_ercnt 0
+run_tocnt 5878784
+
+EVENT 279 Mon Jan 29 23:29:15 2024
+  Post scan stats
+runnum 34
+scannum 151
+date 20240129
+time 232915
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1688550528
+run_evcnt 1688550528
+run_ercnt 0
+run_tocnt 5932544
+
+EVENT 280 Mon Jan 29 23:29:16 2024
+  Start scan runnum 34 scannum 152
+date 20240129 time 232916
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1688550528
+run_evcnt 1688550528
+run_ercnt 0
+run_tocnt 5932544
+
+EVENT 281 Mon Jan 29 23:30:25 2024
+  Post scan stats
+runnum 34
+scannum 152
+date 20240129
+time 233024
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1688667264
+run_evcnt 1688667264
+run_ercnt 0
+run_tocnt 5990912
+
+EVENT 282 Mon Jan 29 23:30:25 2024
+  Start scan runnum 34 scannum 153
+date 20240129 time 233025
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1688667264
+run_evcnt 1688667264
+run_ercnt 0
+run_tocnt 5990912
+
+EVENT 283 Mon Jan 29 23:31:38 2024
+  Post scan stats
+runnum 34
+scannum 153
+date 20240129
+time 233138
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1688790144
+run_evcnt 1688790144
+run_ercnt 0
+run_tocnt 6052352
+
+EVENT 284 Mon Jan 29 23:31:38 2024
+  Start scan runnum 34 scannum 154
+date 20240129 time 233138
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1688790144
+run_evcnt 1688790144
+run_ercnt 0
+run_tocnt 6052352
+
+EVENT 285 Mon Jan 29 23:33:00 2024
+  Post scan stats
+runnum 34
+scannum 154
+date 20240129
+time 233259
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1688928384
+run_evcnt 1688928384
+run_ercnt 0
+run_tocnt 6121472
+
+EVENT 286 Mon Jan 29 23:33:00 2024
+  Start scan runnum 34 scannum 155
+date 20240129 time 233300
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1688928384
+run_evcnt 1688928384
+run_ercnt 0
+run_tocnt 6121472
+
+EVENT 287 Mon Jan 29 23:34:31 2024
+  Post scan stats
+runnum 34
+scannum 155
+date 20240129
+time 233430
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1689083008
+run_evcnt 1689083008
+run_ercnt 0
+run_tocnt 6198784
+
+EVENT 288 Mon Jan 29 23:34:31 2024
+  Start scan runnum 34 scannum 156
+date 20240129 time 233431
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1689083008
+run_evcnt 1689083008
+run_ercnt 0
+run_tocnt 6198784
+
+EVENT 289 Mon Jan 29 23:36:02 2024
+  Post scan stats
+runnum 34
+scannum 156
+date 20240129
+time 233602
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1689237632
+run_evcnt 1689237632
+run_ercnt 0
+run_tocnt 6276096
+
+EVENT 290 Mon Jan 29 23:36:03 2024
+  Start scan runnum 34 scannum 157
+date 20240129 time 233603
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1689237632
+run_evcnt 1689237632
+run_ercnt 0
+run_tocnt 6276096
+
+EVENT 291 Mon Jan 29 23:37:34 2024
+  Post scan stats
+runnum 34
+scannum 157
+date 20240129
+time 233734
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1689392256
+run_evcnt 1689392256
+run_ercnt 0
+run_tocnt 6353408
+
+EVENT 292 Mon Jan 29 23:37:34 2024
+  Start scan runnum 34 scannum 158
+date 20240129 time 233734
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1689392256
+run_evcnt 1689392256
+run_ercnt 0
+run_tocnt 6353408
+
+EVENT 293 Mon Jan 29 23:40:21 2024
+  Post scan stats
+runnum 34
+scannum 158
+date 20240129
+time 234020
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 1850906968
+run_evcnt 1850906968
+run_ercnt 0
+run_tocnt 6375424
+
+EVENT 294 Tue Jan 30 00:32:42 2024
+  Start scan runnum 34 scannum 161
+date 20240130 time 3242
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 1850906968
+run_evcnt 1850906968
+run_ercnt 0
+run_tocnt 6375424
+
+EVENT 295 Tue Jan 30 00:32:44 2024
+  Post scan stats
+runnum 34
+scannum 161
+date 20240130
+time 3243
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 1850907096
+run_evcnt 1850907096
+run_ercnt 0
+run_tocnt 6375680
+
+EVENT 296 Tue Jan 30 00:32:44 2024
+  Start scan runnum 34 scannum 162
+date 20240130 time 3244
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 1850907096
+run_evcnt 1850907096
+run_ercnt 0
+run_tocnt 6375680
+
+EVENT 297 Tue Jan 30 00:32:51 2024
+  Post scan stats
+runnum 34
+scannum 162
+date 20240130
+time 3250
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 1850909144
+run_evcnt 1850909144
+run_ercnt 0
+run_tocnt 6375680
+
+EVENT 298 Tue Jan 30 00:32:51 2024
+  Start scan runnum 34 scannum 163
+date 20240130 time 3251
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1850909144
+run_evcnt 1850909144
+run_ercnt 0
+run_tocnt 6375680
+
+EVENT 299 Tue Jan 30 00:33:46 2024
+  Post scan stats
+runnum 34
+scannum 163
+date 20240130
+time 3345
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1851001304
+run_evcnt 1851001304
+run_ercnt 0
+run_tocnt 6421760
+
+EVENT 300 Tue Jan 30 00:33:46 2024
+  Start scan runnum 34 scannum 164
+date 20240130 time 3346
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1851001304
+run_evcnt 1851001304
+run_ercnt 0
+run_tocnt 6421760
+
+EVENT 301 Tue Jan 30 00:34:50 2024
+  Post scan stats
+runnum 34
+scannum 164
+date 20240130
+time 3450
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1851108824
+run_evcnt 1851108824
+run_ercnt 0
+run_tocnt 6475520
+
+EVENT 302 Tue Jan 30 00:34:50 2024
+  Start scan runnum 34 scannum 165
+date 20240130 time 3450
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1851108824
+run_evcnt 1851108824
+run_ercnt 0
+run_tocnt 6475520
+
+EVENT 303 Tue Jan 30 00:36:03 2024
+  Post scan stats
+runnum 34
+scannum 165
+date 20240130
+time 3603
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1851231704
+run_evcnt 1851231704
+run_ercnt 0
+run_tocnt 6536960
+
+EVENT 304 Tue Jan 30 00:36:03 2024
+  Start scan runnum 34 scannum 166
+date 20240130 time 3603
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 1851231704
+run_evcnt 1851231704
+run_ercnt 0
+run_tocnt 6536960
+
+EVENT 305 Tue Jan 30 00:36:53 2024
+  Post scan stats
+runnum 34
+scannum 166
+date 20240130
+time 3653
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 1851314648
+run_evcnt 1851314648
+run_ercnt 0
+run_tocnt 6578432
+
+EVENT 306 Tue Jan 30 00:36:53 2024
+  Start scan runnum 34 scannum 167
+date 20240130 time 3653
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 1851314648
+run_evcnt 1851314648
+run_ercnt 0
+run_tocnt 6578432
+
+EVENT 307 Tue Jan 30 00:37:48 2024
+  Post scan stats
+runnum 34
+scannum 167
+date 20240130
+time 3748
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 1851406808
+run_evcnt 1851406808
+run_ercnt 0
+run_tocnt 6624512
+
+EVENT 308 Tue Jan 30 00:37:48 2024
+  Start scan runnum 34 scannum 168
+date 20240130 time 3748
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 1851406808
+run_evcnt 1851406808
+run_ercnt 0
+run_tocnt 6624512
+
+EVENT 309 Tue Jan 30 00:38:49 2024
+  Post scan stats
+runnum 34
+scannum 168
+date 20240130
+time 3849
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 1851509208
+run_evcnt 1851509208
+run_ercnt 0
+run_tocnt 6675712
+
+EVENT 310 Tue Jan 30 00:38:49 2024
+  Start scan runnum 34 scannum 169
+date 20240130 time 3849
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 1851509208
+run_evcnt 1851509208
+run_ercnt 0
+run_tocnt 6675712
+
+EVENT 311 Tue Jan 30 00:39:54 2024
+  Post scan stats
+runnum 34
+scannum 169
+date 20240130
+time 3953
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 1851616728
+run_evcnt 1851616728
+run_ercnt 0
+run_tocnt 6729472
+
+EVENT 312 Tue Jan 30 00:39:54 2024
+  Start scan runnum 34 scannum 170
+date 20240130 time 3954
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 1851616728
+run_evcnt 1851616728
+run_ercnt 0
+run_tocnt 6729472
+
+EVENT 313 Tue Jan 30 00:41:03 2024
+  Post scan stats
+runnum 34
+scannum 170
+date 20240130
+time 4103
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 1851733464
+run_evcnt 1851733464
+run_ercnt 0
+run_tocnt 6787840
+
+EVENT 314 Tue Jan 30 00:41:03 2024
+  Start scan runnum 34 scannum 171
+date 20240130 time 4103
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 1851733464
+run_evcnt 1851733464
+run_ercnt 0
+run_tocnt 6787840
+
+EVENT 315 Tue Jan 30 00:42:17 2024
+  Post scan stats
+runnum 34
+scannum 171
+date 20240130
+time 4217
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 1851856344
+run_evcnt 1851856344
+run_ercnt 0
+run_tocnt 6849280
+
+EVENT 316 Tue Jan 30 00:42:17 2024
+  Start scan runnum 34 scannum 172
+date 20240130 time 4217
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 1851856344
+run_evcnt 1851856344
+run_ercnt 0
+run_tocnt 6849280
+
+EVENT 317 Tue Jan 30 00:43:39 2024
+  Post scan stats
+runnum 34
+scannum 172
+date 20240130
+time 4339
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 1851994584
+run_evcnt 1851994584
+run_ercnt 0
+run_tocnt 6918400
+
+EVENT 318 Tue Jan 30 00:43:39 2024
+  Start scan runnum 34 scannum 173
+date 20240130 time 4339
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 1851994584
+run_evcnt 1851994584
+run_ercnt 0
+run_tocnt 6918400
+
+EVENT 319 Tue Jan 30 00:45:11 2024
+  Post scan stats
+runnum 34
+scannum 173
+date 20240130
+time 4511
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 1852149208
+run_evcnt 1852149208
+run_ercnt 0
+run_tocnt 6995712
+
+EVENT 320 Tue Jan 30 00:45:11 2024
+  Start scan runnum 34 scannum 174
+date 20240130 time 4511
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 1852149208
+run_evcnt 1852149208
+run_ercnt 0
+run_tocnt 6995712
+
+EVENT 321 Tue Jan 30 00:46:43 2024
+  Post scan stats
+runnum 34
+scannum 174
+date 20240130
+time 4643
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 1852303832
+run_evcnt 1852303832
+run_ercnt 0
+run_tocnt 7073024
+
+EVENT 322 Tue Jan 30 00:46:43 2024
+  Start scan runnum 34 scannum 175
+date 20240130 time 4643
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 1852303832
+run_evcnt 1852303832
+run_ercnt 0
+run_tocnt 7073024
+
+EVENT 323 Tue Jan 30 00:48:15 2024
+  Post scan stats
+runnum 34
+scannum 175
+date 20240130
+time 4815
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 1852458456
+run_evcnt 1852458456
+run_ercnt 0
+run_tocnt 7150336
+
+EVENT 324 Tue Jan 30 00:48:15 2024
+  Start scan runnum 34 scannum 176
+date 20240130 time 4815
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 1852458456
+run_evcnt 1852458456
+run_ercnt 0
+run_tocnt 7150336
+
+EVENT 325 Tue Jan 30 00:51:01 2024
+  Post scan stats
+runnum 34
+scannum 176
+date 20240130
+time 5101
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2013973168
+run_evcnt 2013973168
+run_ercnt 0
+run_tocnt 7172352
+
+EVENT 326 Tue Jan 30 01:45:59 2024
+  Start scan runnum 34 scannum 179
+date 20240130 time 14559
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2013973168
+run_evcnt 2013973168
+run_ercnt 0
+run_tocnt 7172352
+
+EVENT 327 Tue Jan 30 01:46:01 2024
+  Post scan stats
+runnum 34
+scannum 179
+date 20240130
+time 14601
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2013973296
+run_evcnt 2013973296
+run_ercnt 0
+run_tocnt 7172608
+
+EVENT 328 Tue Jan 30 01:46:01 2024
+  Start scan runnum 34 scannum 180
+date 20240130 time 14601
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2013973296
+run_evcnt 2013973296
+run_ercnt 0
+run_tocnt 7172608
+
+EVENT 329 Tue Jan 30 01:46:08 2024
+  Post scan stats
+runnum 34
+scannum 180
+date 20240130
+time 14608
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2013975344
+run_evcnt 2013975344
+run_ercnt 0
+run_tocnt 7172608
+
+EVENT 330 Tue Jan 30 01:46:08 2024
+  Start scan runnum 34 scannum 181
+date 20240130 time 14608
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2013975344
+run_evcnt 2013975344
+run_ercnt 0
+run_tocnt 7172608
+
+EVENT 331 Tue Jan 30 01:47:03 2024
+  Post scan stats
+runnum 34
+scannum 181
+date 20240130
+time 14703
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2014067504
+run_evcnt 2014067504
+run_ercnt 0
+run_tocnt 7218688
+
+EVENT 332 Tue Jan 30 01:47:03 2024
+  Start scan runnum 34 scannum 182
+date 20240130 time 14703
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2014067504
+run_evcnt 2014067504
+run_ercnt 0
+run_tocnt 7218688
+
+EVENT 333 Tue Jan 30 01:48:07 2024
+  Post scan stats
+runnum 34
+scannum 182
+date 20240130
+time 14807
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2014175024
+run_evcnt 2014175024
+run_ercnt 0
+run_tocnt 7272448
+
+EVENT 334 Tue Jan 30 01:48:07 2024
+  Start scan runnum 34 scannum 183
+date 20240130 time 14807
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2014175024
+run_evcnt 2014175024
+run_ercnt 0
+run_tocnt 7272448
+
+EVENT 335 Tue Jan 30 01:49:21 2024
+  Post scan stats
+runnum 34
+scannum 183
+date 20240130
+time 14921
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2014297904
+run_evcnt 2014297904
+run_ercnt 0
+run_tocnt 7333888
+
+EVENT 336 Tue Jan 30 01:49:21 2024
+  Start scan runnum 34 scannum 184
+date 20240130 time 14921
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2014297904
+run_evcnt 2014297904
+run_ercnt 0
+run_tocnt 7333888
+
+EVENT 337 Tue Jan 30 01:50:11 2024
+  Post scan stats
+runnum 34
+scannum 184
+date 20240130
+time 15010
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2014380848
+run_evcnt 2014380848
+run_ercnt 0
+run_tocnt 7375360
+
+EVENT 338 Tue Jan 30 01:50:11 2024
+  Start scan runnum 34 scannum 185
+date 20240130 time 15011
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2014380848
+run_evcnt 2014380848
+run_ercnt 0
+run_tocnt 7375360
+
+EVENT 339 Tue Jan 30 01:51:06 2024
+  Post scan stats
+runnum 34
+scannum 185
+date 20240130
+time 15105
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2014473008
+run_evcnt 2014473008
+run_ercnt 0
+run_tocnt 7421440
+
+EVENT 340 Tue Jan 30 01:51:06 2024
+  Start scan runnum 34 scannum 186
+date 20240130 time 15106
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2014473008
+run_evcnt 2014473008
+run_ercnt 0
+run_tocnt 7421440
+
+EVENT 341 Tue Jan 30 01:52:06 2024
+  Post scan stats
+runnum 34
+scannum 186
+date 20240130
+time 15206
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2014575408
+run_evcnt 2014575408
+run_ercnt 0
+run_tocnt 7472640
+
+EVENT 342 Tue Jan 30 01:52:07 2024
+  Start scan runnum 34 scannum 187
+date 20240130 time 15207
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2014575408
+run_evcnt 2014575408
+run_ercnt 0
+run_tocnt 7472640
+
+EVENT 343 Tue Jan 30 01:53:10 2024
+  Post scan stats
+runnum 34
+scannum 187
+date 20240130
+time 15310
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2014682928
+run_evcnt 2014682928
+run_ercnt 0
+run_tocnt 7526400
+
+EVENT 344 Tue Jan 30 01:53:10 2024
+  Start scan runnum 34 scannum 188
+date 20240130 time 15310
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2014682928
+run_evcnt 2014682928
+run_ercnt 0
+run_tocnt 7526400
+
+EVENT 345 Tue Jan 30 01:54:19 2024
+  Post scan stats
+runnum 34
+scannum 188
+date 20240130
+time 15419
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2014799664
+run_evcnt 2014799664
+run_ercnt 0
+run_tocnt 7584768
+
+EVENT 346 Tue Jan 30 01:54:19 2024
+  Start scan runnum 34 scannum 189
+date 20240130 time 15419
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2014799664
+run_evcnt 2014799664
+run_ercnt 0
+run_tocnt 7584768
+
+EVENT 347 Tue Jan 30 01:55:32 2024
+  Post scan stats
+runnum 34
+scannum 189
+date 20240130
+time 15532
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2014922544
+run_evcnt 2014922544
+run_ercnt 0
+run_tocnt 7646208
+
+EVENT 348 Tue Jan 30 01:55:32 2024
+  Start scan runnum 34 scannum 190
+date 20240130 time 15532
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2014922544
+run_evcnt 2014922544
+run_ercnt 0
+run_tocnt 7646208
+
+EVENT 349 Tue Jan 30 01:56:54 2024
+  Post scan stats
+runnum 34
+scannum 190
+date 20240130
+time 15654
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2015060784
+run_evcnt 2015060784
+run_ercnt 0
+run_tocnt 7715328
+
+EVENT 350 Tue Jan 30 01:56:54 2024
+  Start scan runnum 34 scannum 191
+date 20240130 time 15654
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2015060784
+run_evcnt 2015060784
+run_ercnt 0
+run_tocnt 7715328
+
+EVENT 351 Tue Jan 30 01:58:26 2024
+  Post scan stats
+runnum 34
+scannum 191
+date 20240130
+time 15826
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2015215408
+run_evcnt 2015215408
+run_ercnt 0
+run_tocnt 7792640
+
+EVENT 352 Tue Jan 30 01:58:26 2024
+  Start scan runnum 34 scannum 192
+date 20240130 time 15826
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2015215408
+run_evcnt 2015215408
+run_ercnt 0
+run_tocnt 7792640
+
+EVENT 353 Tue Jan 30 01:59:58 2024
+  Post scan stats
+runnum 34
+scannum 192
+date 20240130
+time 15958
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2015370032
+run_evcnt 2015370032
+run_ercnt 0
+run_tocnt 7869952
+
+EVENT 354 Tue Jan 30 01:59:58 2024
+  Start scan runnum 34 scannum 193
+date 20240130 time 15958
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2015370032
+run_evcnt 2015370032
+run_ercnt 0
+run_tocnt 7869952
+
+EVENT 355 Tue Jan 30 02:01:30 2024
+  Post scan stats
+runnum 34
+scannum 193
+date 20240130
+time 20130
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2015524656
+run_evcnt 2015524656
+run_ercnt 0
+run_tocnt 7947264
+
+EVENT 356 Tue Jan 30 02:01:31 2024
+  Start scan runnum 34 scannum 194
+date 20240130 time 20131
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2015524656
+run_evcnt 2015524656
+run_ercnt 0
+run_tocnt 7947264
+
+EVENT 357 Tue Jan 30 02:04:17 2024
+  Post scan stats
+runnum 34
+scannum 194
+date 20240130
+time 20417
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2177039368
+run_evcnt 2177039368
+run_ercnt 0
+run_tocnt 7969280
+
+EVENT 358 Tue Jan 30 02:56:44 2024
+  Start scan runnum 34 scannum 197
+date 20240130 time 25644
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2177039368
+run_evcnt 2177039368
+run_ercnt 0
+run_tocnt 7969280
+
+EVENT 359 Tue Jan 30 02:56:46 2024
+  Post scan stats
+runnum 34
+scannum 197
+date 20240130
+time 25646
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2177039496
+run_evcnt 2177039496
+run_ercnt 0
+run_tocnt 7969536
+
+EVENT 360 Tue Jan 30 02:56:47 2024
+  Start scan runnum 34 scannum 198
+date 20240130 time 25647
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2177039496
+run_evcnt 2177039496
+run_ercnt 0
+run_tocnt 7969536
+
+EVENT 361 Tue Jan 30 02:56:54 2024
+  Post scan stats
+runnum 34
+scannum 198
+date 20240130
+time 25654
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2177041544
+run_evcnt 2177041544
+run_ercnt 0
+run_tocnt 7969536
+
+EVENT 362 Tue Jan 30 02:56:54 2024
+  Start scan runnum 34 scannum 199
+date 20240130 time 25654
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2177041544
+run_evcnt 2177041544
+run_ercnt 0
+run_tocnt 7969536
+
+EVENT 363 Tue Jan 30 02:57:50 2024
+  Post scan stats
+runnum 34
+scannum 199
+date 20240130
+time 25750
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2177133704
+run_evcnt 2177133704
+run_ercnt 0
+run_tocnt 8015616
+
+EVENT 364 Tue Jan 30 02:57:50 2024
+  Start scan runnum 34 scannum 200
+date 20240130 time 25750
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2177133704
+run_evcnt 2177133704
+run_ercnt 0
+run_tocnt 8015616
+
+EVENT 365 Tue Jan 30 02:58:55 2024
+  Post scan stats
+runnum 34
+scannum 200
+date 20240130
+time 25855
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2177241224
+run_evcnt 2177241224
+run_ercnt 0
+run_tocnt 8069376
+
+EVENT 366 Tue Jan 30 02:58:55 2024
+  Start scan runnum 34 scannum 201
+date 20240130 time 25855
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2177241224
+run_evcnt 2177241224
+run_ercnt 0
+run_tocnt 8069376
+
+EVENT 367 Tue Jan 30 03:00:09 2024
+  Post scan stats
+runnum 34
+scannum 201
+date 20240130
+time 30009
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2177364104
+run_evcnt 2177364104
+run_ercnt 0
+run_tocnt 8130816
+
+EVENT 368 Tue Jan 30 03:00:09 2024
+  Start scan runnum 34 scannum 202
+date 20240130 time 30009
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2177364104
+run_evcnt 2177364104
+run_ercnt 0
+run_tocnt 8130816
+
+EVENT 369 Tue Jan 30 03:01:00 2024
+  Post scan stats
+runnum 34
+scannum 202
+date 20240130
+time 30100
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2177447048
+run_evcnt 2177447048
+run_ercnt 0
+run_tocnt 8172288
+
+EVENT 370 Tue Jan 30 03:01:00 2024
+  Start scan runnum 34 scannum 203
+date 20240130 time 30100
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2177447048
+run_evcnt 2177447048
+run_ercnt 0
+run_tocnt 8172288
+
+EVENT 371 Tue Jan 30 03:01:56 2024
+  Post scan stats
+runnum 34
+scannum 203
+date 20240130
+time 30156
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2177539208
+run_evcnt 2177539208
+run_ercnt 0
+run_tocnt 8218368
+
+EVENT 372 Tue Jan 30 03:01:56 2024
+  Start scan runnum 34 scannum 204
+date 20240130 time 30156
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2177539208
+run_evcnt 2177539208
+run_ercnt 0
+run_tocnt 8218368
+
+EVENT 373 Tue Jan 30 03:02:58 2024
+  Post scan stats
+runnum 34
+scannum 204
+date 20240130
+time 30258
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2177641608
+run_evcnt 2177641608
+run_ercnt 0
+run_tocnt 8269568
+
+EVENT 374 Tue Jan 30 03:02:58 2024
+  Start scan runnum 34 scannum 205
+date 20240130 time 30258
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2177641608
+run_evcnt 2177641608
+run_ercnt 0
+run_tocnt 8269568
+
+EVENT 375 Tue Jan 30 03:04:03 2024
+  Post scan stats
+runnum 34
+scannum 205
+date 20240130
+time 30403
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2177749128
+run_evcnt 2177749128
+run_ercnt 0
+run_tocnt 8323328
+
+EVENT 376 Tue Jan 30 03:04:03 2024
+  Start scan runnum 34 scannum 206
+date 20240130 time 30403
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2177749128
+run_evcnt 2177749128
+run_ercnt 0
+run_tocnt 8323328
+
+EVENT 377 Tue Jan 30 03:05:13 2024
+  Post scan stats
+runnum 34
+scannum 206
+date 20240130
+time 30513
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2177865864
+run_evcnt 2177865864
+run_ercnt 0
+run_tocnt 8381696
+
+EVENT 378 Tue Jan 30 03:05:13 2024
+  Start scan runnum 34 scannum 207
+date 20240130 time 30513
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2177865864
+run_evcnt 2177865864
+run_ercnt 0
+run_tocnt 8381696
+
+EVENT 379 Tue Jan 30 03:06:28 2024
+  Post scan stats
+runnum 34
+scannum 207
+date 20240130
+time 30628
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2177988744
+run_evcnt 2177988744
+run_ercnt 0
+run_tocnt 8443136
+
+EVENT 380 Tue Jan 30 03:06:28 2024
+  Start scan runnum 34 scannum 208
+date 20240130 time 30628
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2177988744
+run_evcnt 2177988744
+run_ercnt 0
+run_tocnt 8443136
+
+EVENT 381 Tue Jan 30 03:07:51 2024
+  Post scan stats
+runnum 34
+scannum 208
+date 20240130
+time 30751
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2178126984
+run_evcnt 2178126984
+run_ercnt 0
+run_tocnt 8512256
+
+EVENT 382 Tue Jan 30 03:07:52 2024
+  Start scan runnum 34 scannum 209
+date 20240130 time 30752
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2178126984
+run_evcnt 2178126984
+run_ercnt 0
+run_tocnt 8512256
+
+EVENT 383 Tue Jan 30 03:09:24 2024
+  Post scan stats
+runnum 34
+scannum 209
+date 20240130
+time 30924
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2178281608
+run_evcnt 2178281608
+run_ercnt 0
+run_tocnt 8589568
+
+EVENT 384 Tue Jan 30 03:09:25 2024
+  Start scan runnum 34 scannum 210
+date 20240130 time 30925
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2178281608
+run_evcnt 2178281608
+run_ercnt 0
+run_tocnt 8589568
+
+EVENT 385 Tue Jan 30 03:10:57 2024
+  Post scan stats
+runnum 34
+scannum 210
+date 20240130
+time 31057
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2178436232
+run_evcnt 2178436232
+run_ercnt 0
+run_tocnt 8666880
+
+EVENT 386 Tue Jan 30 03:10:57 2024
+  Start scan runnum 34 scannum 211
+date 20240130 time 31057
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2178436232
+run_evcnt 2178436232
+run_ercnt 0
+run_tocnt 8666880
+
+EVENT 387 Tue Jan 30 03:12:31 2024
+  Post scan stats
+runnum 34
+scannum 211
+date 20240130
+time 31230
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2178590856
+run_evcnt 2178590856
+run_ercnt 0
+run_tocnt 8744192
+
+EVENT 388 Tue Jan 30 03:12:31 2024
+  Start scan runnum 34 scannum 212
+date 20240130 time 31231
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2178590856
+run_evcnt 2178590856
+run_ercnt 0
+run_tocnt 8744192
+
+EVENT 389 Tue Jan 30 03:15:19 2024
+  Post scan stats
+runnum 34
+scannum 212
+date 20240130
+time 31519
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2340105568
+run_evcnt 2340105568
+run_ercnt 0
+run_tocnt 8766208
+
+EVENT 390 Tue Jan 30 04:07:11 2024
+  Start scan runnum 34 scannum 215
+date 20240130 time 40711
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2340105568
+run_evcnt 2340105568
+run_ercnt 0
+run_tocnt 8766208
+
+EVENT 391 Tue Jan 30 04:07:13 2024
+  Post scan stats
+runnum 34
+scannum 215
+date 20240130
+time 40712
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2340105696
+run_evcnt 2340105696
+run_ercnt 0
+run_tocnt 8766464
+
+EVENT 392 Tue Jan 30 04:07:13 2024
+  Start scan runnum 34 scannum 216
+date 20240130 time 40713
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2340105696
+run_evcnt 2340105696
+run_ercnt 0
+run_tocnt 8766464
+
+EVENT 393 Tue Jan 30 04:07:20 2024
+  Post scan stats
+runnum 34
+scannum 216
+date 20240130
+time 40720
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2340107744
+run_evcnt 2340107744
+run_ercnt 0
+run_tocnt 8766464
+
+EVENT 394 Tue Jan 30 04:07:20 2024
+  Start scan runnum 34 scannum 217
+date 20240130 time 40720
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2340107744
+run_evcnt 2340107744
+run_ercnt 0
+run_tocnt 8766464
+
+EVENT 395 Tue Jan 30 04:08:14 2024
+  Post scan stats
+runnum 34
+scannum 217
+date 20240130
+time 40814
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2340199904
+run_evcnt 2340199904
+run_ercnt 0
+run_tocnt 8812544
+
+EVENT 396 Tue Jan 30 04:08:15 2024
+  Start scan runnum 34 scannum 218
+date 20240130 time 40815
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2340199904
+run_evcnt 2340199904
+run_ercnt 0
+run_tocnt 8812544
+
+EVENT 397 Tue Jan 30 04:09:18 2024
+  Post scan stats
+runnum 34
+scannum 218
+date 20240130
+time 40918
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2340307424
+run_evcnt 2340307424
+run_ercnt 0
+run_tocnt 8866304
+
+EVENT 398 Tue Jan 30 04:09:18 2024
+  Start scan runnum 34 scannum 219
+date 20240130 time 40918
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2340307424
+run_evcnt 2340307424
+run_ercnt 0
+run_tocnt 8866304
+
+EVENT 399 Tue Jan 30 04:10:32 2024
+  Post scan stats
+runnum 34
+scannum 219
+date 20240130
+time 41031
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2340430304
+run_evcnt 2340430304
+run_ercnt 0
+run_tocnt 8927744
+
+EVENT 400 Tue Jan 30 04:10:32 2024
+  Start scan runnum 34 scannum 220
+date 20240130 time 41032
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2340430304
+run_evcnt 2340430304
+run_ercnt 0
+run_tocnt 8927744
+
+EVENT 401 Tue Jan 30 04:11:21 2024
+  Post scan stats
+runnum 34
+scannum 220
+date 20240130
+time 41121
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2340513248
+run_evcnt 2340513248
+run_ercnt 0
+run_tocnt 8969216
+
+EVENT 402 Tue Jan 30 04:11:21 2024
+  Start scan runnum 34 scannum 221
+date 20240130 time 41121
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2340513248
+run_evcnt 2340513248
+run_ercnt 0
+run_tocnt 8969216
+
+EVENT 403 Tue Jan 30 04:12:16 2024
+  Post scan stats
+runnum 34
+scannum 221
+date 20240130
+time 41216
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2340605408
+run_evcnt 2340605408
+run_ercnt 0
+run_tocnt 9015296
+
+EVENT 404 Tue Jan 30 04:12:16 2024
+  Start scan runnum 34 scannum 222
+date 20240130 time 41216
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2340605408
+run_evcnt 2340605408
+run_ercnt 0
+run_tocnt 9015296
+
+EVENT 405 Tue Jan 30 04:13:17 2024
+  Post scan stats
+runnum 34
+scannum 222
+date 20240130
+time 41317
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2340707808
+run_evcnt 2340707808
+run_ercnt 0
+run_tocnt 9066496
+
+EVENT 406 Tue Jan 30 04:13:17 2024
+  Start scan runnum 34 scannum 223
+date 20240130 time 41317
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2340707808
+run_evcnt 2340707808
+run_ercnt 0
+run_tocnt 9066496
+
+EVENT 407 Tue Jan 30 04:14:21 2024
+  Post scan stats
+runnum 34
+scannum 223
+date 20240130
+time 41421
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2340815328
+run_evcnt 2340815328
+run_ercnt 0
+run_tocnt 9120256
+
+EVENT 408 Tue Jan 30 04:14:21 2024
+  Start scan runnum 34 scannum 224
+date 20240130 time 41421
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2340815328
+run_evcnt 2340815328
+run_ercnt 0
+run_tocnt 9120256
+
+EVENT 409 Tue Jan 30 04:15:31 2024
+  Post scan stats
+runnum 34
+scannum 224
+date 20240130
+time 41531
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2340932064
+run_evcnt 2340932064
+run_ercnt 0
+run_tocnt 9178624
+
+EVENT 410 Tue Jan 30 04:15:31 2024
+  Start scan runnum 34 scannum 225
+date 20240130 time 41531
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2340932064
+run_evcnt 2340932064
+run_ercnt 0
+run_tocnt 9178624
+
+EVENT 411 Tue Jan 30 04:16:44 2024
+  Post scan stats
+runnum 34
+scannum 225
+date 20240130
+time 41644
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2341054944
+run_evcnt 2341054944
+run_ercnt 0
+run_tocnt 9240064
+
+EVENT 412 Tue Jan 30 04:16:45 2024
+  Start scan runnum 34 scannum 226
+date 20240130 time 41645
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2341054944
+run_evcnt 2341054944
+run_ercnt 0
+run_tocnt 9240064
+
+EVENT 413 Tue Jan 30 04:18:07 2024
+  Post scan stats
+runnum 34
+scannum 226
+date 20240130
+time 41807
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2341193184
+run_evcnt 2341193184
+run_ercnt 0
+run_tocnt 9309184
+
+EVENT 414 Tue Jan 30 04:18:07 2024
+  Start scan runnum 34 scannum 227
+date 20240130 time 41807
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2341193184
+run_evcnt 2341193184
+run_ercnt 0
+run_tocnt 9309184
+
+EVENT 415 Tue Jan 30 04:19:39 2024
+  Post scan stats
+runnum 34
+scannum 227
+date 20240130
+time 41939
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2341347808
+run_evcnt 2341347808
+run_ercnt 0
+run_tocnt 9386496
+
+EVENT 416 Tue Jan 30 04:19:39 2024
+  Start scan runnum 34 scannum 228
+date 20240130 time 41939
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2341347808
+run_evcnt 2341347808
+run_ercnt 0
+run_tocnt 9386496
+
+EVENT 417 Tue Jan 30 04:21:11 2024
+  Post scan stats
+runnum 34
+scannum 228
+date 20240130
+time 42111
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2341502432
+run_evcnt 2341502432
+run_ercnt 0
+run_tocnt 9463808
+
+EVENT 418 Tue Jan 30 04:21:11 2024
+  Start scan runnum 34 scannum 229
+date 20240130 time 42111
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2341502432
+run_evcnt 2341502432
+run_ercnt 0
+run_tocnt 9463808
+
+EVENT 419 Tue Jan 30 04:22:42 2024
+  Post scan stats
+runnum 34
+scannum 229
+date 20240130
+time 42242
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2341657056
+run_evcnt 2341657056
+run_ercnt 0
+run_tocnt 9541120
+
+EVENT 420 Tue Jan 30 04:22:43 2024
+  Start scan runnum 34 scannum 230
+date 20240130 time 42243
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2341657056
+run_evcnt 2341657056
+run_ercnt 0
+run_tocnt 9541120
+
+EVENT 421 Tue Jan 30 04:25:29 2024
+  Post scan stats
+runnum 34
+scannum 230
+date 20240130
+time 42529
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2503171768
+run_evcnt 2503171768
+run_ercnt 0
+run_tocnt 9563136
+
+EVENT 422 Tue Jan 30 05:16:10 2024
+  Start scan runnum 34 scannum 233
+date 20240130 time 51610
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2503171768
+run_evcnt 2503171768
+run_ercnt 0
+run_tocnt 9563136
+
+EVENT 423 Tue Jan 30 05:16:12 2024
+  Post scan stats
+runnum 34
+scannum 233
+date 20240130
+time 51612
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2503171896
+run_evcnt 2503171896
+run_ercnt 0
+run_tocnt 9563392
+
+EVENT 424 Tue Jan 30 05:16:13 2024
+  Start scan runnum 34 scannum 234
+date 20240130 time 51613
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2503171896
+run_evcnt 2503171896
+run_ercnt 0
+run_tocnt 9563392
+
+EVENT 425 Tue Jan 30 05:16:19 2024
+  Post scan stats
+runnum 34
+scannum 234
+date 20240130
+time 51619
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2503173944
+run_evcnt 2503173944
+run_ercnt 0
+run_tocnt 9563392
+
+EVENT 426 Tue Jan 30 05:16:20 2024
+  Start scan runnum 34 scannum 235
+date 20240130 time 51620
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2503173944
+run_evcnt 2503173944
+run_ercnt 0
+run_tocnt 9563392
+
+EVENT 427 Tue Jan 30 05:17:16 2024
+  Post scan stats
+runnum 34
+scannum 235
+date 20240130
+time 51716
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2503266104
+run_evcnt 2503266104
+run_ercnt 0
+run_tocnt 9609472
+
+EVENT 428 Tue Jan 30 05:17:16 2024
+  Start scan runnum 34 scannum 236
+date 20240130 time 51716
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2503266104
+run_evcnt 2503266104
+run_ercnt 0
+run_tocnt 9609472
+
+EVENT 429 Tue Jan 30 05:18:21 2024
+  Post scan stats
+runnum 34
+scannum 236
+date 20240130
+time 51821
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2503373624
+run_evcnt 2503373624
+run_ercnt 0
+run_tocnt 9663232
+
+EVENT 430 Tue Jan 30 05:18:21 2024
+  Start scan runnum 34 scannum 237
+date 20240130 time 51821
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2503373624
+run_evcnt 2503373624
+run_ercnt 0
+run_tocnt 9663232
+
+EVENT 431 Tue Jan 30 05:19:35 2024
+  Post scan stats
+runnum 34
+scannum 237
+date 20240130
+time 51935
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2503496504
+run_evcnt 2503496504
+run_ercnt 0
+run_tocnt 9724672
+
+EVENT 432 Tue Jan 30 05:19:35 2024
+  Start scan runnum 34 scannum 238
+date 20240130 time 51935
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2503496504
+run_evcnt 2503496504
+run_ercnt 0
+run_tocnt 9724672
+
+EVENT 433 Tue Jan 30 05:20:26 2024
+  Post scan stats
+runnum 34
+scannum 238
+date 20240130
+time 52026
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2503579448
+run_evcnt 2503579448
+run_ercnt 0
+run_tocnt 9766144
+
+EVENT 434 Tue Jan 30 05:20:26 2024
+  Start scan runnum 34 scannum 239
+date 20240130 time 52026
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2503579448
+run_evcnt 2503579448
+run_ercnt 0
+run_tocnt 9766144
+
+EVENT 435 Tue Jan 30 05:21:21 2024
+  Post scan stats
+runnum 34
+scannum 239
+date 20240130
+time 52121
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2503671608
+run_evcnt 2503671608
+run_ercnt 0
+run_tocnt 9812224
+
+EVENT 436 Tue Jan 30 05:21:22 2024
+  Start scan runnum 34 scannum 240
+date 20240130 time 52122
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2503671608
+run_evcnt 2503671608
+run_ercnt 0
+run_tocnt 9812224
+
+EVENT 437 Tue Jan 30 05:22:23 2024
+  Post scan stats
+runnum 34
+scannum 240
+date 20240130
+time 52223
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2503774008
+run_evcnt 2503774008
+run_ercnt 0
+run_tocnt 9863424
+
+EVENT 438 Tue Jan 30 05:22:24 2024
+  Start scan runnum 34 scannum 241
+date 20240130 time 52224
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2503774008
+run_evcnt 2503774008
+run_ercnt 0
+run_tocnt 9863424
+
+EVENT 439 Tue Jan 30 05:23:28 2024
+  Post scan stats
+runnum 34
+scannum 241
+date 20240130
+time 52328
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2503881528
+run_evcnt 2503881528
+run_ercnt 0
+run_tocnt 9917184
+
+EVENT 440 Tue Jan 30 05:23:28 2024
+  Start scan runnum 34 scannum 242
+date 20240130 time 52328
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2503881528
+run_evcnt 2503881528
+run_ercnt 0
+run_tocnt 9917184
+
+EVENT 441 Tue Jan 30 05:24:39 2024
+  Post scan stats
+runnum 34
+scannum 242
+date 20240130
+time 52438
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2503998264
+run_evcnt 2503998264
+run_ercnt 0
+run_tocnt 9975552
+
+EVENT 442 Tue Jan 30 05:24:39 2024
+  Start scan runnum 34 scannum 243
+date 20240130 time 52439
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2503998264
+run_evcnt 2503998264
+run_ercnt 0
+run_tocnt 9975552
+
+EVENT 443 Tue Jan 30 05:25:52 2024
+  Post scan stats
+runnum 34
+scannum 243
+date 20240130
+time 52552
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2504121144
+run_evcnt 2504121144
+run_ercnt 0
+run_tocnt 10036992
+
+EVENT 444 Tue Jan 30 05:25:52 2024
+  Start scan runnum 34 scannum 244
+date 20240130 time 52552
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2504121144
+run_evcnt 2504121144
+run_ercnt 0
+run_tocnt 10036992
+
+EVENT 445 Tue Jan 30 05:27:15 2024
+  Post scan stats
+runnum 34
+scannum 244
+date 20240130
+time 52715
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2504259384
+run_evcnt 2504259384
+run_ercnt 0
+run_tocnt 10106112
+
+EVENT 446 Tue Jan 30 05:27:15 2024
+  Start scan runnum 34 scannum 245
+date 20240130 time 52715
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2504259384
+run_evcnt 2504259384
+run_ercnt 0
+run_tocnt 10106112
+
+EVENT 447 Tue Jan 30 05:28:49 2024
+  Post scan stats
+runnum 34
+scannum 245
+date 20240130
+time 52848
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2504414008
+run_evcnt 2504414008
+run_ercnt 0
+run_tocnt 10183424
+
+EVENT 448 Tue Jan 30 05:28:49 2024
+  Start scan runnum 34 scannum 246
+date 20240130 time 52849
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2504414008
+run_evcnt 2504414008
+run_ercnt 0
+run_tocnt 10183424
+
+EVENT 449 Tue Jan 30 05:30:22 2024
+  Post scan stats
+runnum 34
+scannum 246
+date 20240130
+time 53022
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2504568632
+run_evcnt 2504568632
+run_ercnt 0
+run_tocnt 10260736
+
+EVENT 450 Tue Jan 30 05:30:22 2024
+  Start scan runnum 34 scannum 247
+date 20240130 time 53022
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2504568632
+run_evcnt 2504568632
+run_ercnt 0
+run_tocnt 10260736
+
+EVENT 451 Tue Jan 30 05:31:55 2024
+  Post scan stats
+runnum 34
+scannum 247
+date 20240130
+time 53155
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2504723256
+run_evcnt 2504723256
+run_ercnt 0
+run_tocnt 10338048
+
+EVENT 452 Tue Jan 30 05:31:55 2024
+  Start scan runnum 34 scannum 248
+date 20240130 time 53155
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2504723256
+run_evcnt 2504723256
+run_ercnt 0
+run_tocnt 10338048
+
+EVENT 453 Tue Jan 30 05:34:43 2024
+  Post scan stats
+runnum 34
+scannum 248
+date 20240130
+time 53443
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2666237968
+run_evcnt 2666237968
+run_ercnt 0
+run_tocnt 10360064
+
+EVENT 454 Tue Jan 30 06:27:18 2024
+  Start scan runnum 34 scannum 251
+date 20240130 time 62718
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2666237968
+run_evcnt 2666237968
+run_ercnt 0
+run_tocnt 10360064
+
+EVENT 455 Tue Jan 30 06:27:20 2024
+  Post scan stats
+runnum 34
+scannum 251
+date 20240130
+time 62720
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2666238096
+run_evcnt 2666238096
+run_ercnt 0
+run_tocnt 10360320
+
+EVENT 456 Tue Jan 30 06:27:20 2024
+  Start scan runnum 34 scannum 252
+date 20240130 time 62720
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2666238096
+run_evcnt 2666238096
+run_ercnt 0
+run_tocnt 10360320
+
+EVENT 457 Tue Jan 30 06:27:27 2024
+  Post scan stats
+runnum 34
+scannum 252
+date 20240130
+time 62727
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2666240144
+run_evcnt 2666240144
+run_ercnt 0
+run_tocnt 10360320
+
+EVENT 458 Tue Jan 30 06:27:27 2024
+  Start scan runnum 34 scannum 253
+date 20240130 time 62727
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2666240144
+run_evcnt 2666240144
+run_ercnt 0
+run_tocnt 10360320
+
+EVENT 459 Tue Jan 30 06:28:23 2024
+  Post scan stats
+runnum 34
+scannum 253
+date 20240130
+time 62823
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2666332304
+run_evcnt 2666332304
+run_ercnt 0
+run_tocnt 10406400
+
+EVENT 460 Tue Jan 30 06:28:23 2024
+  Start scan runnum 34 scannum 254
+date 20240130 time 62823
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2666332304
+run_evcnt 2666332304
+run_ercnt 0
+run_tocnt 10406400
+
+EVENT 461 Tue Jan 30 06:29:28 2024
+  Post scan stats
+runnum 34
+scannum 254
+date 20240130
+time 62928
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2666439824
+run_evcnt 2666439824
+run_ercnt 0
+run_tocnt 10460160
+
+EVENT 462 Tue Jan 30 06:29:28 2024
+  Start scan runnum 34 scannum 255
+date 20240130 time 62928
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2666439824
+run_evcnt 2666439824
+run_ercnt 0
+run_tocnt 10460160
+
+EVENT 463 Tue Jan 30 06:30:42 2024
+  Post scan stats
+runnum 34
+scannum 255
+date 20240130
+time 63042
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2666562704
+run_evcnt 2666562704
+run_ercnt 0
+run_tocnt 10521600
+
+EVENT 464 Tue Jan 30 06:30:42 2024
+  Start scan runnum 34 scannum 256
+date 20240130 time 63042
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2666562704
+run_evcnt 2666562704
+run_ercnt 0
+run_tocnt 10521600
+
+EVENT 465 Tue Jan 30 06:31:32 2024
+  Post scan stats
+runnum 34
+scannum 256
+date 20240130
+time 63132
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2666645648
+run_evcnt 2666645648
+run_ercnt 0
+run_tocnt 10563072
+
+EVENT 466 Tue Jan 30 06:31:32 2024
+  Start scan runnum 34 scannum 257
+date 20240130 time 63132
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2666645648
+run_evcnt 2666645648
+run_ercnt 0
+run_tocnt 10563072
+
+EVENT 467 Tue Jan 30 06:32:28 2024
+  Post scan stats
+runnum 34
+scannum 257
+date 20240130
+time 63228
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2666737808
+run_evcnt 2666737808
+run_ercnt 0
+run_tocnt 10609152
+
+EVENT 468 Tue Jan 30 06:32:28 2024
+  Start scan runnum 34 scannum 258
+date 20240130 time 63228
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2666737808
+run_evcnt 2666737808
+run_ercnt 0
+run_tocnt 10609152
+
+EVENT 469 Tue Jan 30 06:33:30 2024
+  Post scan stats
+runnum 34
+scannum 258
+date 20240130
+time 63330
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2666840208
+run_evcnt 2666840208
+run_ercnt 0
+run_tocnt 10660352
+
+EVENT 470 Tue Jan 30 06:33:30 2024
+  Start scan runnum 34 scannum 259
+date 20240130 time 63330
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2666840208
+run_evcnt 2666840208
+run_ercnt 0
+run_tocnt 10660352
+
+EVENT 471 Tue Jan 30 06:34:35 2024
+  Post scan stats
+runnum 34
+scannum 259
+date 20240130
+time 63435
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2666947728
+run_evcnt 2666947728
+run_ercnt 0
+run_tocnt 10714112
+
+EVENT 472 Tue Jan 30 06:34:35 2024
+  Start scan runnum 34 scannum 260
+date 20240130 time 63435
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2666947728
+run_evcnt 2666947728
+run_ercnt 0
+run_tocnt 10714112
+
+EVENT 473 Tue Jan 30 06:35:45 2024
+  Post scan stats
+runnum 34
+scannum 260
+date 20240130
+time 63545
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2667064464
+run_evcnt 2667064464
+run_ercnt 0
+run_tocnt 10772480
+
+EVENT 474 Tue Jan 30 06:35:45 2024
+  Start scan runnum 34 scannum 261
+date 20240130 time 63545
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2667064464
+run_evcnt 2667064464
+run_ercnt 0
+run_tocnt 10772480
+
+EVENT 475 Tue Jan 30 06:36:59 2024
+  Post scan stats
+runnum 34
+scannum 261
+date 20240130
+time 63659
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2667187344
+run_evcnt 2667187344
+run_ercnt 0
+run_tocnt 10833920
+
+EVENT 476 Tue Jan 30 06:36:59 2024
+  Start scan runnum 34 scannum 262
+date 20240130 time 63659
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2667187344
+run_evcnt 2667187344
+run_ercnt 0
+run_tocnt 10833920
+
+EVENT 477 Tue Jan 30 06:38:22 2024
+  Post scan stats
+runnum 34
+scannum 262
+date 20240130
+time 63822
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2667325584
+run_evcnt 2667325584
+run_ercnt 0
+run_tocnt 10903040
+
+EVENT 478 Tue Jan 30 06:38:23 2024
+  Start scan runnum 34 scannum 263
+date 20240130 time 63823
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2667325584
+run_evcnt 2667325584
+run_ercnt 0
+run_tocnt 10903040
+
+EVENT 479 Tue Jan 30 06:39:55 2024
+  Post scan stats
+runnum 34
+scannum 263
+date 20240130
+time 63955
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2667480208
+run_evcnt 2667480208
+run_ercnt 0
+run_tocnt 10980352
+
+EVENT 480 Tue Jan 30 06:39:55 2024
+  Start scan runnum 34 scannum 264
+date 20240130 time 63955
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2667480208
+run_evcnt 2667480208
+run_ercnt 0
+run_tocnt 10980352
+
+EVENT 481 Tue Jan 30 06:41:28 2024
+  Post scan stats
+runnum 34
+scannum 264
+date 20240130
+time 64128
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2667634832
+run_evcnt 2667634832
+run_ercnt 0
+run_tocnt 11057664
+
+EVENT 482 Tue Jan 30 06:41:28 2024
+  Start scan runnum 34 scannum 265
+date 20240130 time 64128
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2667634832
+run_evcnt 2667634832
+run_ercnt 0
+run_tocnt 11057664
+
+EVENT 483 Tue Jan 30 06:43:01 2024
+  Post scan stats
+runnum 34
+scannum 265
+date 20240130
+time 64301
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2667789456
+run_evcnt 2667789456
+run_ercnt 0
+run_tocnt 11134976
+
+EVENT 484 Tue Jan 30 06:43:01 2024
+  Start scan runnum 34 scannum 266
+date 20240130 time 64301
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2667789456
+run_evcnt 2667789456
+run_ercnt 0
+run_tocnt 11134976
+
+EVENT 485 Tue Jan 30 06:45:49 2024
+  Post scan stats
+runnum 34
+scannum 266
+date 20240130
+time 64549
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2829304168
+run_evcnt 2829304168
+run_ercnt 0
+run_tocnt 11156992
+
+EVENT 486 Tue Jan 30 07:37:54 2024
+  Start scan runnum 34 scannum 269
+date 20240130 time 73754
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2829304168
+run_evcnt 2829304168
+run_ercnt 0
+run_tocnt 11156992
+
+EVENT 487 Tue Jan 30 07:37:55 2024
+  Post scan stats
+runnum 34
+scannum 269
+date 20240130
+time 73755
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2829304296
+run_evcnt 2829304296
+run_ercnt 0
+run_tocnt 11157248
+
+EVENT 488 Tue Jan 30 07:37:56 2024
+  Start scan runnum 34 scannum 270
+date 20240130 time 73756
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2829304296
+run_evcnt 2829304296
+run_ercnt 0
+run_tocnt 11157248
+
+EVENT 489 Tue Jan 30 07:38:03 2024
+  Post scan stats
+runnum 34
+scannum 270
+date 20240130
+time 73803
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2829306344
+run_evcnt 2829306344
+run_ercnt 0
+run_tocnt 11157248
+
+EVENT 490 Tue Jan 30 07:38:03 2024
+  Start scan runnum 34 scannum 271
+date 20240130 time 73803
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2829306344
+run_evcnt 2829306344
+run_ercnt 0
+run_tocnt 11157248
+
+EVENT 491 Tue Jan 30 07:38:57 2024
+  Post scan stats
+runnum 34
+scannum 271
+date 20240130
+time 73857
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2829398504
+run_evcnt 2829398504
+run_ercnt 0
+run_tocnt 11203328
+
+EVENT 492 Tue Jan 30 07:38:57 2024
+  Start scan runnum 34 scannum 272
+date 20240130 time 73857
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2829398504
+run_evcnt 2829398504
+run_ercnt 0
+run_tocnt 11203328
+
+EVENT 493 Tue Jan 30 07:40:02 2024
+  Post scan stats
+runnum 34
+scannum 272
+date 20240130
+time 74001
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2829506024
+run_evcnt 2829506024
+run_ercnt 0
+run_tocnt 11257088
+
+EVENT 494 Tue Jan 30 07:40:02 2024
+  Start scan runnum 34 scannum 273
+date 20240130 time 74002
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2829506024
+run_evcnt 2829506024
+run_ercnt 0
+run_tocnt 11257088
+
+EVENT 495 Tue Jan 30 07:41:15 2024
+  Post scan stats
+runnum 34
+scannum 273
+date 20240130
+time 74115
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2829628904
+run_evcnt 2829628904
+run_ercnt 0
+run_tocnt 11318528
+
+EVENT 496 Tue Jan 30 07:41:15 2024
+  Start scan runnum 34 scannum 274
+date 20240130 time 74115
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2829628904
+run_evcnt 2829628904
+run_ercnt 0
+run_tocnt 11318528
+
+EVENT 497 Tue Jan 30 07:42:04 2024
+  Post scan stats
+runnum 34
+scannum 274
+date 20240130
+time 74204
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2829711848
+run_evcnt 2829711848
+run_ercnt 0
+run_tocnt 11360000
+
+EVENT 498 Tue Jan 30 07:42:05 2024
+  Start scan runnum 34 scannum 275
+date 20240130 time 74205
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2829711848
+run_evcnt 2829711848
+run_ercnt 0
+run_tocnt 11360000
+
+EVENT 499 Tue Jan 30 07:43:00 2024
+  Post scan stats
+runnum 34
+scannum 275
+date 20240130
+time 74300
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2829804008
+run_evcnt 2829804008
+run_ercnt 0
+run_tocnt 11406080
+
+EVENT 500 Tue Jan 30 07:43:00 2024
+  Start scan runnum 34 scannum 276
+date 20240130 time 74300
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2829804008
+run_evcnt 2829804008
+run_ercnt 0
+run_tocnt 11406080
+
+EVENT 501 Tue Jan 30 07:44:02 2024
+  Post scan stats
+runnum 34
+scannum 276
+date 20240130
+time 74401
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2829906408
+run_evcnt 2829906408
+run_ercnt 0
+run_tocnt 11457280
+
+EVENT 502 Tue Jan 30 07:44:02 2024
+  Start scan runnum 34 scannum 277
+date 20240130 time 74402
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2829906408
+run_evcnt 2829906408
+run_ercnt 0
+run_tocnt 11457280
+
+EVENT 503 Tue Jan 30 07:45:06 2024
+  Post scan stats
+runnum 34
+scannum 277
+date 20240130
+time 74506
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2830013928
+run_evcnt 2830013928
+run_ercnt 0
+run_tocnt 11511040
+
+EVENT 504 Tue Jan 30 07:45:06 2024
+  Start scan runnum 34 scannum 278
+date 20240130 time 74506
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2830013928
+run_evcnt 2830013928
+run_ercnt 0
+run_tocnt 11511040
+
+EVENT 505 Tue Jan 30 07:46:16 2024
+  Post scan stats
+runnum 34
+scannum 278
+date 20240130
+time 74615
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2830130664
+run_evcnt 2830130664
+run_ercnt 0
+run_tocnt 11569408
+
+EVENT 506 Tue Jan 30 07:46:16 2024
+  Start scan runnum 34 scannum 279
+date 20240130 time 74616
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2830130664
+run_evcnt 2830130664
+run_ercnt 0
+run_tocnt 11569408
+
+EVENT 507 Tue Jan 30 07:47:29 2024
+  Post scan stats
+runnum 34
+scannum 279
+date 20240130
+time 74729
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2830253544
+run_evcnt 2830253544
+run_ercnt 0
+run_tocnt 11630848
+
+EVENT 508 Tue Jan 30 07:47:29 2024
+  Start scan runnum 34 scannum 280
+date 20240130 time 74729
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2830253544
+run_evcnt 2830253544
+run_ercnt 0
+run_tocnt 11630848
+
+EVENT 509 Tue Jan 30 07:48:51 2024
+  Post scan stats
+runnum 34
+scannum 280
+date 20240130
+time 74851
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2830391784
+run_evcnt 2830391784
+run_ercnt 0
+run_tocnt 11699968
+
+EVENT 510 Tue Jan 30 07:48:51 2024
+  Start scan runnum 34 scannum 281
+date 20240130 time 74851
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2830391784
+run_evcnt 2830391784
+run_ercnt 0
+run_tocnt 11699968
+
+EVENT 511 Tue Jan 30 07:50:22 2024
+  Post scan stats
+runnum 34
+scannum 281
+date 20240130
+time 75022
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2830546408
+run_evcnt 2830546408
+run_ercnt 0
+run_tocnt 11777280
+
+EVENT 512 Tue Jan 30 07:50:22 2024
+  Start scan runnum 34 scannum 282
+date 20240130 time 75022
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2830546408
+run_evcnt 2830546408
+run_ercnt 0
+run_tocnt 11777280
+
+EVENT 513 Tue Jan 30 07:51:53 2024
+  Post scan stats
+runnum 34
+scannum 282
+date 20240130
+time 75153
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2830701032
+run_evcnt 2830701032
+run_ercnt 0
+run_tocnt 11854592
+
+EVENT 514 Tue Jan 30 07:51:53 2024
+  Start scan runnum 34 scannum 283
+date 20240130 time 75153
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2830701032
+run_evcnt 2830701032
+run_ercnt 0
+run_tocnt 11854592
+
+EVENT 515 Tue Jan 30 07:53:25 2024
+  Post scan stats
+runnum 34
+scannum 283
+date 20240130
+time 75324
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2830855656
+run_evcnt 2830855656
+run_ercnt 0
+run_tocnt 11931904
+
+EVENT 516 Tue Jan 30 07:53:25 2024
+  Start scan runnum 34 scannum 284
+date 20240130 time 75325
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2830855656
+run_evcnt 2830855656
+run_ercnt 0
+run_tocnt 11931904
+
+EVENT 517 Tue Jan 30 07:56:12 2024
+  Post scan stats
+runnum 34
+scannum 284
+date 20240130
+time 75612
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 2992370368
+run_evcnt 2992370368
+run_ercnt 0
+run_tocnt 11953920
+
+EVENT 518 Tue Jan 30 08:47:39 2024
+  Start scan runnum 34 scannum 287
+date 20240130 time 84739
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 2992370368
+run_evcnt 2992370368
+run_ercnt 0
+run_tocnt 11953920
+
+EVENT 519 Tue Jan 30 08:47:41 2024
+  Post scan stats
+runnum 34
+scannum 287
+date 20240130
+time 84741
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 2992370496
+run_evcnt 2992370496
+run_ercnt 0
+run_tocnt 11954176
+
+EVENT 520 Tue Jan 30 08:47:41 2024
+  Start scan runnum 34 scannum 288
+date 20240130 time 84741
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 2992370496
+run_evcnt 2992370496
+run_ercnt 0
+run_tocnt 11954176
+
+EVENT 521 Tue Jan 30 08:47:48 2024
+  Post scan stats
+runnum 34
+scannum 288
+date 20240130
+time 84748
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 2992372544
+run_evcnt 2992372544
+run_ercnt 0
+run_tocnt 11954176
+
+EVENT 522 Tue Jan 30 08:47:48 2024
+  Start scan runnum 34 scannum 289
+date 20240130 time 84748
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2992372544
+run_evcnt 2992372544
+run_ercnt 0
+run_tocnt 11954176
+
+EVENT 523 Tue Jan 30 08:48:45 2024
+  Post scan stats
+runnum 34
+scannum 289
+date 20240130
+time 84845
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2992464704
+run_evcnt 2992464704
+run_ercnt 0
+run_tocnt 12000256
+
+EVENT 524 Tue Jan 30 08:48:45 2024
+  Start scan runnum 34 scannum 290
+date 20240130 time 84845
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2992464704
+run_evcnt 2992464704
+run_ercnt 0
+run_tocnt 12000256
+
+EVENT 525 Tue Jan 30 08:49:50 2024
+  Post scan stats
+runnum 34
+scannum 290
+date 20240130
+time 84950
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2992572224
+run_evcnt 2992572224
+run_ercnt 0
+run_tocnt 12054016
+
+EVENT 526 Tue Jan 30 08:49:50 2024
+  Start scan runnum 34 scannum 291
+date 20240130 time 84950
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2992572224
+run_evcnt 2992572224
+run_ercnt 0
+run_tocnt 12054016
+
+EVENT 527 Tue Jan 30 08:51:04 2024
+  Post scan stats
+runnum 34
+scannum 291
+date 20240130
+time 85104
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2992695104
+run_evcnt 2992695104
+run_ercnt 0
+run_tocnt 12115456
+
+EVENT 528 Tue Jan 30 08:51:04 2024
+  Start scan runnum 34 scannum 292
+date 20240130 time 85104
+scan var 1 (  0.00 to  80.00 step   1.00)
+run_tsent 2992695104
+run_evcnt 2992695104
+run_ercnt 0
+run_tocnt 12115456
+
+EVENT 529 Tue Jan 30 08:51:55 2024
+  Post scan stats
+runnum 34
+scannum 292
+date 20240130
+time 85154
+scan_type 1
+scan_start   0.00
+scan_stop  80.00
+scan_step   1.00
+run_tsent 2992778048
+run_evcnt 2992778048
+run_ercnt 0
+run_tocnt 12156928
+
+EVENT 530 Tue Jan 30 08:51:55 2024
+  Start scan runnum 34 scannum 293
+date 20240130 time 85155
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 2992778048
+run_evcnt 2992778048
+run_ercnt 0
+run_tocnt 12156928
+
+EVENT 531 Tue Jan 30 08:52:50 2024
+  Post scan stats
+runnum 34
+scannum 293
+date 20240130
+time 85250
+scan_type 1
+scan_start   0.00
+scan_stop  89.00
+scan_step   1.00
+run_tsent 2992870208
+run_evcnt 2992870208
+run_ercnt 0
+run_tocnt 12203008
+
+EVENT 532 Tue Jan 30 08:52:50 2024
+  Start scan runnum 34 scannum 294
+date 20240130 time 85250
+scan var 1 (  0.00 to  99.00 step   1.00)
+run_tsent 2992870208
+run_evcnt 2992870208
+run_ercnt 0
+run_tocnt 12203008
+
+EVENT 533 Tue Jan 30 08:53:52 2024
+  Post scan stats
+runnum 34
+scannum 294
+date 20240130
+time 85352
+scan_type 1
+scan_start   0.00
+scan_stop  99.00
+scan_step   1.00
+run_tsent 2992972608
+run_evcnt 2992972608
+run_ercnt 0
+run_tocnt 12254208
+
+EVENT 534 Tue Jan 30 08:53:52 2024
+  Start scan runnum 34 scannum 295
+date 20240130 time 85352
+scan var 1 (  0.00 to 104.00 step   1.00)
+run_tsent 2992972608
+run_evcnt 2992972608
+run_ercnt 0
+run_tocnt 12254208
+
+EVENT 535 Tue Jan 30 08:54:57 2024
+  Post scan stats
+runnum 34
+scannum 295
+date 20240130
+time 85457
+scan_type 1
+scan_start   0.00
+scan_stop 104.00
+scan_step   1.00
+run_tsent 2993080128
+run_evcnt 2993080128
+run_ercnt 0
+run_tocnt 12307968
+
+EVENT 536 Tue Jan 30 08:54:57 2024
+  Start scan runnum 34 scannum 296
+date 20240130 time 85457
+scan var 1 (  0.00 to 113.00 step   1.00)
+run_tsent 2993080128
+run_evcnt 2993080128
+run_ercnt 0
+run_tocnt 12307968
+
+EVENT 537 Tue Jan 30 08:56:07 2024
+  Post scan stats
+runnum 34
+scannum 296
+date 20240130
+time 85607
+scan_type 1
+scan_start   0.00
+scan_stop 113.00
+scan_step   1.00
+run_tsent 2993196864
+run_evcnt 2993196864
+run_ercnt 0
+run_tocnt 12366336
+
+EVENT 538 Tue Jan 30 08:56:08 2024
+  Start scan runnum 34 scannum 297
+date 20240130 time 85608
+scan var 1 (  0.00 to 119.00 step   1.00)
+run_tsent 2993196864
+run_evcnt 2993196864
+run_ercnt 0
+run_tocnt 12366336
+
+EVENT 539 Tue Jan 30 08:57:22 2024
+  Post scan stats
+runnum 34
+scannum 297
+date 20240130
+time 85721
+scan_type 1
+scan_start   0.00
+scan_stop 119.00
+scan_step   1.00
+run_tsent 2993319744
+run_evcnt 2993319744
+run_ercnt 0
+run_tocnt 12427776
+
+EVENT 540 Tue Jan 30 08:57:22 2024
+  Start scan runnum 34 scannum 298
+date 20240130 time 85722
+scan var 1 (  0.00 to 134.00 step   1.00)
+run_tsent 2993319744
+run_evcnt 2993319744
+run_ercnt 0
+run_tocnt 12427776
+
+EVENT 541 Tue Jan 30 08:58:45 2024
+  Post scan stats
+runnum 34
+scannum 298
+date 20240130
+time 85844
+scan_type 1
+scan_start   0.00
+scan_stop 134.00
+scan_step   1.00
+run_tsent 2993457984
+run_evcnt 2993457984
+run_ercnt 0
+run_tocnt 12496896
+
+EVENT 542 Tue Jan 30 08:58:45 2024
+  Start scan runnum 34 scannum 299
+date 20240130 time 85845
+scan var 1 ( 14.00 to 164.00 step   1.00)
+run_tsent 2993457984
+run_evcnt 2993457984
+run_ercnt 0
+run_tocnt 12496896
+
+EVENT 543 Tue Jan 30 09:00:17 2024
+  Post scan stats
+runnum 34
+scannum 299
+date 20240130
+time 90017
+scan_type 1
+scan_start  14.00
+scan_stop 164.00
+scan_step   1.00
+run_tsent 2993612608
+run_evcnt 2993612608
+run_ercnt 0
+run_tocnt 12574208
+
+EVENT 544 Tue Jan 30 09:00:18 2024
+  Start scan runnum 34 scannum 300
+date 20240130 time 90018
+scan var 1 ( 44.00 to 194.00 step   1.00)
+run_tsent 2993612608
+run_evcnt 2993612608
+run_ercnt 0
+run_tocnt 12574208
+
+EVENT 545 Tue Jan 30 09:01:50 2024
+  Post scan stats
+runnum 34
+scannum 300
+date 20240130
+time 90150
+scan_type 1
+scan_start  44.00
+scan_stop 194.00
+scan_step   1.00
+run_tsent 2993767232
+run_evcnt 2993767232
+run_ercnt 0
+run_tocnt 12651520
+
+EVENT 546 Tue Jan 30 09:01:50 2024
+  Start scan runnum 34 scannum 301
+date 20240130 time 90150
+scan var 1 (104.00 to 254.00 step   1.00)
+run_tsent 2993767232
+run_evcnt 2993767232
+run_ercnt 0
+run_tocnt 12651520
+
+EVENT 547 Tue Jan 30 09:03:24 2024
+  Post scan stats
+runnum 34
+scannum 301
+date 20240130
+time 90324
+scan_type 1
+scan_start 104.00
+scan_stop 254.00
+scan_step   1.00
+run_tsent 2993921856
+run_evcnt 2993921856
+run_ercnt 0
+run_tocnt 12728832
+
+EVENT 548 Tue Jan 30 09:03:24 2024
+  Start scan runnum 34 scannum 302
+date 20240130 time 90324
+scan var 1 (  0.00 to  40.00 step   1.00)
+run_tsent 2993921856
+run_evcnt 2993921856
+run_ercnt 0
+run_tocnt 12728832
+
+EVENT 549 Tue Jan 30 09:06:14 2024
+  Post scan stats
+runnum 34
+scannum 302
+date 20240130
+time 90613
+scan_type 1
+scan_start   0.00
+scan_stop  40.00
+scan_step   1.00
+run_tsent 3155436568
+run_evcnt 3155436568
+run_ercnt 0
+run_tocnt 12750848
+
+EVENT 550 Tue Jan 30 09:58:10 2024
+  Start scan runnum 34 scannum 305
+date 20240130 time 95810
+scan var 6 (  0.00 to  31.00 step   1.00)
+run_tsent 3155436568
+run_evcnt 3155436568
+run_ercnt 0
+run_tocnt 12750848
+
+EVENT 551 Tue Jan 30 09:58:12 2024
+  Post scan stats
+runnum 34
+scannum 305
+date 20240130
+time 95811
+scan_type 6
+scan_start   0.00
+scan_stop  31.00
+scan_step   1.00
+run_tsent 3155436696
+run_evcnt 3155436696
+run_ercnt 0
+run_tocnt 12751104
+
+EVENT 552 Tue Jan 30 09:58:12 2024
+  Start scan runnum 34 scannum 306
+date 20240130 time 95812
+scan var 3 (  0.00 to  63.00 step   1.00)
+run_tsent 3155436696
+run_evcnt 3155436696
+run_ercnt 0
+run_tocnt 12751104
+
+EVENT 553 Tue Jan 30 09:58:19 2024
+  Post scan stats
+runnum 34
+scannum 306
+date 20240130
+time 95819
+scan_type 3
+scan_start   0.00
+scan_stop  63.00
+scan_step   1.00
+run_tsent 3155438744
+run_evcnt 3155438744
+run_ercnt 0
+run_tocnt 12751104
+
+EVENT 554 Tue Jan 30 09:58:19 2024
+  Start scan runnum 34 scannum 307
+date 20240130 time 95819
+scan var 1 (  0.00 to  89.00 step   1.00)
+run_tsent 3155438744
+run_evcnt 3155438744
+run_ercnt 0
+run_tocnt 12751104
+

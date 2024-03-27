@@ -1,0 +1,7879 @@
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-666
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"00:34:56"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	39.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 21 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 13.9 (module average 19.4)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.1 (module average 19.4)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-667
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"00:36:09"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	493 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.57 	75.85 	0.00
+#S01
+	4 	31.37 	69.92 	0.00
+#S02
+	4 	32.57 	79.54 	0.00
+#S03
+	4 	32.34 	75.20 	0.00
+#S04
+	4 	32.07 	76.98 	0.00
+#S05
+	4 	32.26 	80.53 	0.00
+#S06
+	4 	31.95 	77.37 	0.00
+#S07
+	4 	32.65 	78.14 	0.00
+#S08
+	4 	33.09 	77.26 	0.00
+#E09
+	4 	32.36 	71.58 	0.00
+#M00
+	4 	32.18 	75.91 	0.00
+#S01
+	4 	32.18 	69.71 	0.00
+#S02
+	4 	33.21 	79.23 	0.00
+#S03
+	4 	33.06 	75.06 	0.00
+#S04
+	4 	32.89 	76.91 	0.00
+#S05
+	4 	33.20 	80.47 	0.00
+#S06
+	4 	32.60 	76.70 	0.00
+#S07
+	4 	33.38 	78.29 	0.00
+#S08
+	4 	33.67 	77.23 	0.00
+#E09
+	4 	33.04 	71.45 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	106.9 	 2.03 	75.8 	1.68 	 75.8 	 1.68 	8.23 	  678 	  14
+#S01
+	100.6 	 1.91 	69.9 	1.67 	 69.9 	 1.67 	7.65 	  684 	  19
+#S02
+	111.9 	 2.33 	79.5 	1.95 	 79.5 	 1.95 	7.91 	  622 	  14
+#S03
+	107.1 	 2.21 	75.2 	1.87 	 75.2 	 1.87 	7.81 	  649 	  13
+#S04
+	108.5 	 1.88 	77.0 	1.61 	 77.0 	 1.61 	8.11 	  658 	  14
+#S05
+	112.3 	 1.68 	80.5 	1.29 	 80.5 	 1.29 	8.22 	  638 	  11
+#S06
+	108.7 	 1.93 	77.4 	1.61 	 77.4 	 1.61 	7.72 	  624 	  19
+#S07
+	110.5 	 1.90 	78.1 	1.77 	 78.1 	 1.77 	7.97 	  638 	  13
+#S08
+	110.0 	 1.92 	77.3 	1.53 	 77.3 	 1.53 	7.66 	  620 	  11
+#E09
+	103.4 	 2.06 	71.6 	1.72 	 71.6 	 1.72 	7.34 	  642 	  25
+#M00
+	107.6 	 1.82 	75.9 	1.62 	 75.9 	 1.62 	7.35 	  605 	  10
+#S01
+	101.3 	 1.99 	69.7 	2.00 	 69.7 	 2.00 	6.88 	  617 	  10
+#S02
+	112.3 	 2.43 	79.2 	2.04 	 79.2 	 2.04 	7.05 	  556 	   9
+#S03
+	107.7 	 2.36 	75.1 	2.03 	 75.1 	 2.03 	6.93 	  577 	  10
+#S04
+	109.3 	 2.04 	76.9 	1.66 	 76.9 	 1.66 	7.08 	  575 	  11
+#S05
+	113.3 	 2.17 	80.5 	1.76 	 80.5 	 1.76 	7.22 	  561 	  11
+#S06
+	108.7 	 1.83 	76.7 	1.61 	 76.7 	 1.61 	6.84 	  557 	  10
+#S07
+	111.4 	 2.11 	78.3 	1.71 	 78.3 	 1.71 	7.02 	  561 	   9
+#S08
+	110.6 	 1.96 	77.2 	1.60 	 77.2 	 1.60 	6.83 	  553 	   9
+#E09
+	104.0 	 2.36 	71.5 	1.99 	 71.5 	 1.99 	6.52 	  571 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"bad noise sigma" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  2	  0	  0	  0	  0	  1	  1	  0	  0	  0	  2	  0	  0	  0	  0
+#Link 2:	  0	  2	  0	  0	  0	  0	  2	  1	  0	  0	  0	  2	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 686
+LAST CHANNEL   : 686
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 1612
+LAST CHANNEL   : 1612
+#
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#5 defects found affecting 5 strips
+#1 maximum consecutive defects
+%Comment
+COMMENT        : FAIL due to chip 9 (under) noise sigma (> 25.000000)
+#
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_667.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-670
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"00:41:03"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1234.40 	3.82 	-588.77
+#S01
+	3 	1269.15 	4.26 	-606.05
+#S02
+	3 	1219.27 	3.64 	-579.57
+#S03
+	3 	1282.63 	4.07 	-611.21
+#S04
+	3 	1265.35 	3.91 	-603.18
+#S05
+	3 	1299.70 	3.86 	-619.92
+#S06
+	3 	1202.65 	3.66 	-572.41
+#S07
+	3 	1205.02 	3.66 	-572.49
+#S08
+	3 	1204.61 	3.70 	-571.86
+#E09
+	3 	1199.89 	3.94 	-570.58
+#M00
+	3 	1237.67 	3.83 	-589.96
+#S01
+	3 	1282.28 	4.33 	-611.79
+#S02
+	3 	1221.41 	3.67 	-580.04
+#S03
+	3 	1287.47 	4.10 	-612.82
+#S04
+	3 	1278.76 	3.96 	-609.01
+#S05
+	3 	1307.23 	3.89 	-622.72
+#S06
+	3 	1211.86 	3.72 	-576.41
+#S07
+	3 	1215.49 	3.69 	-576.97
+#S08
+	3 	1216.70 	3.75 	-577.26
+#E09
+	3 	1217.81 	4.02 	-578.86
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.3 	 2.66 	77.4 	1.50 	 80.2 	 1.63 	8.35 	  675 	  15
+#S01
+	136.3 	 2.61 	71.8 	1.51 	 74.0 	 1.60 	7.87 	  685 	  20
+#S02
+	151.7 	 3.12 	79.9 	1.59 	 83.2 	 1.74 	7.90 	  618 	  13
+#S03
+	145.1 	 2.95 	76.0 	1.52 	 78.5 	 1.67 	7.88 	  648 	  13
+#S04
+	147.5 	 2.51 	77.8 	1.38 	 80.6 	 1.53 	8.13 	  654 	  13
+#S05
+	152.9 	 2.23 	80.8 	1.17 	 83.8 	 1.27 	8.22 	  636 	  11
+#S06
+	148.0 	 2.54 	78.3 	1.39 	 81.5 	 1.55 	7.78 	  620 	  17
+#S07
+	149.8 	 2.60 	78.7 	1.49 	 81.9 	 1.65 	7.97 	  633 	  11
+#S08
+	148.9 	 2.54 	77.8 	1.35 	 80.9 	 1.49 	7.66 	  615 	  12
+#E09
+	139.7 	 2.76 	73.1 	1.48 	 75.7 	 1.64 	7.41 	  633 	  24
+#M00
+	146.0 	 2.44 	77.4 	1.40 	 80.3 	 1.55 	7.40 	  597 	   9
+#S01
+	136.8 	 2.91 	71.7 	1.78 	 73.8 	 1.88 	7.03 	  614 	  12
+#S02
+	151.8 	 3.29 	79.6 	1.75 	 82.8 	 1.91 	7.05 	  553 	  10
+#S03
+	145.6 	 3.22 	75.7 	1.74 	 78.2 	 1.90 	7.00 	  577 	  11
+#S04
+	148.3 	 2.70 	77.7 	1.41 	 80.4 	 1.57 	7.10 	  572 	  11
+#S05
+	153.7 	 2.89 	80.8 	1.54 	 83.7 	 1.69 	7.23 	  559 	  11
+#S06
+	147.6 	 2.48 	77.8 	1.37 	 80.8 	 1.53 	6.88 	  552 	  10
+#S07
+	150.7 	 2.78 	78.8 	1.45 	 82.0 	 1.60 	7.01 	  556 	   9
+#S08
+	149.4 	 2.61 	77.7 	1.40 	 80.8 	 1.55 	6.83 	  549 	  10
+#E09
+	140.0 	 2.99 	73.0 	1.58 	 75.5 	 1.79 	6.57 	  562 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#4 defects found affecting 4 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_670.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-680
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"00:49:43"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	491 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.8 	3.9e-01 	1.8e-02 	 974
+#S01
+	12.7 	3.7e-01 	1.8e-02 	1016
+#S02
+	12.4 	3.7e-01 	1.7e-02 	 871
+#S03
+	12.3 	3.7e-01 	1.7e-02 	 826
+#S04
+	12.1 	3.6e-01 	1.5e-02 	 794
+#S05
+	12.1 	3.4e-01 	2.1e-02 	 802
+#S06
+	12.4 	3.5e-01 	1.8e-02 	 855
+#S07
+	12.3 	3.5e-01 	1.8e-02 	 839
+#S08
+	12.3 	3.5e-01 	1.7e-02 	 858
+#E09
+	12.6 	3.5e-01 	1.9e-02 	1035
+#M00
+	12.7 	3.9e-01 	1.8e-02 	1100
+#S01
+	12.7 	3.7e-01 	1.8e-02 	1106
+#S02
+	12.4 	3.7e-01 	1.8e-02 	1077
+#S03
+	12.4 	3.6e-01 	1.8e-02 	1039
+#S04
+	12.3 	3.6e-01 	1.7e-02 	1057
+#S05
+	12.3 	3.5e-01 	1.9e-02 	1010
+#S06
+	12.5 	3.5e-01 	1.9e-02 	1011
+#S07
+	12.4 	3.4e-01 	2.0e-02 	1064
+#S08
+	12.4 	3.5e-01 	1.9e-02 	1062
+#E09
+	12.6 	3.5e-01 	1.9e-02 	1083
+#
+#	fitpar0 fitpar1
+#M00
+#	-4.3702e+00	-2.0602e+01
+#S01
+#	-4.3533e+00	-1.8907e+01
+#S02
+#	-4.7064e+00	-2.5774e+01
+#S03
+#	-3.5463e+00	-2.8601e+01
+#S04
+#	-3.0793e+00	-3.1003e+01
+#S05
+#	-3.8678e+00	-3.0399e+01
+#S06
+#	-4.1293e+00	-2.6704e+01
+#S07
+#	-4.4302e+00	-2.7736e+01
+#S08
+#	-4.8503e+00	-2.6506e+01
+#E09
+#	-5.4318e+00	-1.8227e+01
+#M00
+#	-5.8546e+00	-1.6135e+01
+#S01
+#	-5.5413e+00	-1.5973e+01
+#S02
+#	-7.0732e+00	-1.6840e+01
+#S03
+#	-7.0906e+00	-1.8107e+01
+#S04
+#	-7.1922e+00	-1.7492e+01
+#S05
+#	-6.5120e+00	-1.9150e+01
+#S06
+#	-6.0870e+00	-1.9118e+01
+#S07
+#	-7.3070e+00	-1.7253e+01
+#S08
+#	-7.5939e+00	-1.7318e+01
+#E09
+#	-6.8559e+00	-1.6644e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-684
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"01:42:52"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 21 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 13.9 (module average 19.4)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.0 (module average 19.4)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-685
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"01:44:06"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	39.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	493 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.67 	75.87 	0.00
+#S01
+	4 	31.53 	69.96 	0.00
+#S02
+	4 	32.57 	79.54 	0.00
+#S03
+	4 	32.55 	75.17 	0.00
+#S04
+	4 	32.17 	76.97 	0.00
+#S05
+	4 	32.39 	80.52 	0.00
+#S06
+	4 	32.03 	77.34 	0.00
+#S07
+	4 	32.84 	78.13 	0.00
+#S08
+	4 	33.22 	77.28 	0.00
+#E09
+	4 	32.42 	71.63 	0.00
+#M00
+	4 	32.49 	75.91 	0.00
+#S01
+	4 	32.20 	69.77 	0.00
+#S02
+	4 	33.23 	79.15 	0.00
+#S03
+	4 	33.17 	74.99 	0.00
+#S04
+	4 	32.72 	76.93 	0.00
+#S05
+	4 	33.33 	80.49 	0.00
+#S06
+	4 	32.65 	76.66 	0.00
+#S07
+	4 	33.27 	78.25 	0.00
+#S08
+	4 	33.86 	77.26 	0.00
+#E09
+	4 	33.07 	71.39 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	107.1 	 1.86 	75.9 	1.68 	 75.9 	 1.68 	8.22 	  678 	  13
+#S01
+	100.8 	 1.98 	69.9 	1.67 	 69.9 	 1.67 	7.66 	  685 	  20
+#S02
+	111.9 	 2.32 	79.5 	1.92 	 79.5 	 1.92 	7.89 	  620 	  15
+#S03
+	107.3 	 2.27 	75.2 	1.84 	 75.2 	 1.84 	7.80 	  648 	  14
+#S04
+	108.6 	 1.89 	77.0 	1.59 	 77.0 	 1.59 	8.07 	  655 	  15
+#S05
+	112.4 	 1.81 	80.5 	1.34 	 80.5 	 1.34 	8.21 	  637 	  11
+#S06
+	108.8 	 2.11 	77.3 	1.63 	 77.3 	 1.63 	7.70 	  622 	  18
+#S07
+	110.7 	 1.98 	78.1 	1.73 	 78.1 	 1.73 	7.96 	  637 	  11
+#S08
+	110.1 	 1.94 	77.3 	1.54 	 77.3 	 1.54 	7.65 	  619 	  10
+#E09
+	103.6 	 2.19 	71.6 	1.76 	 71.6 	 1.76 	7.32 	  639 	  24
+#M00
+	108.0 	 2.02 	75.9 	1.59 	 75.9 	 1.59 	7.33 	  604 	  10
+#S01
+	101.3 	 2.00 	69.8 	2.00 	 69.8 	 2.00 	6.88 	  616 	  11
+#S02
+	112.2 	 2.40 	79.2 	2.05 	 79.2 	 2.05 	7.04 	  556 	  10
+#S03
+	107.7 	 2.23 	75.0 	2.03 	 75.0 	 2.03 	6.93 	  577 	  10
+#S04
+	109.2 	 2.19 	76.9 	1.65 	 76.9 	 1.65 	7.04 	  572 	  11
+#S05
+	113.4 	 2.13 	80.5 	1.74 	 80.5 	 1.74 	7.22 	  560 	   9
+#S06
+	108.8 	 1.83 	76.7 	1.58 	 76.7 	 1.58 	6.85 	  558 	  10
+#S07
+	111.3 	 2.01 	78.2 	1.72 	 78.2 	 1.72 	7.01 	  560 	  10
+#S08
+	110.8 	 1.85 	77.3 	1.61 	 77.3 	 1.61 	6.84 	  553 	  10
+#E09
+	104.0 	 2.43 	71.4 	1.89 	 71.4 	 1.89 	6.49 	  569 	  12
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#4 defects found affecting 4 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_685.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-688
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"01:48:58"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	37.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	496 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1235.70 	3.83 	-589.25
+#S01
+	3 	1268.04 	4.26 	-605.27
+#S02
+	3 	1216.72 	3.64 	-578.29
+#S03
+	3 	1283.64 	4.07 	-611.50
+#S04
+	3 	1266.47 	3.91 	-603.61
+#S05
+	3 	1299.59 	3.86 	-619.68
+#S06
+	3 	1203.33 	3.66 	-572.73
+#S07
+	3 	1204.74 	3.66 	-572.13
+#S08
+	3 	1203.37 	3.70 	-571.09
+#E09
+	3 	1202.18 	3.95 	-571.53
+#M00
+	3 	1239.41 	3.84 	-590.40
+#S01
+	3 	1280.85 	4.32 	-610.99
+#S02
+	3 	1219.13 	3.66 	-578.95
+#S03
+	3 	1287.29 	4.10 	-612.66
+#S04
+	3 	1278.64 	3.96 	-609.08
+#S05
+	3 	1306.86 	3.89 	-622.37
+#S06
+	3 	1212.15 	3.72 	-576.56
+#S07
+	3 	1215.26 	3.69 	-576.98
+#S08
+	3 	1214.68 	3.74 	-576.07
+#E09
+	3 	1219.98 	4.03 	-579.78
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.3 	 2.52 	77.3 	1.49 	 80.1 	 1.62 	8.34 	  674 	  14
+#S01
+	136.5 	 2.69 	71.8 	1.51 	 74.0 	 1.60 	7.86 	  683 	  19
+#S02
+	151.7 	 3.09 	79.9 	1.59 	 83.2 	 1.74 	7.89 	  617 	  14
+#S03
+	145.2 	 3.04 	75.9 	1.54 	 78.4 	 1.70 	7.89 	  650 	  13
+#S04
+	147.6 	 2.54 	77.7 	1.37 	 80.5 	 1.52 	8.13 	  653 	  14
+#S05
+	153.1 	 2.29 	80.8 	1.17 	 83.8 	 1.28 	8.20 	  634 	  12
+#S06
+	147.9 	 2.74 	78.3 	1.38 	 81.5 	 1.54 	7.78 	  620 	  18
+#S07
+	149.9 	 2.72 	78.6 	1.48 	 81.9 	 1.65 	7.95 	  632 	  11
+#S08
+	149.0 	 2.55 	77.8 	1.35 	 80.9 	 1.49 	7.65 	  615 	  11
+#E09
+	139.8 	 2.86 	73.1 	1.49 	 75.6 	 1.65 	7.41 	  634 	  23
+#M00
+	146.2 	 2.63 	77.3 	1.42 	 80.2 	 1.56 	7.40 	  598 	  11
+#S01
+	136.9 	 2.84 	71.7 	1.77 	 73.8 	 1.86 	7.05 	  615 	  10
+#S02
+	151.8 	 3.26 	79.6 	1.75 	 82.9 	 1.91 	7.02 	  551 	  10
+#S03
+	145.6 	 3.08 	75.7 	1.73 	 78.2 	 1.90 	6.98 	  577 	  11
+#S04
+	148.1 	 2.88 	77.7 	1.42 	 80.4 	 1.58 	7.10 	  572 	  11
+#S05
+	153.9 	 2.86 	80.8 	1.53 	 83.8 	 1.68 	7.21 	  558 	  10
+#S06
+	147.6 	 2.46 	77.8 	1.37 	 80.8 	 1.53 	6.90 	  554 	  10
+#S07
+	150.5 	 2.73 	78.8 	1.45 	 81.9 	 1.59 	7.00 	  555 	   9
+#S08
+	149.6 	 2.51 	77.7 	1.39 	 80.8 	 1.54 	6.83 	  549 	  10
+#E09
+	140.1 	 3.20 	72.9 	1.59 	 75.4 	 1.79 	6.58 	  564 	  10
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  2	  0	  0	  0	  0	  1	  2	  0	  0	  0	  2	  0	  0	  0	  0
+#Link 2:	  0	  2	  0	  0	  0	  0	  1	  2	  0	  0	  0	  2	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 1333
+LAST CHANNEL   : 1333
+#
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#5 defects found affecting 5 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_688.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-698
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"01:57:40"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	491 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.8 	4.0e-01 	1.7e-02 	 759
+#S01
+	12.8 	3.9e-01 	1.7e-02 	 807
+#S02
+	12.4 	3.8e-01 	1.6e-02 	 716
+#S03
+	12.4 	3.8e-01 	1.6e-02 	 694
+#S04
+	12.2 	3.8e-01 	1.5e-02 	 644
+#S05
+	12.3 	3.7e-01 	2.0e-02 	 774
+#S06
+	12.5 	3.7e-01 	2.1e-02 	 733
+#S07
+	12.4 	3.7e-01 	1.8e-02 	 635
+#S08
+	12.4 	3.8e-01 	1.9e-02 	 608
+#E09
+	12.6 	3.7e-01 	2.0e-02 	 947
+#M00
+	12.7 	4.0e-01 	1.5e-02 	 672
+#S01
+	12.7 	3.9e-01 	1.6e-02 	 902
+#S02
+	12.4 	3.9e-01 	1.6e-02 	1003
+#S03
+	12.5 	3.8e-01 	1.7e-02 	1049
+#S04
+	12.3 	3.8e-01 	1.9e-02 	 810
+#S05
+	12.4 	3.7e-01 	1.8e-02 	 563
+#S06
+	12.6 	3.7e-01 	1.8e-02 	 944
+#S07
+	12.4 	3.7e-01 	2.0e-02 	 540
+#S08
+	12.5 	3.7e-01 	1.9e-02 	 544
+#E09
+	12.7 	3.7e-01 	1.7e-02 	 903
+#
+#	fitpar0 fitpar1
+#M00
+#	-2.3898e+00	-3.3921e+01
+#S01
+#	-2.6963e+00	-2.9963e+01
+#S02
+#	-2.9765e+00	-3.8052e+01
+#S03
+#	-1.8438e+00	-4.0605e+01
+#S04
+#	-8.3609e-01	-4.7092e+01
+#S05
+#	-3.5066e+00	-3.2605e+01
+#S06
+#	-2.7707e+00	-3.6347e+01
+#S07
+#	-1.2771e+00	-4.8501e+01
+#S08
+#	-9.7246e-01	-5.2886e+01
+#E09
+#	-4.9536e+00	-2.1789e+01
+#M00
+#	-2.1043e+00	-4.3223e+01
+#S01
+#	-5.0211e+00	-2.4030e+01
+#S02
+#	-6.8062e+00	-1.9409e+01
+#S03
+#	-7.1352e+00	-1.7737e+01
+#S04
+#	-5.2042e+00	-2.9758e+01
+#S05
+#	-9.7236e-01	-6.1672e+01
+#S06
+#	-5.7569e+00	-2.1920e+01
+#S07
+#	-3.5153e-01	-6.7056e+01
+#S08
+#	-6.9249e-01	-6.6013e+01
+#E09
+#	-5.8353e+00	-2.3945e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-702
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"02:50:25"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 21 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 13.9 (module average 19.4)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.1 (module average 19.4)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-703
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"02:51:38"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	37.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	492 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.65 	75.80 	0.00
+#S01
+	4 	31.63 	69.92 	0.00
+#S02
+	4 	32.62 	79.55 	0.00
+#S03
+	4 	32.40 	75.21 	0.00
+#S04
+	4 	32.18 	76.97 	0.00
+#S05
+	4 	32.50 	80.52 	0.00
+#S06
+	4 	32.01 	77.37 	0.00
+#S07
+	4 	32.48 	78.21 	0.00
+#S08
+	4 	33.01 	77.23 	0.00
+#E09
+	4 	32.18 	71.63 	0.00
+#M00
+	4 	32.32 	75.84 	0.00
+#S01
+	4 	32.26 	69.71 	0.00
+#S02
+	4 	33.33 	79.19 	0.00
+#S03
+	4 	33.27 	74.97 	0.00
+#S04
+	4 	32.78 	76.93 	0.00
+#S05
+	4 	33.36 	80.48 	0.00
+#S06
+	4 	32.50 	76.71 	0.00
+#S07
+	4 	33.24 	78.30 	0.00
+#S08
+	4 	33.62 	77.23 	0.00
+#E09
+	4 	32.97 	71.49 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	106.9 	 2.04 	75.8 	1.62 	 75.8 	 1.62 	8.23 	  679 	  14
+#S01
+	100.8 	 1.89 	69.9 	1.69 	 69.9 	 1.69 	7.65 	  684 	  19
+#S02
+	112.0 	 2.32 	79.6 	1.93 	 79.6 	 1.93 	7.92 	  622 	  14
+#S03
+	107.1 	 2.33 	75.2 	1.83 	 75.2 	 1.83 	7.81 	  649 	  14
+#S04
+	108.6 	 1.86 	77.0 	1.62 	 77.0 	 1.62 	8.09 	  657 	  13
+#S05
+	112.6 	 1.96 	80.5 	1.40 	 80.5 	 1.40 	8.23 	  639 	  12
+#S06
+	108.8 	 2.03 	77.4 	1.62 	 77.4 	 1.62 	7.72 	  623 	  18
+#S07
+	110.3 	 1.84 	78.2 	1.74 	 78.2 	 1.74 	7.98 	  638 	  11
+#S08
+	109.9 	 1.87 	77.2 	1.55 	 77.2 	 1.55 	7.66 	  620 	  11
+#E09
+	103.3 	 2.04 	71.6 	1.71 	 71.6 	 1.71 	7.31 	  639 	  24
+#M00
+	107.7 	 1.88 	75.8 	1.63 	 75.8 	 1.63 	7.34 	  605 	  10
+#S01
+	101.3 	 2.04 	69.7 	1.97 	 69.7 	 1.97 	6.85 	  615 	  11
+#S02
+	112.3 	 2.39 	79.2 	2.06 	 79.2 	 2.06 	7.03 	  555 	   9
+#S03
+	107.8 	 2.36 	75.0 	2.01 	 75.0 	 2.01 	6.92 	  577 	  10
+#S04
+	109.2 	 1.98 	76.9 	1.70 	 76.9 	 1.70 	7.06 	  573 	  11
+#S05
+	113.4 	 2.01 	80.5 	1.75 	 80.5 	 1.75 	7.22 	  561 	  10
+#S06
+	108.7 	 1.85 	76.7 	1.57 	 76.7 	 1.57 	6.83 	  557 	  10
+#S07
+	111.2 	 1.95 	78.3 	1.68 	 78.3 	 1.68 	7.02 	  561 	  11
+#S08
+	110.5 	 1.91 	77.2 	1.61 	 77.2 	 1.61 	6.83 	  553 	  10
+#E09
+	104.0 	 2.35 	71.5 	2.00 	 71.5 	 2.00 	6.51 	  569 	  10
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  1	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  1	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#3 defects found affecting 3 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_703.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-706
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"02:56:26"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1234.34 	3.82 	-588.67
+#S01
+	3 	1269.32 	4.27 	-605.87
+#S02
+	3 	1218.35 	3.64 	-579.07
+#S03
+	3 	1282.17 	4.07 	-610.90
+#S04
+	3 	1266.01 	3.91 	-603.45
+#S05
+	3 	1300.43 	3.86 	-619.97
+#S06
+	3 	1203.26 	3.66 	-572.62
+#S07
+	3 	1206.40 	3.66 	-573.28
+#S08
+	3 	1204.49 	3.70 	-571.90
+#E09
+	3 	1200.97 	3.95 	-571.19
+#M00
+	3 	1237.83 	3.83 	-589.89
+#S01
+	3 	1281.77 	4.33 	-611.46
+#S02
+	3 	1219.90 	3.66 	-579.22
+#S03
+	3 	1286.22 	4.10 	-612.10
+#S04
+	3 	1278.31 	3.95 	-608.94
+#S05
+	3 	1307.45 	3.89 	-622.66
+#S06
+	3 	1212.89 	3.73 	-576.97
+#S07
+	3 	1216.43 	3.69 	-577.57
+#S08
+	3 	1215.17 	3.74 	-576.58
+#E09
+	3 	1218.43 	4.02 	-579.10
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.3 	 2.71 	77.3 	1.49 	 80.2 	 1.62 	8.33 	  674 	  14
+#S01
+	136.5 	 2.63 	71.8 	1.51 	 74.0 	 1.60 	7.89 	  686 	  20
+#S02
+	151.6 	 3.11 	79.9 	1.59 	 83.2 	 1.75 	7.90 	  619 	  15
+#S03
+	145.2 	 3.10 	76.0 	1.53 	 78.5 	 1.69 	7.89 	  649 	  14
+#S04
+	147.6 	 2.50 	77.8 	1.38 	 80.6 	 1.53 	8.14 	  654 	  14
+#S05
+	153.1 	 2.47 	80.8 	1.17 	 83.8 	 1.28 	8.21 	  635 	  12
+#S06
+	148.1 	 2.67 	78.3 	1.39 	 81.5 	 1.55 	7.78 	  621 	  17
+#S07
+	149.6 	 2.52 	78.7 	1.46 	 81.9 	 1.62 	7.96 	  633 	  11
+#S08
+	148.7 	 2.51 	77.8 	1.34 	 80.9 	 1.47 	7.69 	  618 	  13
+#E09
+	139.5 	 2.75 	73.1 	1.50 	 75.6 	 1.66 	7.43 	  635 	  25
+#M00
+	146.0 	 2.50 	77.4 	1.41 	 80.2 	 1.55 	7.42 	  599 	  11
+#S01
+	136.9 	 2.93 	71.7 	1.78 	 73.8 	 1.87 	7.06 	  615 	  12
+#S02
+	151.8 	 3.26 	79.6 	1.76 	 82.9 	 1.92 	7.03 	  552 	   9
+#S03
+	145.6 	 3.22 	75.7 	1.74 	 78.2 	 1.91 	6.98 	  576 	  10
+#S04
+	148.1 	 2.62 	77.7 	1.40 	 80.4 	 1.56 	7.11 	  572 	  12
+#S05
+	153.9 	 2.71 	80.8 	1.54 	 83.7 	 1.69 	7.20 	  557 	  11
+#S06
+	147.5 	 2.52 	77.8 	1.38 	 80.8 	 1.54 	6.88 	  553 	  10
+#S07
+	150.5 	 2.64 	78.8 	1.46 	 81.9 	 1.61 	6.99 	  555 	  11
+#S08
+	149.3 	 2.55 	77.7 	1.41 	 80.8 	 1.56 	6.84 	  550 	   9
+#E09
+	140.0 	 3.06 	72.9 	1.58 	 75.4 	 1.79 	6.58 	  564 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"bad noise sigma" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  2	  0	  0	  0	  0	  1	  2	  0	  0	  0	  2	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 946
+LAST CHANNEL   : 946
+#
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#5 defects found affecting 5 strips
+#1 maximum consecutive defects
+%Comment
+COMMENT        : FAIL due to chip 9 (under) noise sigma (> 25.000000)
+#
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_706.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-716
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"03:05:01"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	491 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.7 	4.0e-01 	1.6e-02 	 923
+#S01
+	12.7 	3.9e-01 	1.7e-02 	 983
+#S02
+	12.3 	3.9e-01 	1.5e-02 	 858
+#S03
+	12.2 	3.8e-01 	1.4e-02 	 890
+#S04
+	12.1 	3.7e-01 	1.5e-02 	 832
+#S05
+	12.2 	3.6e-01 	1.8e-02 	 783
+#S06
+	12.4 	3.6e-01 	1.8e-02 	 816
+#S07
+	12.2 	3.6e-01 	1.7e-02 	 905
+#S08
+	12.2 	3.6e-01 	1.7e-02 	 877
+#E09
+	12.4 	3.6e-01 	1.6e-02 	 939
+#M00
+	12.6 	4.0e-01 	1.5e-02 	 989
+#S01
+	12.7 	3.9e-01 	1.5e-02 	1051
+#S02
+	12.3 	3.9e-01 	1.5e-02 	 982
+#S03
+	12.3 	3.8e-01 	1.6e-02 	1058
+#S04
+	12.2 	3.7e-01 	1.6e-02 	 997
+#S05
+	12.3 	3.7e-01 	1.7e-02 	 917
+#S06
+	12.4 	3.6e-01 	1.6e-02 	 948
+#S07
+	12.3 	3.6e-01 	1.7e-02 	1000
+#S08
+	12.3 	3.6e-01 	1.6e-02 	 975
+#E09
+	12.5 	3.5e-01 	1.7e-02 	1022
+#
+#	fitpar0 fitpar1
+#M00
+#	-3.9977e+00	-2.2924e+01
+#S01
+#	-4.0516e+00	-2.0231e+01
+#S02
+#	-4.6240e+00	-2.6514e+01
+#S03
+#	-4.0996e+00	-2.4643e+01
+#S04
+#	-3.4471e+00	-2.8233e+01
+#S05
+#	-3.4860e+00	-3.1882e+01
+#S06
+#	-3.6973e+00	-2.9357e+01
+#S07
+#	-5.0163e+00	-2.3827e+01
+#S08
+#	-5.0263e+00	-2.5387e+01
+#E09
+#	-4.9174e+00	-2.2148e+01
+#M00
+#	-5.1933e+00	-1.9968e+01
+#S01
+#	-5.1744e+00	-1.7680e+01
+#S02
+#	-6.6542e+00	-2.0248e+01
+#S03
+#	-7.3838e+00	-1.7457e+01
+#S04
+#	-6.7900e+00	-1.9666e+01
+#S05
+#	-5.8751e+00	-2.3204e+01
+#S06
+#	-5.8270e+00	-2.1740e+01
+#S07
+#	-7.1894e+00	-1.9520e+01
+#S08
+#	-7.0028e+00	-2.0537e+01
+#E09
+#	-6.5674e+00	-1.8687e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-720
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"03:48:06"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	490 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+24 20 19 24 24 24 23 22 19 21 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+24 20 19 24 24 24 23 22 19 21 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 11.5 (module average 16.1)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-721
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"03:50:09"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	492 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	17.32 	-25.54 	0.00
+#S01
+	4 	16.82 	-24.13 	0.00
+#S02
+	4 	18.22 	-28.27 	0.00
+#S03
+	4 	17.54 	-26.19 	0.00
+#S04
+	4 	17.74 	-26.79 	0.00
+#S05
+	4 	18.04 	-27.73 	0.00
+#S06
+	4 	17.81 	-27.00 	0.00
+#S07
+	4 	18.13 	-27.99 	0.00
+#S08
+	4 	18.25 	-28.37 	0.00
+#E09
+	4 	17.53 	-26.15 	0.00
+#M00
+	4 	17.90 	-27.28 	0.00
+#S01
+	4 	46.24 	81.32 	0.00
+#S02
+	4 	18.56 	-29.33 	0.00
+#S03
+	4 	75.73 	78.79 	0.00
+#S04
+	4 	18.27 	-28.41 	0.00
+#S05
+	4 	18.66 	-29.71 	0.00
+#S06
+	4 	18.14 	-28.01 	0.00
+#S07
+	4 	60.81 	86.21 	0.00
+#S08
+	4 	18.30 	-28.52 	0.00
+#E09
+	4 	17.54 	-26.16 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	###    Too many defects in this chip!    ###
+#S01
+	###    Too many defects in this chip!    ###
+#S02
+	###    Too many defects in this chip!    ###
+#S03
+	###    Too many defects in this chip!    ###
+#S04
+	###    Too many defects in this chip!    ###
+#S05
+	###    Too many defects in this chip!    ###
+#S06
+	###    Too many defects in this chip!    ###
+#S07
+	###    Too many defects in this chip!    ###
+#S08
+	###    Too many defects in this chip!    ###
+#E09
+	###    Too many defects in this chip!    ###
+#M00
+	###    Too many defects in this chip!    ###
+#S01
+	###    Too many defects in this chip!    ###
+#S02
+	###    Too many defects in this chip!    ###
+#S03
+	###    Too many defects in this chip!    ###
+#S04
+	###    Too many defects in this chip!    ###
+#S05
+	###    Too many defects in this chip!    ###
+#S06
+	###    Too many defects in this chip!    ###
+#S07
+	###    Too many defects in this chip!    ###
+#S08
+	###    Too many defects in this chip!    ###
+#E09
+	###    Too many defects in this chip!    ###
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"very low gain" 	"OK" 	"very low gain" 	"OK" 	"very low gain" 	"very low gain" 	"very low gain" 	"OK" 	"very low gain" 	"very low gain" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	127	  0	  0	127	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
+#Chip S07:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	127	  0	  0	127	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	127	  0	  0	127	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	127	  0	  0	127	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	127	  0	  0	127	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
+#Link 0:	  0	1279	  0	  0	1279	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
+#Link 1:	  0	1276	  0	  0	1276	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
+#Link 2:	  0	2555	  0	  0	2555	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  2
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : -1
+LAST CHANNEL   : 126
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 255
+LAST CHANNEL   : 382
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 511
+LAST CHANNEL   : 638
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 639
+LAST CHANNEL   : 766
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 767
+LAST CHANNEL   : 894
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 1023
+LAST CHANNEL   : 1150
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 1151
+LAST CHANNEL   : 1278
+#
+#17 defects found affecting 2555 strips
+#793 maximum consecutive defects
+%Comment
+COMMENT        : FAIL due to chip 0 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 1 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 2 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 3 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 4 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 5 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 6 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 7 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 8 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 9 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 0 (away) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 2 (away) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 4 (away) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 5 (away) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 6 (away) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 8 (away) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 9 (away) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to 2555 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 793 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : Channel 793 of bank under masked: VERY HIGH NOISE
+#
+%Comment
+COMMENT        : Channel 1192 of bank away masked: VERY HIGH NOISE
+#
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_721.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-724
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"03:57:10"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10996.00 	495 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	838.58 	7.27 	-431.62
+#S01
+	3 	838.05 	7.26 	-431.94
+#S02
+	3 	839.39 	7.28 	-431.15
+#S03
+	3 	838.74 	7.27 	-431.53
+#S04
+	3 	838.92 	7.27 	-431.42
+#S05
+	3 	839.40 	7.28 	-431.14
+#S06
+	3 	839.14 	7.28 	-431.30
+#S07
+	3 	839.32 	7.28 	-431.19
+#S08
+	3 	839.43 	7.28 	-431.12
+#E09
+	3 	838.64 	7.27 	-431.59
+#M00
+	3 	1175.75 	3.57 	-547.24
+#S01
+	3 	1136.92 	3.71 	-519.00
+#S02
+	3 	1185.82 	3.60 	-565.23
+#S03
+	3 	1252.97 	3.91 	-586.64
+#S04
+	3 	1366.86 	4.21 	-657.95
+#S05
+	3 	1328.09 	3.92 	-637.48
+#S06
+	3 	1273.78 	3.96 	-619.06
+#S07
+	3 	1245.04 	3.81 	-597.62
+#S08
+	3 	1274.93 	3.95 	-617.73
+#E09
+	3 	1345.76 	4.53 	-651.52
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	###    Too many defects in this chip!    ###
+#S01
+	###    Too many defects in this chip!    ###
+#S02
+	###    Too many defects in this chip!    ###
+#S03
+	###    Too many defects in this chip!    ###
+#S04
+	###    Too many defects in this chip!    ###
+#S05
+	###    Too many defects in this chip!    ###
+#S06
+	###    Too many defects in this chip!    ###
+#S07
+	###    Too many defects in this chip!    ###
+#S08
+	###    Too many defects in this chip!    ###
+#E09
+	###    Too many defects in this chip!    ###
+#M00
+	###    Too many defects in this chip!    ###
+#S01
+	###    Too many defects in this chip!    ###
+#S02
+	###    Too many defects in this chip!    ###
+#S03
+	###    Too many defects in this chip!    ###
+#S04
+	###    Too many defects in this chip!    ###
+#S05
+	###    Too many defects in this chip!    ###
+#S06
+	###    Too many defects in this chip!    ###
+#S07
+	###    Too many defects in this chip!    ###
+#S08
+	###    Too many defects in this chip!    ###
+#E09
+	###    Too many defects in this chip!    ###
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	"very low gain" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"bad noise sigma" 	"bad gain sigma" 	"OK" 	"OK" 	"bad noise sigma" 	"OK" 	"OK" 	"bad noise sigma" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	127	  0	  0	127	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
+#Chip S02:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	125	  0	  0	125	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  3
+#Chip S04:	  0	128	  0	  0	128	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	126	  0	  0	126	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  2
+#Chip S06:	  0	122	  0	  0	122	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  6
+#Chip S07:	  0	121	  0	  0	121	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  7
+#Chip S08:	  0	125	  0	  0	125	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  3
+#Chip E09:	  0	108	  0	  0	108	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	 20
+#Chip M00:	  0	124	  0	  0	124	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  2
+#Chip S01:	  0	124	  0	  0	124	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	126	  0	  0	126	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	124	  0	  0	124	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	123	  0	  0	123	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	110	  0	  0	110	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	 92	  0	  0	 92	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1
+#Chip S07:	  0	 94	  0	  0	 89	  0	  0	  0	  0	  0	  0	  5	  0	  0	  0	  0
+#Chip S08:	  0	100	  0	  0	 94	  0	  0	  0	  0	  0	  0	  6	  0	  0	  0	  0
+#Chip E09:	  0	 97	  0	  0	 93	  0	  0	  0	  0	  0	  0	  4	  0	  0	  0	  8
+#Link 0:	  0	1238	  0	  0	1238	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	 42
+#Link 1:	  0	1114	  0	  0	1099	  0	  0	  0	  0	  0	  0	 15	  0	  0	  0	 11
+#Link 2:	  0	2352	  0	  0	2337	  0	  0	  0	  0	  0	  0	 15	  0	  0	  0	 53
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 254
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 421
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 423
+LAST CHANNEL   : 451
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 453
+LAST CHANNEL   : 503
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 505
+LAST CHANNEL   : 700
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 702
+LAST CHANNEL   : 705
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 707
+LAST CHANNEL   : 773
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 775
+LAST CHANNEL   : 778
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 780
+LAST CHANNEL   : 792
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 794
+LAST CHANNEL   : 863
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 865
+LAST CHANNEL   : 866
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 868
+LAST CHANNEL   : 873
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 875
+LAST CHANNEL   : 931
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 933
+LAST CHANNEL   : 961
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 963
+LAST CHANNEL   : 982
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 984
+LAST CHANNEL   : 988
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 990
+LAST CHANNEL   : 997
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 999
+LAST CHANNEL   : 1009
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1011
+LAST CHANNEL   : 1022
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1025
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1027
+LAST CHANNEL   : 1102
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1104
+LAST CHANNEL   : 1147
+#
+%Defect
+DEFECT NAME    : VLO_GAIN
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1149
+LAST CHANNEL   : 1152
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1154
+LAST CHANNEL   : 1156
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1159
+LAST CHANNEL   : 1159
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1161
+LAST CHANNEL   : 1161
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1163
+LAST CHANNEL   : 1166
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1168
+LAST CHANNEL   : 1169
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1171
+LAST CHANNEL   : 1176
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1178
+LAST CHANNEL   : 1178
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1180
+LAST CHANNEL   : 1186
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1188
+LAST CHANNEL   : 1195
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1197
+LAST CHANNEL   : 1206
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1208
+LAST CHANNEL   : 1220
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1222
+LAST CHANNEL   : 1223
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1225
+LAST CHANNEL   : 1239
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1241
+LAST CHANNEL   : 1241
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1243
+LAST CHANNEL   : 1252
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1255
+LAST CHANNEL   : 1256
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1258
+LAST CHANNEL   : 1268
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1270
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1280
+LAST CHANNEL   : 1311
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1313
+LAST CHANNEL   : 1314
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1316
+LAST CHANNEL   : 1370
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1372
+LAST CHANNEL   : 1386
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1388
+LAST CHANNEL   : 1439
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1441
+LAST CHANNEL   : 1467
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1469
+LAST CHANNEL   : 1478
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1480
+LAST CHANNEL   : 1514
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1516
+LAST CHANNEL   : 1610
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1612
+LAST CHANNEL   : 1641
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1643
+LAST CHANNEL   : 1666
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1668
+LAST CHANNEL   : 1695
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1697
+LAST CHANNEL   : 1748
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1750
+LAST CHANNEL   : 1771
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1773
+LAST CHANNEL   : 1818
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1820
+LAST CHANNEL   : 1856
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1858
+LAST CHANNEL   : 1883
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1885
+LAST CHANNEL   : 1892
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1894
+LAST CHANNEL   : 1900
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1902
+LAST CHANNEL   : 1931
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1933
+LAST CHANNEL   : 1948
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1950
+LAST CHANNEL   : 1959
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1961
+LAST CHANNEL   : 1966
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1968
+LAST CHANNEL   : 1973
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1975
+LAST CHANNEL   : 1977
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1979
+LAST CHANNEL   : 1980
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1982
+LAST CHANNEL   : 1990
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1992
+LAST CHANNEL   : 1994
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 1996
+LAST CHANNEL   : 1998
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2000
+LAST CHANNEL   : 2001
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2004
+LAST CHANNEL   : 2005
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2007
+LAST CHANNEL   : 2024
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2026
+LAST CHANNEL   : 2033
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2035
+LAST CHANNEL   : 2036
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2038
+LAST CHANNEL   : 2040
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2042
+LAST CHANNEL   : 2045
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2047
+LAST CHANNEL   : 2047
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2049
+LAST CHANNEL   : 2052
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2054
+LAST CHANNEL   : 2059
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2061
+LAST CHANNEL   : 2062
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2064
+LAST CHANNEL   : 2067
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2069
+LAST CHANNEL   : 2073
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2075
+LAST CHANNEL   : 2082
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2084
+LAST CHANNEL   : 2084
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2086
+LAST CHANNEL   : 2088
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2090
+LAST CHANNEL   : 2093
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2095
+LAST CHANNEL   : 2096
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2098
+LAST CHANNEL   : 2103
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2106
+LAST CHANNEL   : 2112
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2115
+LAST CHANNEL   : 2116
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2118
+LAST CHANNEL   : 2120
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2122
+LAST CHANNEL   : 2122
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2124
+LAST CHANNEL   : 2126
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2128
+LAST CHANNEL   : 2132
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2134
+LAST CHANNEL   : 2137
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2140
+LAST CHANNEL   : 2140
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2142
+LAST CHANNEL   : 2143
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2145
+LAST CHANNEL   : 2147
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2149
+LAST CHANNEL   : 2149
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2151
+LAST CHANNEL   : 2152
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2158
+LAST CHANNEL   : 2161
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2163
+LAST CHANNEL   : 2165
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2167
+LAST CHANNEL   : 2167
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2170
+LAST CHANNEL   : 2174
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2177
+LAST CHANNEL   : 2183
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2185
+LAST CHANNEL   : 2189
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2193
+LAST CHANNEL   : 2196
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2198
+LAST CHANNEL   : 2198
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2202
+LAST CHANNEL   : 2202
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2204
+LAST CHANNEL   : 2205
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2208
+LAST CHANNEL   : 2210
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2213
+LAST CHANNEL   : 2214
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2216
+LAST CHANNEL   : 2217
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2219
+LAST CHANNEL   : 2219
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2220
+LAST CHANNEL   : 2220
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2221
+LAST CHANNEL   : 2225
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2227
+LAST CHANNEL   : 2231
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2233
+LAST CHANNEL   : 2233
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2236
+LAST CHANNEL   : 2251
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2253
+LAST CHANNEL   : 2253
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2255
+LAST CHANNEL   : 2255
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2257
+LAST CHANNEL   : 2257
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2258
+LAST CHANNEL   : 2258
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2259
+LAST CHANNEL   : 2259
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2260
+LAST CHANNEL   : 2260
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2261
+LAST CHANNEL   : 2263
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2267
+LAST CHANNEL   : 2270
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2271
+LAST CHANNEL   : 2271
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2272
+LAST CHANNEL   : 2275
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2277
+LAST CHANNEL   : 2279
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2281
+LAST CHANNEL   : 2281
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2283
+LAST CHANNEL   : 2286
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2291
+LAST CHANNEL   : 2291
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2293
+LAST CHANNEL   : 2301
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2302
+LAST CHANNEL   : 2302
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2303
+LAST CHANNEL   : 2304
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2306
+LAST CHANNEL   : 2308
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2310
+LAST CHANNEL   : 2310
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2312
+LAST CHANNEL   : 2312
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2314
+LAST CHANNEL   : 2314
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2317
+LAST CHANNEL   : 2322
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2323
+LAST CHANNEL   : 2323
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2324
+LAST CHANNEL   : 2324
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2326
+LAST CHANNEL   : 2330
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2332
+LAST CHANNEL   : 2332
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2334
+LAST CHANNEL   : 2335
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2336
+LAST CHANNEL   : 2336
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2337
+LAST CHANNEL   : 2337
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2339
+LAST CHANNEL   : 2339
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2341
+LAST CHANNEL   : 2346
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2347
+LAST CHANNEL   : 2347
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2348
+LAST CHANNEL   : 2348
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2349
+LAST CHANNEL   : 2349
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2350
+LAST CHANNEL   : 2350
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2352
+LAST CHANNEL   : 2362
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2364
+LAST CHANNEL   : 2366
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2369
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2370
+LAST CHANNEL   : 2370
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2371
+LAST CHANNEL   : 2371
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2373
+LAST CHANNEL   : 2377
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2379
+LAST CHANNEL   : 2380
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2382
+LAST CHANNEL   : 2382
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2384
+LAST CHANNEL   : 2386
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2389
+LAST CHANNEL   : 2395
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2398
+LAST CHANNEL   : 2398
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2400
+LAST CHANNEL   : 2402
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2404
+LAST CHANNEL   : 2406
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2408
+LAST CHANNEL   : 2410
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2414
+LAST CHANNEL   : 2416
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2417
+LAST CHANNEL   : 2417
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2418
+LAST CHANNEL   : 2446
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2448
+LAST CHANNEL   : 2449
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2451
+LAST CHANNEL   : 2471
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2473
+LAST CHANNEL   : 2477
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2479
+LAST CHANNEL   : 2484
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2486
+LAST CHANNEL   : 2492
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2494
+LAST CHANNEL   : 2496
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2498
+LAST CHANNEL   : 2502
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2504
+LAST CHANNEL   : 2504
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2506
+LAST CHANNEL   : 2506
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2510
+LAST CHANNEL   : 2510
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2516
+LAST CHANNEL   : 2517
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2518
+LAST CHANNEL   : 2518
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2519
+LAST CHANNEL   : 2519
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2521
+LAST CHANNEL   : 2521
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2523
+LAST CHANNEL   : 2526
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2528
+LAST CHANNEL   : 2530
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2533
+LAST CHANNEL   : 2533
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2535
+LAST CHANNEL   : 2535
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2538
+LAST CHANNEL   : 2538
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2540
+LAST CHANNEL   : 2540
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2541
+LAST CHANNEL   : 2541
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2542
+LAST CHANNEL   : 2544
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2548
+LAST CHANNEL   : 2548
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2550
+LAST CHANNEL   : 2550
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2552
+LAST CHANNEL   : 2555
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2556
+LAST CHANNEL   : 2556
+#
+%Defect
+DEFECT NAME    : INEFFICIENT
+FIRST CHANNEL  : 2557
+LAST CHANNEL   : 2559
+#
+#209 defects found affecting 2352 strips
+#255 maximum consecutive defects
+%Comment
+COMMENT        : Chip 0 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 1 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 2 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 3 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 4 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 5 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 6 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 7 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 8 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : Chip 9 (under) fit range adjusted (0.0fC - 1.3fC) from 6.0fC
+#
+%Comment
+COMMENT        : FAIL due to chip 0 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 1 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 2 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 3 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 4 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 5 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 6 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 7 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 8 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 9 (under) very low gain (< 55.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 2 (away) noise sigma (> 25.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 3 (away) gain sigma (> 2.800000)
+#
+%Comment
+COMMENT        : FAIL due to chip 6 (away) noise sigma (> 25.000000)
+#
+%Comment
+COMMENT        : FAIL due to chip 9 (away) noise sigma (> 25.000000)
+#
+%Comment
+COMMENT        : FAIL due to 2352 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 255 consecutive bad strips (more than 8)
+#
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_724.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-734
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"03:57:17"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+0.0 	0.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10996.00 	489 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	35.1 	4.4e-01 	1.4e-02 	18149
+#S01
+	35.1 	4.3e-01 	2.3e-02 	16246
+#S02
+	35.1 	4.4e-01 	1.4e-02 	19886
+#S03
+	35.1 	4.4e-01 	2.0e-02 	12712
+#S04
+	35.1 	4.4e-01 	1.8e-02 	13512
+#S05
+	35.1 	4.4e-01 	2.1e-02 	14366
+#S06
+	35.0 	4.4e-01 	2.5e-02 	15450
+#S07
+	35.1 	4.5e-01 	1.9e-02 	19981
+#S08
+	35.1 	4.5e-01 	1.9e-02 	25074
+#E09
+	35.0 	4.5e-01 	1.8e-02 	23793
+#M00
+	35.1 	4.5e-01 	2.2e-02 	1788
+#S01
+	35.0 	4.5e-01 	1.9e-02 	1693
+#S02
+	35.1 	4.5e-01 	1.7e-02 	7131
+#S03
+	35.1 	4.5e-01 	1.8e-02 	1968
+#S04
+	35.0 	4.5e-01 	1.6e-02 	7558
+#S05
+	35.0 	4.5e-01 	1.9e-02 	4615
+#S06
+	35.0 	4.5e-01 	1.9e-02 	8678
+#S07
+	35.1 	4.5e-01 	2.2e-02 	3638
+#S08
+	35.1 	4.5e-01 	1.8e-02 	7705
+#E09
+	35.0 	4.5e-01 	2.1e-02 	4205
+#
+#	fitpar0 fitpar1
+#M00
+#	-6.1159e-01	-5.9297e-02
+#S01
+#	-5.6072e-01	-7.3998e-02
+#S02
+#	-6.4631e-01	-4.9388e-02
+#S03
+#	-3.9760e-01	-1.2086e-01
+#S04
+#	-4.5565e-01	-1.0698e-01
+#S05
+#	-4.9618e-01	-9.4636e-02
+#S06
+#	-5.1244e-01	-8.1819e-02
+#S07
+#	-6.1104e-01	-4.8922e-02
+#S08
+#	-6.9082e-01	-3.1065e-02
+#E09
+#	-6.7403e-01	-3.4501e-02
+#M00
+#	5.4548e-01	-6.1119e+00
+#S01
+#	4.6993e-01	-6.8104e+00
+#S02
+#	-7.6680e-01	-3.8404e-01
+#S03
+#	3.0781e-01	-5.0450e+00
+#S04
+#	-7.7548e-01	-3.4189e-01
+#S05
+#	-6.1662e-01	-9.1685e-01
+#S06
+#	-7.8435e-01	-2.5936e-01
+#S07
+#	-4.1887e-01	-1.4759e+00
+#S08
+#	-7.6319e-01	-3.2900e-01
+#E09
+#	-4.6577e-01	-1.1047e+00
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-738
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"04:48:42"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10996.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 13.9 (module average 19.4)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.0 (module average 19.4)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-739
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"04:49:57"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	493 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.67 	75.86 	0.00
+#S01
+	4 	31.68 	69.90 	0.00
+#S02
+	4 	32.61 	79.55 	0.00
+#S03
+	4 	32.36 	75.21 	0.00
+#S04
+	4 	32.19 	76.93 	0.00
+#S05
+	4 	32.42 	80.52 	0.00
+#S06
+	4 	32.09 	77.42 	0.00
+#S07
+	4 	32.67 	78.15 	0.00
+#S08
+	4 	33.08 	77.26 	0.00
+#E09
+	4 	32.94 	71.48 	0.00
+#M00
+	4 	32.31 	75.83 	0.00
+#S01
+	4 	32.27 	69.72 	0.00
+#S02
+	4 	33.11 	79.21 	0.00
+#S03
+	4 	33.18 	74.98 	0.00
+#S04
+	4 	33.00 	76.89 	0.00
+#S05
+	4 	33.38 	80.48 	0.00
+#S06
+	4 	32.58 	76.76 	0.00
+#S07
+	4 	33.26 	78.29 	0.00
+#S08
+	4 	33.77 	77.24 	0.00
+#E09
+	4 	33.37 	71.27 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	107.0 	 1.96 	75.9 	1.70 	 75.9 	 1.70 	8.22 	  677 	  14
+#S01
+	100.9 	 1.91 	69.9 	1.67 	 69.9 	 1.67 	7.65 	  684 	  18
+#S02
+	111.9 	 2.38 	79.6 	1.93 	 79.6 	 1.93 	7.90 	  621 	  14
+#S03
+	107.1 	 2.26 	75.2 	1.86 	 75.2 	 1.86 	7.81 	  649 	  14
+#S04
+	108.6 	 1.98 	76.9 	1.62 	 76.9 	 1.62 	8.11 	  659 	  13
+#S05
+	112.5 	 1.90 	80.5 	1.38 	 80.5 	 1.38 	8.20 	  637 	  11
+#S06
+	109.0 	 2.04 	77.4 	1.62 	 77.4 	 1.62 	7.71 	  623 	  19
+#S07
+	110.5 	 1.99 	78.2 	1.72 	 78.2 	 1.72 	7.94 	  635 	  10
+#S08
+	110.0 	 1.89 	77.3 	1.53 	 77.3 	 1.53 	7.64 	  618 	  11
+#E09
+	104.0 	 2.06 	71.5 	1.68 	 71.5 	 1.68 	7.27 	  636 	  23
+#M00
+	107.7 	 1.91 	75.8 	1.59 	 75.8 	 1.59 	7.32 	  603 	  12
+#S01
+	101.3 	 1.99 	69.7 	1.98 	 69.7 	 1.98 	6.86 	  615 	  12
+#S02
+	112.1 	 2.41 	79.2 	2.05 	 79.2 	 2.05 	7.03 	  555 	  10
+#S03
+	107.7 	 2.27 	75.0 	2.02 	 75.0 	 2.02 	6.92 	  576 	  10
+#S04
+	109.4 	 2.00 	76.9 	1.66 	 76.9 	 1.66 	7.04 	  572 	  11
+#S05
+	113.4 	 2.14 	80.5 	1.79 	 80.5 	 1.79 	7.20 	  559 	  11
+#S06
+	108.8 	 1.92 	76.8 	1.56 	 76.8 	 1.56 	6.84 	  557 	   9
+#S07
+	111.3 	 2.18 	78.3 	1.67 	 78.3 	 1.67 	7.01 	  560 	  10
+#S08
+	110.7 	 1.91 	77.2 	1.62 	 77.2 	 1.62 	6.83 	  552 	  10
+#E09
+	104.2 	 2.29 	71.3 	1.84 	 71.3 	 1.84 	6.45 	  566 	   9
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#4 defects found affecting 4 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_739.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-742
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"04:54:49"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1234.21 	3.82 	-588.54
+#S01
+	3 	1267.62 	4.26 	-605.03
+#S02
+	3 	1218.62 	3.64 	-579.25
+#S03
+	3 	1285.14 	4.08 	-612.39
+#S04
+	3 	1266.84 	3.91 	-603.80
+#S05
+	3 	1300.95 	3.86 	-620.28
+#S06
+	3 	1202.69 	3.66 	-572.25
+#S07
+	3 	1205.94 	3.66 	-572.84
+#S08
+	3 	1205.70 	3.71 	-572.34
+#E09
+	3 	1199.82 	3.95 	-569.87
+#M00
+	3 	1239.30 	3.84 	-590.65
+#S01
+	3 	1282.35 	4.33 	-611.74
+#S02
+	3 	1220.86 	3.66 	-579.91
+#S03
+	3 	1289.22 	4.11 	-613.64
+#S04
+	3 	1279.34 	3.96 	-609.18
+#S05
+	3 	1308.74 	3.89 	-623.20
+#S06
+	3 	1211.82 	3.72 	-576.34
+#S07
+	3 	1217.19 	3.70 	-577.85
+#S08
+	3 	1217.06 	3.75 	-577.30
+#E09
+	3 	1217.84 	4.03 	-578.39
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.4 	 2.66 	77.3 	1.49 	 80.2 	 1.62 	8.33 	  674 	  14
+#S01
+	136.6 	 2.64 	71.9 	1.52 	 74.0 	 1.61 	7.85 	  683 	  20
+#S02
+	151.8 	 3.14 	79.9 	1.59 	 83.2 	 1.74 	7.91 	  619 	  13
+#S03
+	145.1 	 3.03 	75.9 	1.53 	 78.4 	 1.69 	7.86 	  647 	  14
+#S04
+	147.6 	 2.64 	77.7 	1.38 	 80.5 	 1.53 	8.17 	  657 	  15
+#S05
+	153.1 	 2.40 	80.8 	1.17 	 83.8 	 1.28 	8.21 	  635 	  11
+#S06
+	148.1 	 2.69 	78.3 	1.37 	 81.5 	 1.53 	7.75 	  618 	  19
+#S07
+	149.8 	 2.68 	78.6 	1.48 	 81.8 	 1.64 	7.96 	  633 	  11
+#S08
+	148.8 	 2.49 	77.7 	1.37 	 80.8 	 1.51 	7.65 	  615 	  12
+#E09
+	140.1 	 2.76 	72.9 	1.47 	 75.4 	 1.63 	7.36 	  631 	  23
+#M00
+	145.9 	 2.55 	77.3 	1.41 	 80.2 	 1.56 	7.42 	  600 	  10
+#S01
+	136.9 	 2.90 	71.7 	1.78 	 73.8 	 1.87 	7.06 	  616 	  11
+#S02
+	151.7 	 3.26 	79.6 	1.75 	 82.9 	 1.91 	7.04 	  553 	  10
+#S03
+	145.5 	 3.11 	75.7 	1.72 	 78.2 	 1.88 	6.99 	  577 	  11
+#S04
+	148.3 	 2.66 	77.7 	1.40 	 80.4 	 1.55 	7.11 	  572 	  12
+#S05
+	154.0 	 2.89 	80.7 	1.52 	 83.7 	 1.67 	7.22 	  559 	  10
+#S06
+	147.6 	 2.54 	77.8 	1.37 	 80.8 	 1.52 	6.86 	  551 	  10
+#S07
+	150.5 	 2.88 	78.7 	1.45 	 81.9 	 1.59 	7.00 	  556 	  11
+#S08
+	149.5 	 2.57 	77.7 	1.39 	 80.7 	 1.54 	6.81 	  548 	  10
+#E09
+	140.2 	 3.20 	72.7 	1.66 	 75.2 	 1.87 	6.52 	  560 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  1	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  1	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#3 defects found affecting 3 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_742.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-752
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"05:03:28"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10996.00 	491 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	13.0 	3.9e-01 	1.7e-02 	 844
+#S01
+	12.9 	3.8e-01 	1.9e-02 	 805
+#S02
+	12.5 	3.8e-01 	1.7e-02 	 685
+#S03
+	12.4 	3.7e-01 	1.7e-02 	 826
+#S04
+	12.3 	3.7e-01 	1.8e-02 	 726
+#S05
+	12.3 	3.6e-01 	2.4e-02 	 620
+#S06
+	12.6 	3.6e-01 	1.9e-02 	 715
+#S07
+	12.4 	3.6e-01 	2.0e-02 	 755
+#S08
+	12.4 	3.6e-01 	2.0e-02 	 795
+#E09
+	12.7 	3.7e-01 	2.0e-02 	 921
+#M00
+	12.8 	3.9e-01 	1.9e-02 	 853
+#S01
+	12.9 	3.8e-01 	1.6e-02 	 842
+#S02
+	12.5 	3.8e-01 	1.8e-02 	 943
+#S03
+	12.5 	3.7e-01 	1.8e-02 	 991
+#S04
+	12.5 	3.7e-01 	1.8e-02 	1033
+#S05
+	12.4 	3.6e-01 	2.0e-02 	 866
+#S06
+	12.6 	3.6e-01 	1.9e-02 	 952
+#S07
+	12.5 	3.6e-01 	1.9e-02 	 753
+#S08
+	12.5 	3.6e-01 	1.9e-02 	 906
+#E09
+	12.7 	3.6e-01 	2.1e-02 	1065
+#
+#	fitpar0 fitpar1
+#M00
+#	-3.3217e+00	-2.7413e+01
+#S01
+#	-2.6380e+00	-3.0116e+01
+#S02
+#	-2.3863e+00	-4.1684e+01
+#S03
+#	-3.5771e+00	-2.8635e+01
+#S04
+#	-2.1946e+00	-3.7090e+01
+#S05
+#	-8.2168e-01	-5.0828e+01
+#S06
+#	-2.5836e+00	-3.8172e+01
+#S07
+#	-3.4057e+00	-3.4271e+01
+#S08
+#	-4.1732e+00	-3.0877e+01
+#E09
+#	-4.7477e+00	-2.3010e+01
+#M00
+#	-4.4206e+00	-2.6820e+01
+#S01
+#	-3.9262e+00	-2.7577e+01
+#S02
+#	-6.5581e+00	-2.1954e+01
+#S03
+#	-6.7634e+00	-1.9903e+01
+#S04
+#	-6.8699e+00	-1.8303e+01
+#S05
+#	-5.5748e+00	-2.6028e+01
+#S06
+#	-5.7069e+00	-2.1552e+01
+#S07
+#	-4.8412e+00	-3.4484e+01
+#S08
+#	-6.6493e+00	-2.3810e+01
+#E09
+#	-6.9321e+00	-1.7206e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-756
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"05:56:02"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 21 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 13.9 (module average 19.4)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.1 (module average 19.4)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-757
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"05:57:16"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10996.00 	492 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.73 	75.81 	0.00
+#S01
+	4 	31.43 	69.94 	0.00
+#S02
+	4 	32.39 	79.66 	0.00
+#S03
+	4 	32.56 	75.20 	0.00
+#S04
+	4 	32.21 	76.96 	0.00
+#S05
+	4 	32.39 	80.52 	0.00
+#S06
+	4 	31.84 	77.38 	0.00
+#S07
+	4 	32.60 	78.18 	0.00
+#S08
+	4 	33.05 	77.26 	0.00
+#E09
+	4 	32.30 	71.53 	0.00
+#M00
+	4 	32.12 	75.80 	0.00
+#S01
+	4 	32.16 	69.76 	0.00
+#S02
+	4 	33.09 	79.34 	0.00
+#S03
+	4 	33.16 	74.99 	0.00
+#S04
+	4 	32.77 	76.98 	0.00
+#S05
+	4 	33.32 	80.53 	0.00
+#S06
+	4 	32.59 	76.75 	0.00
+#S07
+	4 	33.33 	78.26 	0.00
+#S08
+	4 	33.77 	77.24 	0.00
+#E09
+	4 	33.03 	71.47 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	107.0 	 1.87 	75.8 	1.64 	 75.8 	 1.64 	8.22 	  678 	  13
+#S01
+	100.7 	 1.88 	69.9 	1.65 	 69.9 	 1.65 	7.63 	  682 	  19
+#S02
+	111.8 	 2.40 	79.7 	1.92 	 79.7 	 1.92 	7.90 	  620 	  14
+#S03
+	107.3 	 2.14 	75.2 	1.84 	 75.2 	 1.84 	7.82 	  650 	  15
+#S04
+	108.7 	 1.89 	77.0 	1.62 	 77.0 	 1.62 	8.09 	  657 	  13
+#S05
+	112.4 	 1.78 	80.5 	1.40 	 80.5 	 1.40 	8.19 	  636 	  11
+#S06
+	108.7 	 2.05 	77.4 	1.61 	 77.4 	 1.61 	7.70 	  622 	  17
+#S07
+	110.4 	 1.95 	78.2 	1.73 	 78.2 	 1.73 	7.95 	  636 	  10
+#S08
+	110.0 	 1.74 	77.3 	1.59 	 77.3 	 1.59 	7.66 	  620 	  12
+#E09
+	103.3 	 2.17 	71.5 	1.74 	 71.5 	 1.74 	7.36 	  644 	  24
+#M00
+	107.5 	 1.87 	75.8 	1.65 	 75.8 	 1.65 	7.33 	  605 	  10
+#S01
+	101.3 	 1.98 	69.8 	1.99 	 69.8 	 1.99 	6.87 	  616 	  12
+#S02
+	112.3 	 2.41 	79.3 	2.01 	 79.3 	 2.01 	7.04 	  555 	   9
+#S03
+	107.7 	 2.34 	75.0 	2.02 	 75.0 	 2.02 	6.96 	  580 	  10
+#S04
+	109.3 	 2.00 	77.0 	1.66 	 77.0 	 1.66 	7.06 	  573 	  12
+#S05
+	113.5 	 1.98 	80.5 	1.74 	 80.5 	 1.74 	7.24 	  562 	  10
+#S06
+	108.8 	 1.88 	76.8 	1.56 	 76.8 	 1.56 	6.84 	  557 	  10
+#S07
+	111.3 	 2.19 	78.3 	1.67 	 78.3 	 1.67 	7.02 	  561 	  10
+#S08
+	110.7 	 1.87 	77.2 	1.59 	 77.2 	 1.59 	6.83 	  553 	   9
+#E09
+	104.0 	 2.43 	71.5 	2.12 	 71.5 	 2.12 	6.52 	  571 	  12
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  2	  0	  0	  0	  0	  1	  0	  0	  0	  0	  2	  0	  0	  0	  0
+#Link 2:	  0	  2	  0	  0	  0	  0	  1	  0	  0	  0	  0	  2	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 1606
+LAST CHANNEL   : 1606
+#
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+#3 defects found affecting 3 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_757.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-760
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"06:02:08"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1235.82 	3.83 	-589.39
+#S01
+	3 	1264.97 	4.25 	-603.91
+#S02
+	3 	1216.95 	3.63 	-578.58
+#S03
+	3 	1282.95 	4.07 	-611.16
+#S04
+	3 	1265.75 	3.91 	-603.29
+#S05
+	3 	1299.99 	3.86 	-619.88
+#S06
+	3 	1202.53 	3.66 	-572.56
+#S07
+	3 	1205.12 	3.66 	-572.54
+#S08
+	3 	1204.18 	3.70 	-571.71
+#E09
+	3 	1198.91 	3.94 	-570.17
+#M00
+	3 	1240.79 	3.84 	-591.63
+#S01
+	3 	1278.37 	4.31 	-609.86
+#S02
+	3 	1218.64 	3.66 	-578.78
+#S03
+	3 	1287.94 	4.10 	-613.05
+#S04
+	3 	1278.61 	3.96 	-609.03
+#S05
+	3 	1307.30 	3.89 	-622.59
+#S06
+	3 	1210.94 	3.72 	-576.02
+#S07
+	3 	1215.69 	3.69 	-577.16
+#S08
+	3 	1215.11 	3.74 	-576.43
+#E09
+	3 	1217.15 	4.01 	-578.49
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.4 	 2.55 	77.3 	1.48 	 80.2 	 1.61 	8.35 	  675 	  14
+#S01
+	136.4 	 2.60 	71.9 	1.51 	 74.0 	 1.60 	7.86 	  684 	  19
+#S02
+	151.6 	 3.20 	80.0 	1.60 	 83.3 	 1.75 	7.91 	  618 	  13
+#S03
+	145.2 	 2.93 	75.9 	1.53 	 78.5 	 1.69 	7.87 	  648 	  13
+#S04
+	147.5 	 2.53 	77.8 	1.38 	 80.6 	 1.53 	8.15 	  655 	  14
+#S05
+	153.1 	 2.29 	80.8 	1.17 	 83.8 	 1.28 	8.21 	  635 	  11
+#S06
+	147.8 	 2.68 	78.4 	1.38 	 81.6 	 1.54 	7.77 	  620 	  18
+#S07
+	149.8 	 2.65 	78.7 	1.48 	 81.9 	 1.65 	7.97 	  633 	  11
+#S08
+	148.8 	 2.35 	77.8 	1.35 	 80.9 	 1.49 	7.64 	  614 	  13
+#E09
+	139.6 	 2.92 	73.1 	1.49 	 75.7 	 1.65 	7.41 	  633 	  25
+#M00
+	145.8 	 2.51 	77.4 	1.40 	 80.2 	 1.55 	7.41 	  599 	  11
+#S01
+	136.8 	 2.86 	71.7 	1.77 	 73.8 	 1.86 	7.05 	  615 	  11
+#S02
+	151.8 	 3.32 	79.7 	1.75 	 83.0 	 1.91 	7.06 	  554 	  10
+#S03
+	145.5 	 3.19 	75.7 	1.73 	 78.2 	 1.89 	6.98 	  576 	  11
+#S04
+	148.1 	 2.66 	77.7 	1.41 	 80.4 	 1.57 	7.11 	  572 	  11
+#S05
+	154.0 	 2.69 	80.8 	1.53 	 83.7 	 1.68 	7.21 	  558 	   8
+#S06
+	147.6 	 2.49 	77.8 	1.37 	 80.9 	 1.53 	6.88 	  552 	  10
+#S07
+	150.5 	 2.87 	78.8 	1.46 	 82.0 	 1.61 	7.00 	  556 	  10
+#S08
+	149.5 	 2.53 	77.7 	1.40 	 80.8 	 1.54 	6.86 	  551 	  10
+#E09
+	140.0 	 3.08 	73.0 	1.59 	 75.4 	 1.79 	6.57 	  563 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  1	  0	  0	  0	  0	  0	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  2	  0	  0	  0	  0	  1	  2	  0	  0	  0	  2	  0	  0	  0	  0
+#Link 2:	  0	  2	  0	  0	  0	  0	  1	  2	  0	  0	  0	  2	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2434
+LAST CHANNEL   : 2434
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#5 defects found affecting 5 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_760.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-770
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"06:10:50"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	491 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.9 	3.9e-01 	1.5e-02 	 727
+#S01
+	12.8 	3.8e-01 	1.8e-02 	 852
+#S02
+	12.4 	3.7e-01 	1.8e-02 	 620
+#S03
+	12.4 	3.8e-01 	1.6e-02 	 732
+#S04
+	12.3 	3.7e-01 	1.4e-02 	 813
+#S05
+	12.3 	3.5e-01 	2.3e-02 	 616
+#S06
+	12.4 	3.5e-01 	2.0e-02 	 761
+#S07
+	12.4 	3.6e-01 	1.9e-02 	 757
+#S08
+	12.3 	3.6e-01 	1.8e-02 	 785
+#E09
+	12.6 	3.5e-01 	1.9e-02 	 624
+#M00
+	12.7 	3.9e-01 	1.7e-02 	 713
+#S01
+	12.8 	3.8e-01 	1.6e-02 	1048
+#S02
+	12.4 	3.8e-01 	1.8e-02 	 959
+#S03
+	12.5 	3.7e-01 	1.7e-02 	 752
+#S04
+	12.4 	3.6e-01 	1.9e-02 	 975
+#S05
+	12.4 	3.6e-01 	1.9e-02 	 717
+#S06
+	12.6 	3.5e-01 	1.9e-02 	 556
+#S07
+	12.4 	3.5e-01 	1.9e-02 	 903
+#S08
+	12.5 	3.5e-01 	1.9e-02 	 861
+#E09
+	12.7 	3.5e-01 	2.0e-02 	 945
+#
+#	fitpar0 fitpar1
+#M00
+#	-1.8782e+00	-3.6909e+01
+#S01
+#	-3.1204e+00	-2.6881e+01
+#S02
+#	-1.0623e+00	-5.0784e+01
+#S03
+#	-2.4128e+00	-3.6443e+01
+#S04
+#	-3.2274e+00	-2.9515e+01
+#S05
+#	-7.8006e-01	-5.1434e+01
+#S06
+#	-3.1802e+00	-3.3729e+01
+#S07
+#	-3.5034e+00	-3.4058e+01
+#S08
+#	-4.1486e+00	-3.1709e+01
+#E09
+#	-6.6475e-01	-5.0121e+01
+#M00
+#	-2.7672e+00	-3.8422e+01
+#S01
+#	-5.2294e+00	-1.7782e+01
+#S02
+#	-6.5957e+00	-2.1226e+01
+#S03
+#	-4.4403e+00	-3.4494e+01
+#S04
+#	-6.5196e+00	-2.0563e+01
+#S05
+#	-4.0860e+00	-3.7960e+01
+#S06
+#	-4.9062e-01	-6.3163e+01
+#S07
+#	-6.4221e+00	-2.3962e+01
+#S08
+#	-6.0330e+00	-2.6343e+01
+#E09
+#	-6.1552e+00	-2.1889e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-774
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"07:03:50"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	39.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 21 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 13.9 (module average 19.5)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.1 (module average 19.5)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-775
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"07:05:04"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	493 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.68 	75.95 	0.00
+#S01
+	4 	31.43 	69.91 	0.00
+#S02
+	4 	32.46 	79.57 	0.00
+#S03
+	4 	32.51 	75.20 	0.00
+#S04
+	4 	32.10 	76.95 	0.00
+#S05
+	4 	32.35 	80.58 	0.00
+#S06
+	4 	31.93 	77.35 	0.00
+#S07
+	4 	32.51 	78.18 	0.00
+#S08
+	4 	32.90 	77.30 	0.00
+#E09
+	4 	32.56 	71.64 	0.00
+#M00
+	4 	32.36 	75.91 	0.00
+#S01
+	4 	32.35 	69.70 	0.00
+#S02
+	4 	33.20 	79.27 	0.00
+#S03
+	4 	33.09 	75.06 	0.00
+#S04
+	4 	32.54 	76.94 	0.00
+#S05
+	4 	33.16 	80.57 	0.00
+#S06
+	4 	32.74 	76.69 	0.00
+#S07
+	4 	33.17 	78.30 	0.00
+#S08
+	4 	33.81 	77.27 	0.00
+#E09
+	4 	33.04 	71.56 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	107.2 	 1.97 	75.9 	1.66 	 75.9 	 1.66 	8.22 	  677 	  15
+#S01
+	100.7 	 1.90 	69.9 	1.63 	 69.9 	 1.63 	7.67 	  686 	  19
+#S02
+	111.8 	 2.35 	79.6 	1.94 	 79.6 	 1.94 	7.87 	  619 	  13
+#S03
+	107.2 	 2.24 	75.2 	1.85 	 75.2 	 1.85 	7.79 	  648 	  14
+#S04
+	108.5 	 1.98 	76.9 	1.56 	 76.9 	 1.56 	8.07 	  656 	  15
+#S05
+	112.5 	 1.67 	80.6 	1.39 	 80.6 	 1.39 	8.23 	  638 	  11
+#S06
+	108.7 	 2.06 	77.3 	1.64 	 77.3 	 1.64 	7.69 	  622 	  18
+#S07
+	110.3 	 1.96 	78.2 	1.74 	 78.2 	 1.74 	7.95 	  636 	  10
+#S08
+	109.8 	 1.94 	77.3 	1.55 	 77.3 	 1.55 	7.67 	  620 	  12
+#E09
+	103.8 	 2.32 	71.6 	1.69 	 71.6 	 1.69 	7.33 	  640 	  23
+#M00
+	107.8 	 1.95 	75.9 	1.60 	 75.9 	 1.60 	7.32 	  603 	  11
+#S01
+	101.4 	 2.08 	69.7 	1.99 	 69.7 	 1.99 	6.86 	  615 	  12
+#S02
+	112.3 	 2.28 	79.3 	2.05 	 79.3 	 2.05 	7.04 	  555 	  10
+#S03
+	107.7 	 2.26 	75.1 	2.05 	 75.1 	 2.05 	6.94 	  578 	  10
+#S04
+	109.0 	 2.08 	76.9 	1.69 	 76.9 	 1.69 	7.04 	  572 	  10
+#S05
+	113.3 	 2.14 	80.6 	1.77 	 80.6 	 1.77 	7.21 	  560 	   9
+#S06
+	108.9 	 1.74 	76.7 	1.60 	 76.7 	 1.60 	6.82 	  556 	   9
+#S07
+	111.2 	 1.92 	78.3 	1.71 	 78.3 	 1.71 	7.01 	  560 	   9
+#S08
+	110.7 	 2.00 	77.3 	1.59 	 77.3 	 1.59 	6.82 	  552 	  10
+#E09
+	104.2 	 2.37 	71.6 	2.10 	 71.6 	 2.10 	6.52 	  570 	  10
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  2	  0	  0	  0	  0	  1	  0	  0	  0	  0	  2	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 389
+LAST CHANNEL   : 389
+#
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+#3 defects found affecting 3 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_775.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-778
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"07:09:53"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10996.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1233.93 	3.82 	-588.32
+#S01
+	3 	1268.97 	4.26 	-605.90
+#S02
+	3 	1217.94 	3.64 	-579.03
+#S03
+	3 	1283.99 	4.08 	-611.61
+#S04
+	3 	1266.53 	3.91 	-603.74
+#S05
+	3 	1300.63 	3.86 	-620.15
+#S06
+	3 	1203.66 	3.66 	-572.94
+#S07
+	3 	1205.78 	3.66 	-572.90
+#S08
+	3 	1205.08 	3.71 	-572.13
+#E09
+	3 	1200.47 	3.94 	-570.57
+#M00
+	3 	1237.76 	3.83 	-589.74
+#S01
+	3 	1281.86 	4.33 	-611.43
+#S02
+	3 	1219.74 	3.66 	-579.22
+#S03
+	3 	1287.62 	4.10 	-612.80
+#S04
+	3 	1280.23 	3.96 	-610.04
+#S05
+	3 	1307.51 	3.89 	-622.76
+#S06
+	3 	1212.61 	3.73 	-576.64
+#S07
+	3 	1216.17 	3.69 	-577.47
+#S08
+	3 	1215.96 	3.75 	-576.66
+#E09
+	3 	1218.35 	4.02 	-578.99
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.5 	 2.67 	77.3 	1.50 	 80.2 	 1.63 	8.33 	  673 	  14
+#S01
+	136.3 	 2.63 	71.8 	1.50 	 74.0 	 1.59 	7.86 	  683 	  20
+#S02
+	151.6 	 3.11 	79.9 	1.59 	 83.2 	 1.75 	7.89 	  618 	  14
+#S03
+	145.3 	 3.03 	75.9 	1.53 	 78.4 	 1.69 	7.86 	  647 	  14
+#S04
+	147.5 	 2.60 	77.7 	1.38 	 80.5 	 1.53 	8.16 	  656 	  13
+#S05
+	153.1 	 2.16 	80.8 	1.17 	 83.8 	 1.27 	8.21 	  635 	  12
+#S06
+	147.9 	 2.73 	78.3 	1.39 	 81.5 	 1.55 	7.78 	  621 	  18
+#S07
+	149.6 	 2.68 	78.6 	1.47 	 81.9 	 1.64 	7.96 	  633 	  12
+#S08
+	148.8 	 2.59 	77.7 	1.35 	 80.8 	 1.49 	7.66 	  616 	  13
+#E09
+	139.9 	 3.03 	73.1 	1.48 	 75.7 	 1.64 	7.42 	  635 	  24
+#M00
+	146.2 	 2.60 	77.4 	1.41 	 80.3 	 1.56 	7.42 	  599 	  11
+#S01
+	136.9 	 2.96 	71.6 	1.79 	 73.8 	 1.88 	7.04 	  614 	  10
+#S02
+	151.8 	 3.16 	79.6 	1.75 	 82.9 	 1.91 	7.05 	  553 	  10
+#S03
+	145.6 	 3.12 	75.7 	1.73 	 78.2 	 1.89 	6.97 	  576 	  10
+#S04
+	147.9 	 2.75 	77.6 	1.42 	 80.4 	 1.58 	7.11 	  572 	  11
+#S05
+	153.9 	 2.86 	80.8 	1.54 	 83.7 	 1.69 	7.21 	  558 	  10
+#S06
+	147.7 	 2.39 	77.8 	1.37 	 80.8 	 1.53 	6.90 	  554 	  10
+#S07
+	150.4 	 2.58 	78.7 	1.46 	 81.9 	 1.61 	7.02 	  557 	  10
+#S08
+	149.6 	 2.65 	77.7 	1.40 	 80.7 	 1.55 	6.84 	  550 	   9
+#E09
+	140.2 	 3.14 	73.0 	1.67 	 75.5 	 1.88 	6.56 	  562 	  12
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  1	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  1	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#3 defects found affecting 3 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_778.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-788
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"07:18:30"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	492 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.8 	4.0e-01 	1.7e-02 	1019
+#S01
+	12.7 	3.9e-01 	1.6e-02 	1059
+#S02
+	12.3 	3.8e-01 	1.4e-02 	1015
+#S03
+	12.3 	3.8e-01 	1.5e-02 	 961
+#S04
+	12.2 	3.8e-01 	1.5e-02 	 963
+#S05
+	12.2 	3.7e-01 	1.9e-02 	 948
+#S06
+	12.4 	3.7e-01 	1.7e-02 	 964
+#S07
+	12.3 	3.7e-01 	1.7e-02 	 979
+#S08
+	12.3 	3.7e-01 	1.7e-02 	1066
+#E09
+	12.6 	3.7e-01 	1.8e-02 	1025
+#M00
+	12.7 	4.0e-01 	1.5e-02 	1131
+#S01
+	12.7 	3.9e-01 	1.5e-02 	1203
+#S02
+	12.4 	3.9e-01 	1.4e-02 	1118
+#S03
+	12.4 	3.8e-01 	1.7e-02 	1197
+#S04
+	12.3 	3.7e-01 	1.7e-02 	1172
+#S05
+	12.3 	3.7e-01 	1.6e-02 	1068
+#S06
+	12.5 	3.7e-01 	1.8e-02 	1109
+#S07
+	12.4 	3.7e-01 	1.8e-02 	1154
+#S08
+	12.5 	3.7e-01 	1.9e-02 	1134
+#E09
+	12.7 	3.6e-01 	1.6e-02 	1163
+#
+#	fitpar0 fitpar1
+#M00
+#	-4.6178e+00	-1.8795e+01
+#S01
+#	-4.5966e+00	-1.7411e+01
+#S02
+#	-5.7326e+00	-1.8956e+01
+#S03
+#	-4.5455e+00	-2.1147e+01
+#S04
+#	-4.5023e+00	-2.1049e+01
+#S05
+#	-5.0694e+00	-2.1755e+01
+#S06
+#	-4.9280e+00	-2.1009e+01
+#S07
+#	-5.5940e+00	-2.0372e+01
+#S08
+#	-6.3255e+00	-1.7193e+01
+#E09
+#	-5.3176e+00	-1.8583e+01
+#M00
+#	-5.9539e+00	-1.5265e+01
+#S01
+#	-6.5283e+00	-1.3501e+01
+#S02
+#	-7.3687e+00	-1.5624e+01
+#S03
+#	-7.8636e+00	-1.3626e+01
+#S04
+#	-7.8808e+00	-1.4225e+01
+#S05
+#	-6.7325e+00	-1.7114e+01
+#S06
+#	-6.4577e+00	-1.5877e+01
+#S07
+#	-7.9488e+00	-1.4672e+01
+#S08
+#	-7.7134e+00	-1.5197e+01
+#E09
+#	-7.0076e+00	-1.4439e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-792
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"08:11:14"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	37.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 13.9 (module average 19.4)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.1 (module average 19.4)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-793
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"08:12:28"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	493 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.72 	75.87 	0.00
+#S01
+	4 	31.33 	69.97 	0.00
+#S02
+	4 	32.49 	79.50 	0.00
+#S03
+	4 	32.51 	75.14 	0.00
+#S04
+	4 	32.05 	76.99 	0.00
+#S05
+	4 	32.38 	80.51 	0.00
+#S06
+	4 	31.96 	77.48 	0.00
+#S07
+	4 	32.57 	78.15 	0.00
+#S08
+	4 	33.06 	77.31 	0.00
+#E09
+	4 	32.81 	71.52 	0.00
+#M00
+	4 	32.21 	75.88 	0.00
+#S01
+	4 	32.06 	69.73 	0.00
+#S02
+	4 	33.33 	79.13 	0.00
+#S03
+	4 	33.08 	74.98 	0.00
+#S04
+	4 	32.67 	77.00 	0.00
+#S05
+	4 	33.23 	80.51 	0.00
+#S06
+	4 	32.48 	76.82 	0.00
+#S07
+	4 	33.31 	78.29 	0.00
+#S08
+	4 	33.80 	77.23 	0.00
+#E09
+	4 	33.46 	71.42 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	107.1 	 2.00 	75.9 	1.66 	 75.9 	 1.66 	8.26 	  680 	  15
+#S01
+	100.6 	 2.01 	69.9 	1.64 	 69.9 	 1.64 	7.65 	  684 	  21
+#S02
+	111.8 	 2.30 	79.5 	1.90 	 79.5 	 1.90 	7.90 	  621 	  14
+#S03
+	107.2 	 2.22 	75.1 	1.86 	 75.1 	 1.86 	7.81 	  650 	  12
+#S04
+	108.5 	 1.84 	77.0 	1.67 	 77.0 	 1.67 	8.10 	  657 	  14
+#S05
+	112.4 	 1.78 	80.5 	1.33 	 80.5 	 1.33 	8.22 	  638 	  11
+#S06
+	108.8 	 2.11 	77.5 	1.60 	 77.5 	 1.60 	7.72 	  623 	  18
+#S07
+	110.4 	 2.01 	78.2 	1.76 	 78.2 	 1.76 	7.98 	  638 	  13
+#S08
+	110.0 	 1.88 	77.3 	1.54 	 77.3 	 1.54 	7.66 	  619 	  13
+#E09
+	103.9 	 2.09 	71.5 	1.68 	 71.5 	 1.68 	7.29 	  638 	  24
+#M00
+	107.7 	 1.93 	75.9 	1.63 	 75.9 	 1.63 	7.34 	  605 	  11
+#S01
+	101.1 	 2.09 	69.7 	1.99 	 69.7 	 1.99 	6.87 	  616 	  11
+#S02
+	112.3 	 2.47 	79.1 	2.08 	 79.1 	 2.08 	7.05 	  557 	  10
+#S03
+	107.6 	 2.32 	75.0 	2.01 	 75.0 	 2.01 	6.92 	  577 	  10
+#S04
+	109.2 	 2.08 	77.0 	1.69 	 77.0 	 1.69 	7.08 	  575 	  10
+#S05
+	113.3 	 2.10 	80.5 	1.77 	 80.5 	 1.77 	7.22 	  561 	  10
+#S06
+	108.7 	 1.80 	76.8 	1.57 	 76.8 	 1.57 	6.86 	  558 	  10
+#S07
+	111.3 	 2.06 	78.3 	1.72 	 78.3 	 1.72 	7.01 	  560 	   9
+#S08
+	110.7 	 1.96 	77.2 	1.61 	 77.2 	 1.61 	6.85 	  555 	   9
+#E09
+	104.5 	 2.47 	71.4 	2.07 	 71.4 	 2.07 	6.48 	  567 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+#2 defects found affecting 2 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_793.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-796
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"08:17:18"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1234.30 	3.82 	-588.51
+#S01
+	3 	1269.24 	4.27 	-606.02
+#S02
+	3 	1216.90 	3.64 	-578.50
+#S03
+	3 	1283.63 	4.07 	-611.56
+#S04
+	3 	1265.63 	3.91 	-603.34
+#S05
+	3 	1300.74 	3.86 	-620.24
+#S06
+	3 	1203.30 	3.66 	-572.63
+#S07
+	3 	1205.21 	3.66 	-572.64
+#S08
+	3 	1204.63 	3.71 	-571.82
+#E09
+	3 	1204.94 	3.98 	-572.46
+#M00
+	3 	1238.47 	3.83 	-590.27
+#S01
+	3 	1282.47 	4.33 	-611.94
+#S02
+	3 	1218.76 	3.66 	-578.66
+#S03
+	3 	1287.50 	4.10 	-612.90
+#S04
+	3 	1279.22 	3.96 	-609.40
+#S05
+	3 	1307.81 	3.89 	-622.94
+#S06
+	3 	1213.26 	3.73 	-577.10
+#S07
+	3 	1215.30 	3.69 	-576.92
+#S08
+	3 	1215.83 	3.75 	-576.75
+#E09
+	3 	1223.64 	4.06 	-581.12
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.5 	 2.72 	77.3 	1.51 	 80.2 	 1.65 	8.36 	  675 	  13
+#S01
+	136.3 	 2.75 	71.8 	1.52 	 74.0 	 1.60 	7.86 	  684 	  20
+#S02
+	151.6 	 3.08 	79.9 	1.59 	 83.2 	 1.75 	7.91 	  619 	  13
+#S03
+	145.2 	 2.96 	75.9 	1.53 	 78.5 	 1.69 	7.88 	  649 	  15
+#S04
+	147.4 	 2.47 	77.7 	1.38 	 80.5 	 1.53 	8.16 	  656 	  12
+#S05
+	153.0 	 2.26 	80.8 	1.17 	 83.8 	 1.28 	8.21 	  635 	  11
+#S06
+	148.1 	 2.76 	78.4 	1.39 	 81.5 	 1.56 	7.76 	  619 	  18
+#S07
+	149.7 	 2.71 	78.7 	1.46 	 81.9 	 1.61 	7.97 	  633 	  11
+#S08
+	148.8 	 2.53 	77.7 	1.34 	 80.8 	 1.48 	7.67 	  617 	  12
+#E09
+	139.9 	 2.80 	72.8 	1.47 	 75.4 	 1.62 	7.35 	  631 	  24
+#M00
+	146.0 	 2.58 	77.4 	1.41 	 80.3 	 1.56 	7.43 	  600 	  10
+#S01
+	136.7 	 2.99 	71.6 	1.78 	 73.8 	 1.87 	7.06 	  616 	  11
+#S02
+	151.9 	 3.34 	79.6 	1.75 	 82.9 	 1.90 	7.05 	  553 	  11
+#S03
+	145.5 	 3.21 	75.7 	1.73 	 78.2 	 1.89 	7.00 	  577 	  10
+#S04
+	148.0 	 2.75 	77.7 	1.41 	 80.4 	 1.56 	7.12 	  573 	  12
+#S05
+	153.8 	 2.85 	80.8 	1.54 	 83.7 	 1.69 	7.21 	  558 	   9
+#S06
+	147.6 	 2.44 	77.8 	1.36 	 80.8 	 1.52 	6.87 	  552 	  11
+#S07
+	150.6 	 2.74 	78.8 	1.46 	 81.9 	 1.60 	7.01 	  556 	   9
+#S08
+	149.4 	 2.62 	77.7 	1.39 	 80.7 	 1.54 	6.84 	  551 	  10
+#E09
+	140.2 	 3.04 	72.6 	1.56 	 75.1 	 1.76 	6.51 	  560 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#4 defects found affecting 4 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_796.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-806
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"08:25:56"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	491 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.8 	3.9e-01 	1.7e-02 	 690
+#S01
+	12.7 	3.8e-01 	1.7e-02 	 926
+#S02
+	12.3 	3.7e-01 	1.5e-02 	 815
+#S03
+	12.3 	3.7e-01 	1.6e-02 	 784
+#S04
+	12.2 	3.7e-01 	1.5e-02 	 791
+#S05
+	12.2 	3.5e-01 	2.1e-02 	 624
+#S06
+	12.5 	3.5e-01 	1.8e-02 	 805
+#S07
+	12.3 	3.5e-01 	1.7e-02 	 651
+#S08
+	12.4 	3.6e-01 	1.6e-02 	 669
+#E09
+	12.6 	3.5e-01 	1.9e-02 	 781
+#M00
+	12.7 	3.9e-01 	1.7e-02 	 597
+#S01
+	12.7 	3.8e-01 	1.7e-02 	 864
+#S02
+	12.4 	3.8e-01 	1.5e-02 	 653
+#S03
+	12.4 	3.7e-01 	1.8e-02 	 931
+#S04
+	12.3 	3.6e-01 	1.6e-02 	1036
+#S05
+	12.3 	3.6e-01 	1.8e-02 	 838
+#S06
+	12.5 	3.5e-01 	1.9e-02 	 906
+#S07
+	12.4 	3.5e-01 	1.6e-02 	 849
+#S08
+	12.5 	3.5e-01 	1.7e-02 	 846
+#E09
+	12.7 	3.5e-01 	1.8e-02 	1112
+#
+#	fitpar0 fitpar1
+#M00
+#	-1.2969e+00	-4.0994e+01
+#S01
+#	-3.8120e+00	-2.2795e+01
+#S02
+#	-4.2030e+00	-2.9388e+01
+#S03
+#	-3.0748e+00	-3.1768e+01
+#S04
+#	-3.0754e+00	-3.1224e+01
+#S05
+#	-9.6820e-01	-5.0118e+01
+#S06
+#	-3.6682e+00	-3.0168e+01
+#S07
+#	-1.6414e+00	-4.6058e+01
+#S08
+#	-2.2456e+00	-4.3673e+01
+#E09
+#	-3.4384e+00	-3.1994e+01
+#M00
+#	-5.4470e-01	-5.4874e+01
+#S01
+#	-4.1336e+00	-2.6190e+01
+#S02
+#	-3.1980e+00	-4.5741e+01
+#S03
+#	-6.4193e+00	-2.2547e+01
+#S04
+#	-7.1632e+00	-1.8207e+01
+#S05
+#	-5.4972e+00	-2.7782e+01
+#S06
+#	-5.5943e+00	-2.3798e+01
+#S07
+#	-6.0338e+00	-2.7077e+01
+#S08
+#	-5.9823e+00	-2.7268e+01
+#E09
+#	-7.0173e+00	-1.5796e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-810
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"09:18:56"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.1 (module average 19.5)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.2 (module average 19.5)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-811
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"09:20:11"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	492 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.64 	75.91 	0.00
+#S01
+	4 	31.53 	69.95 	0.00
+#S02
+	4 	32.59 	79.68 	0.00
+#S03
+	4 	32.44 	75.26 	0.00
+#S04
+	4 	32.05 	76.92 	0.00
+#S05
+	4 	32.34 	80.56 	0.00
+#S06
+	4 	31.81 	77.39 	0.00
+#S07
+	4 	32.56 	78.13 	0.00
+#S08
+	4 	32.98 	77.32 	0.00
+#E09
+	4 	32.78 	71.47 	0.00
+#M00
+	4 	32.27 	75.89 	0.00
+#S01
+	4 	32.28 	69.74 	0.00
+#S02
+	4 	33.25 	79.29 	0.00
+#S03
+	4 	33.17 	75.06 	0.00
+#S04
+	4 	32.71 	76.95 	0.00
+#S05
+	4 	33.24 	80.55 	0.00
+#S06
+	4 	32.52 	76.77 	0.00
+#S07
+	4 	33.38 	78.28 	0.00
+#S08
+	4 	33.68 	77.30 	0.00
+#E09
+	4 	33.56 	71.32 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	107.0 	 1.87 	75.9 	1.67 	 75.9 	 1.67 	8.23 	  677 	  14
+#S01
+	100.8 	 1.93 	69.9 	1.67 	 69.9 	 1.67 	7.66 	  684 	  20
+#S02
+	112.0 	 2.36 	79.7 	1.95 	 79.7 	 1.95 	7.88 	  618 	  14
+#S03
+	107.2 	 2.10 	75.3 	1.84 	 75.3 	 1.84 	7.81 	  649 	  14
+#S04
+	108.4 	 1.98 	76.9 	1.57 	 76.9 	 1.57 	8.10 	  658 	  14
+#S05
+	112.4 	 1.79 	80.5 	1.38 	 80.5 	 1.38 	8.22 	  638 	  11
+#S06
+	108.6 	 2.06 	77.4 	1.63 	 77.4 	 1.63 	7.72 	  624 	  18
+#S07
+	110.3 	 2.00 	78.1 	1.76 	 78.1 	 1.76 	7.95 	  636 	  10
+#S08
+	109.9 	 1.78 	77.3 	1.56 	 77.3 	 1.56 	7.66 	  619 	  12
+#E09
+	103.9 	 2.13 	71.5 	1.70 	 71.5 	 1.70 	7.27 	  636 	  25
+#M00
+	107.7 	 2.00 	75.9 	1.59 	 75.9 	 1.59 	7.33 	  604 	  10
+#S01
+	101.4 	 1.96 	69.7 	1.97 	 69.7 	 1.97 	6.87 	  615 	  11
+#S02
+	112.4 	 2.58 	79.3 	2.05 	 79.3 	 2.05 	7.03 	  554 	  10
+#S03
+	107.8 	 2.35 	75.1 	2.05 	 75.1 	 2.05 	6.93 	  577 	  10
+#S04
+	109.2 	 2.03 	77.0 	1.66 	 77.0 	 1.66 	7.06 	  574 	  12
+#S05
+	113.3 	 2.03 	80.6 	1.76 	 80.6 	 1.76 	7.22 	  561 	  11
+#S06
+	108.7 	 1.90 	76.8 	1.58 	 76.8 	 1.58 	6.83 	  556 	   9
+#S07
+	111.4 	 2.08 	78.3 	1.70 	 78.3 	 1.70 	7.02 	  561 	  10
+#S08
+	110.6 	 1.92 	77.3 	1.61 	 77.3 	 1.61 	6.85 	  554 	  10
+#E09
+	104.5 	 2.54 	71.3 	2.08 	 71.3 	 2.08 	6.46 	  566 	  11
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+#2 defects found affecting 2 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_811.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-814
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"09:25:01"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1233.31 	3.82 	-588.11
+#S01
+	3 	1269.36 	4.27 	-605.98
+#S02
+	3 	1218.47 	3.64 	-579.09
+#S03
+	3 	1284.07 	4.07 	-611.75
+#S04
+	3 	1265.87 	3.91 	-603.50
+#S05
+	3 	1300.26 	3.86 	-620.00
+#S06
+	3 	1202.49 	3.66 	-572.48
+#S07
+	3 	1206.24 	3.66 	-573.19
+#S08
+	3 	1204.46 	3.70 	-571.83
+#E09
+	3 	1202.92 	3.97 	-571.45
+#M00
+	3 	1237.92 	3.83 	-589.96
+#S01
+	3 	1281.92 	4.33 	-611.52
+#S02
+	3 	1221.11 	3.67 	-579.84
+#S03
+	3 	1288.07 	4.10 	-612.99
+#S04
+	3 	1278.81 	3.96 	-609.19
+#S05
+	3 	1308.03 	3.89 	-622.98
+#S06
+	3 	1211.55 	3.72 	-576.31
+#S07
+	3 	1216.76 	3.69 	-577.59
+#S08
+	3 	1216.11 	3.74 	-576.92
+#E09
+	3 	1219.86 	4.04 	-579.18
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.4 	 2.54 	77.3 	1.49 	 80.2 	 1.62 	8.34 	  674 	  15
+#S01
+	136.5 	 2.66 	71.8 	1.50 	 74.0 	 1.59 	7.86 	  684 	  21
+#S02
+	151.8 	 3.13 	79.9 	1.59 	 83.2 	 1.75 	7.90 	  618 	  14
+#S03
+	145.2 	 2.84 	76.0 	1.52 	 78.5 	 1.68 	7.88 	  648 	  13
+#S04
+	147.4 	 2.63 	77.8 	1.37 	 80.6 	 1.53 	8.13 	  654 	  15
+#S05
+	153.1 	 2.29 	80.8 	1.17 	 83.8 	 1.28 	8.20 	  634 	  10
+#S06
+	147.9 	 2.72 	78.4 	1.38 	 81.5 	 1.54 	7.75 	  618 	  18
+#S07
+	149.6 	 2.73 	78.6 	1.47 	 81.9 	 1.63 	7.96 	  632 	  10
+#S08
+	148.8 	 2.42 	77.8 	1.34 	 80.9 	 1.48 	7.65 	  615 	  13
+#E09
+	140.0 	 2.81 	72.8 	1.46 	 75.4 	 1.61 	7.33 	  629 	  22
+#M00
+	146.0 	 2.63 	77.4 	1.41 	 80.2 	 1.55 	7.42 	  599 	  10
+#S01
+	136.9 	 2.86 	71.7 	1.77 	 73.8 	 1.86 	7.04 	  614 	  12
+#S02
+	151.8 	 3.44 	79.6 	1.74 	 82.9 	 1.90 	7.04 	  553 	  11
+#S03
+	145.7 	 3.20 	75.7 	1.72 	 78.2 	 1.89 	6.97 	  575 	   9
+#S04
+	148.1 	 2.67 	77.7 	1.40 	 80.4 	 1.56 	7.09 	  570 	  11
+#S05
+	153.9 	 2.73 	80.8 	1.53 	 83.7 	 1.67 	7.19 	  557 	  10
+#S06
+	147.6 	 2.54 	77.8 	1.37 	 80.9 	 1.52 	6.89 	  553 	  10
+#S07
+	150.6 	 2.76 	78.7 	1.45 	 81.9 	 1.60 	7.00 	  556 	  11
+#S08
+	149.5 	 2.57 	77.7 	1.41 	 80.8 	 1.56 	6.82 	  549 	  10
+#E09
+	140.4 	 3.15 	72.7 	1.56 	 75.1 	 1.76 	6.52 	  561 	   9
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#4 defects found affecting 4 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_814.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-824
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"09:33:40"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10996.00 	491 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.9 	4.2e-01 	1.7e-02 	 795
+#S01
+	12.8 	4.1e-01 	1.8e-02 	 776
+#S02
+	12.4 	4.1e-01 	1.5e-02 	 611
+#S03
+	12.3 	4.1e-01 	1.5e-02 	 716
+#S04
+	12.1 	4.1e-01 	1.4e-02 	 763
+#S05
+	12.2 	4.0e-01 	1.9e-02 	 665
+#S06
+	12.4 	4.0e-01 	1.8e-02 	 783
+#S07
+	12.3 	4.0e-01 	1.8e-02 	 665
+#S08
+	12.3 	4.0e-01 	1.7e-02 	 964
+#E09
+	12.6 	4.0e-01 	1.9e-02 	 616
+#M00
+	12.8 	4.2e-01 	1.7e-02 	 786
+#S01
+	12.8 	4.1e-01 	1.4e-02 	 982
+#S02
+	12.4 	4.1e-01 	1.6e-02 	 841
+#S03
+	12.5 	4.1e-01 	1.7e-02 	 881
+#S04
+	12.3 	4.1e-01 	1.7e-02 	 680
+#S05
+	12.3 	4.0e-01 	1.6e-02 	 726
+#S06
+	12.5 	4.0e-01 	1.8e-02 	 995
+#S07
+	12.4 	4.0e-01 	1.7e-02 	 560
+#S08
+	12.4 	4.0e-01 	1.8e-02 	 936
+#E09
+	12.7 	4.0e-01 	1.8e-02 	1107
+#
+#	fitpar0 fitpar1
+#M00
+#	-2.8342e+00	-3.0896e+01
+#S01
+#	-2.3125e+00	-3.2403e+01
+#S02
+#	-8.8207e-01	-5.2324e+01
+#S03
+#	-2.2350e+00	-3.8137e+01
+#S04
+#	-2.7175e+00	-3.3507e+01
+#S05
+#	-1.8366e+00	-4.4114e+01
+#S06
+#	-3.4431e+00	-3.1821e+01
+#S07
+#	-1.9158e+00	-4.4108e+01
+#S08
+#	-5.7787e+00	-2.1023e+01
+#E09
+#	-6.7924e-01	-5.1506e+01
+#M00
+#	-3.7377e+00	-3.1615e+01
+#S01
+#	-4.9625e+00	-2.0233e+01
+#S02
+#	-5.7097e+00	-2.7583e+01
+#S03
+#	-5.9575e+00	-2.5142e+01
+#S04
+#	-3.3067e+00	-4.2178e+01
+#S05
+#	-4.1165e+00	-3.7014e+01
+#S06
+#	-5.9735e+00	-1.9741e+01
+#S07
+#	-9.6280e-01	-6.2177e+01
+#S08
+#	-6.8121e+00	-2.2307e+01
+#E09
+#	-6.9765e+00	-1.5938e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-828
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : YES
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"10:26:09"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-347.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	492 	
+#TIME_POWERED
+. 
+#
+%StrobeDelay
+#
+#DELAY
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 19 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+23 20 19 24 24 24 23 22 19 20 -1 -1 -1 -1 -1 -1 
+#
+#No defects found!
+%Comment
+COMMENT        : Strobe Delay Fraction 0.57
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.0 (module average 19.4)
+#
+%Comment
+COMMENT        : S01 Low SD width: 14.2 (module average 19.4)
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-829
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"10:27:24"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	492 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+3
+#POINTS
+0.50 	1.00 	1.50 	
+#
+#
+%ThreePointGain
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	4 	31.62 	75.89 	0.00
+#S01
+	4 	31.46 	69.93 	0.00
+#S02
+	4 	32.44 	79.51 	0.00
+#S03
+	4 	32.59 	75.21 	0.00
+#S04
+	4 	32.17 	76.89 	0.00
+#S05
+	4 	32.49 	80.48 	0.00
+#S06
+	4 	31.93 	77.35 	0.00
+#S07
+	4 	32.55 	78.14 	0.00
+#S08
+	4 	33.17 	77.29 	0.00
+#E09
+	4 	32.92 	71.41 	0.00
+#M00
+	4 	32.28 	75.91 	0.00
+#S01
+	4 	32.28 	69.73 	0.00
+#S02
+	4 	33.14 	79.15 	0.00
+#S03
+	4 	33.16 	75.00 	0.00
+#S04
+	4 	32.87 	76.87 	0.00
+#S05
+	4 	33.32 	80.48 	0.00
+#S06
+	4 	32.65 	76.68 	0.00
+#S07
+	4 	33.32 	78.25 	0.00
+#S08
+	4 	33.79 	77.24 	0.00
+#E09
+	4 	33.46 	71.29 	0.00
+#
+#Loop B - Gain, Offset, Noise at 1.00fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	107.0 	 1.92 	75.9 	1.65 	 75.9 	 1.65 	8.21 	  676 	  15
+#S01
+	100.7 	 1.89 	69.9 	1.65 	 69.9 	 1.65 	7.64 	  683 	  21
+#S02
+	111.7 	 2.22 	79.5 	1.92 	 79.5 	 1.92 	7.88 	  620 	  13
+#S03
+	107.3 	 2.10 	75.2 	1.82 	 75.2 	 1.82 	7.79 	  647 	  14
+#S04
+	108.6 	 1.93 	76.9 	1.65 	 76.9 	 1.65 	8.07 	  656 	  14
+#S05
+	112.5 	 1.76 	80.5 	1.32 	 80.5 	 1.32 	8.19 	  636 	  11
+#S06
+	108.8 	 1.83 	77.3 	1.58 	 77.3 	 1.58 	7.69 	  621 	  18
+#S07
+	110.4 	 1.99 	78.1 	1.74 	 78.1 	 1.74 	7.95 	  636 	  10
+#S08
+	110.1 	 1.77 	77.3 	1.55 	 77.3 	 1.55 	7.66 	  619 	  13
+#E09
+	103.9 	 2.08 	71.4 	1.65 	 71.4 	 1.65 	7.29 	  638 	  23
+#M00
+	107.7 	 1.86 	75.9 	1.64 	 75.9 	 1.64 	7.32 	  602 	  11
+#S01
+	101.4 	 1.98 	69.7 	2.00 	 69.7 	 2.00 	6.87 	  616 	  12
+#S02
+	112.1 	 2.49 	79.2 	2.06 	 79.2 	 2.06 	7.01 	  554 	   9
+#S03
+	107.7 	 2.19 	75.0 	2.06 	 75.0 	 2.06 	6.94 	  579 	  10
+#S04
+	109.3 	 1.99 	76.9 	1.66 	 76.9 	 1.66 	7.04 	  572 	  11
+#S05
+	113.4 	 2.18 	80.5 	1.75 	 80.5 	 1.75 	7.21 	  560 	  11
+#S06
+	108.9 	 1.87 	76.7 	1.55 	 76.7 	 1.55 	6.82 	  556 	  11
+#S07
+	111.3 	 2.08 	78.2 	1.67 	 78.2 	 1.67 	7.01 	  560 	  10
+#S08
+	110.7 	 1.92 	77.2 	1.60 	 77.2 	 1.60 	6.84 	  553 	   9
+#E09
+	104.4 	 2.66 	71.3 	2.06 	 71.3 	 2.06 	6.47 	  567 	  12
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.00fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+#2 defects found affecting 2 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_829.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-832
+TEST_DATE      : 08/02/2024
+PASSED         : YES
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"10:32:14"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10995.00 	497 	
+#TIME_POWERED
+. 
+#
+#
+%SCAN_INFO
+#
+#POINT_TYPE
+"QCAL (fC)"
+#N_POINTS
+10
+#POINTS
+0.19 	0.50 	0.81 	1.00 	1.27 	1.50 	2.00 	2.99 	3.99 	5.99 	
+#
+#
+%ResponseCurve
+#
+#Loop A - Fit
+#	func	p0	p1	p2
+#M00
+	3 	1235.91 	3.83 	-589.38
+#S01
+	3 	1269.41 	4.27 	-606.02
+#S02
+	3 	1218.91 	3.64 	-579.55
+#S03
+	3 	1282.83 	4.07 	-611.02
+#S04
+	3 	1266.71 	3.91 	-603.78
+#S05
+	3 	1299.74 	3.86 	-619.61
+#S06
+	3 	1202.86 	3.66 	-572.56
+#S07
+	3 	1206.82 	3.67 	-573.39
+#S08
+	3 	1203.99 	3.70 	-571.44
+#E09
+	3 	1201.37 	3.96 	-570.58
+#M00
+	3 	1239.76 	3.84 	-590.78
+#S01
+	3 	1282.50 	4.33 	-611.74
+#S02
+	3 	1221.02 	3.67 	-579.93
+#S03
+	3 	1286.44 	4.10 	-612.24
+#S04
+	3 	1279.09 	3.96 	-609.20
+#S05
+	3 	1307.58 	3.89 	-622.68
+#S06
+	3 	1211.59 	3.72 	-576.24
+#S07
+	3 	1216.80 	3.69 	-577.64
+#S08
+	3 	1215.17 	3.74 	-576.41
+#E09
+	3 	1219.24 	4.04 	-578.92
+#
+#Loop B - Gain, Offset, Noise at 1.50fC
+#	vt50 	rms  	gain	rms 	offset	rms  	outnse	innse	rms
+#M00
+	145.5 	 2.63 	77.3 	1.49 	 80.2 	 1.62 	8.32 	  673 	  14
+#S01
+	136.4 	 2.55 	71.8 	1.49 	 74.0 	 1.57 	7.86 	  684 	  20
+#S02
+	151.6 	 3.02 	79.9 	1.60 	 83.2 	 1.75 	7.89 	  617 	  14
+#S03
+	145.4 	 2.88 	76.0 	1.52 	 78.5 	 1.68 	7.87 	  648 	  13
+#S04
+	147.5 	 2.57 	77.7 	1.37 	 80.5 	 1.51 	8.18 	  657 	  13
+#S05
+	153.2 	 2.27 	80.8 	1.17 	 83.8 	 1.27 	8.20 	  634 	  12
+#S06
+	148.0 	 2.47 	78.3 	1.39 	 81.5 	 1.56 	7.77 	  620 	  18
+#S07
+	149.6 	 2.66 	78.6 	1.49 	 81.8 	 1.66 	7.94 	  632 	  11
+#S08
+	149.0 	 2.38 	77.8 	1.34 	 80.9 	 1.47 	7.67 	  616 	  13
+#E09
+	140.1 	 2.80 	72.8 	1.46 	 75.4 	 1.61 	7.37 	  633 	  23
+#M00
+	146.1 	 2.51 	77.4 	1.41 	 80.2 	 1.55 	7.41 	  599 	  11
+#S01
+	136.9 	 2.85 	71.6 	1.79 	 73.7 	 1.88 	7.06 	  616 	  10
+#S02
+	151.7 	 3.39 	79.6 	1.75 	 82.9 	 1.91 	7.01 	  550 	   9
+#S03
+	145.6 	 3.05 	75.7 	1.72 	 78.2 	 1.88 	6.97 	  575 	  10
+#S04
+	148.2 	 2.64 	77.7 	1.41 	 80.4 	 1.58 	7.11 	  572 	  11
+#S05
+	154.0 	 2.93 	80.8 	1.53 	 83.7 	 1.68 	7.20 	  557 	  10
+#S06
+	147.7 	 2.51 	77.8 	1.37 	 80.8 	 1.53 	6.90 	  554 	  10
+#S07
+	150.5 	 2.74 	78.7 	1.46 	 81.9 	 1.61 	7.00 	  556 	  10
+#S08
+	149.5 	 2.54 	77.8 	1.39 	 80.8 	 1.54 	6.86 	  551 	  10
+#E09
+	140.3 	 3.30 	72.7 	1.57 	 75.1 	 1.77 	6.52 	  561 	  10
+#
+#Loop C - Comment
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#  M00  S01  S02  S03  S04  S05  S06  S07  S08  E09
+"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	"OK" 	
+#BadChannelSummary - not for the database
+#  at 1.50fC
+#		lost	dodgy	dead	stuck	ineff	unbon	lo_gn	hi_gn	lo_off	hi_off	partbon	hi_nse	vlo_gn	vhi_gn	vlo_nse	vhi_nse
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip M00:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S01:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S02:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S03:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S04:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S05:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S06:	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S07:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Chip S08:	  0	  1	  0	  0	  0	  0	  0	  0	  0	  0	  0	  1	  0	  0	  0	  0
+#Chip E09:	  0	  0	  0	  0	  0	  0	  0	  2	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 0:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0
+#Link 1:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+#Link 2:	  0	  1	  0	  0	  0	  0	  1	  2	  0	  0	  0	  1	  0	  0	  0	  0
+%Defect
+DEFECT NAME    : LO_GAIN
+FIRST CHANNEL  : 2089
+LAST CHANNEL   : 2089
+#
+%Defect
+DEFECT NAME    : NOISY
+FIRST CHANNEL  : 2368
+LAST CHANNEL   : 2368
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2547
+LAST CHANNEL   : 2547
+#
+%Defect
+DEFECT NAME    : HI_GAIN
+FIRST CHANNEL  : 2559
+LAST CHANNEL   : 2559
+#
+#4 defects found affecting 4 strips
+#1 maximum consecutive defects
+#
+%TEST Rawdata
+FILENAME       : /disk/moose/general/user272/itk-module-testing-workspace/itsdaq-cfg/main/results/JaneDoe3Y_RC_37_832.txt
+#
+#
+%NewTest
+#
+SERIAL NUMBER  : JaneDoe3Y
+TEST MADE BY   : FU
+LOCATION NAME  : BHAM_COLDJIG
+Run number     : 37-842
+TEST_DATE      : 08/02/2024
+PASSED         : NO
+PROBLEM        : NO
+#
+%DAQ_INFO
+#
+#HOST
+"epldt116.ph.bham.ac.uk"
+#VERSION
+"3.43"
+#DUT
+"Barrel"
+#TIME
+"10:40:54"
+#
+%DCS_INFO
+#
+#T0	T1
+-128.0 	-128.0 	
+#VDET	IDET
+-348.0 	38.00 	
+#VCC	ICC
+0.00 	  0 	
+#VDD	IDD
+10994.00 	490 	
+#TIME_POWERED
+. 
+#
+#
+%NO
+#
+#	Offset	MeanOcc   	RMSOcc    	EstENC
+#M00
+	12.9 	4.0e-01 	1.9e-02 	 722
+#S01
+	12.9 	3.9e-01 	1.9e-02 	 758
+#S02
+	12.4 	3.9e-01 	1.8e-02 	 617
+#S03
+	12.5 	3.9e-01 	1.7e-02 	 746
+#S04
+	12.3 	3.8e-01 	1.6e-02 	 751
+#S05
+	12.3 	3.8e-01 	2.2e-02 	 685
+#S06
+	12.5 	3.8e-01 	1.9e-02 	 677
+#S07
+	12.4 	3.8e-01 	2.0e-02 	 774
+#S08
+	12.5 	3.8e-01 	1.9e-02 	 961
+#E09
+	12.7 	3.8e-01 	1.9e-02 	 607
+#M00
+	12.8 	4.0e-01 	1.9e-02 	 875
+#S01
+	12.9 	4.0e-01 	1.7e-02 	 888
+#S02
+	12.5 	3.9e-01 	1.7e-02 	 708
+#S03
+	12.5 	3.9e-01 	1.9e-02 	 785
+#S04
+	12.4 	3.9e-01 	2.0e-02 	 923
+#S05
+	12.4 	3.8e-01 	1.9e-02 	 837
+#S06
+	12.6 	3.8e-01 	2.1e-02 	 949
+#S07
+	12.5 	3.8e-01 	2.1e-02 	 559
+#S08
+	12.6 	3.8e-01 	2.0e-02 	 751
+#E09
+	12.8 	3.8e-01 	2.2e-02 	1137
+#
+#	fitpar0 fitpar1
+#M00
+#	-1.8209e+00	-3.7499e+01
+#S01
+#	-2.0477e+00	-3.3996e+01
+#S02
+#	-1.0543e+00	-5.1300e+01
+#S03
+#	-2.5999e+00	-3.5081e+01
+#S04
+#	-2.5710e+00	-3.4618e+01
+#S05
+#	-2.1780e+00	-4.1627e+01
+#S06
+#	-1.9711e+00	-4.2651e+01
+#S07
+#	-3.6731e+00	-3.2603e+01
+#S08
+#	-5.5968e+00	-2.1127e+01
+#E09
+#	-4.9845e-01	-5.2984e+01
+#M00
+#	-4.5294e+00	-2.5496e+01
+#S01
+#	-4.8139e+00	-2.4768e+01
+#S02
+#	-4.1764e+00	-3.8958e+01
+#S03
+#	-4.9103e+00	-3.1663e+01
+#S04
+#	-6.3460e+00	-2.2940e+01
+#S05
+#	-5.4906e+00	-2.7864e+01
+#S06
+#	-5.8220e+00	-2.1682e+01
+#S07
+#	-1.0242e+00	-6.2527e+01
+#S08
+#	-5.0123e+00	-3.4659e+01
+#E09
+#	-7.0225e+00	-1.5095e+01
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 0
+LAST CHANNEL   : 127
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 128
+LAST CHANNEL   : 255
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 256
+LAST CHANNEL   : 383
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 384
+LAST CHANNEL   : 511
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 512
+LAST CHANNEL   : 639
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 640
+LAST CHANNEL   : 767
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 768
+LAST CHANNEL   : 895
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 896
+LAST CHANNEL   : 1023
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1024
+LAST CHANNEL   : 1151
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 1152
+LAST CHANNEL   : 1279
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2816
+LAST CHANNEL   : 2943
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 2944
+LAST CHANNEL   : 3071
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3072
+LAST CHANNEL   : 3199
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3200
+LAST CHANNEL   : 3327
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3328
+LAST CHANNEL   : 3455
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3456
+LAST CHANNEL   : 3583
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3584
+LAST CHANNEL   : 3711
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3712
+LAST CHANNEL   : 3839
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3840
+LAST CHANNEL   : 3967
+#
+%Defect
+DEFECT NAME    : NO_HI
+FIRST CHANNEL  : 3968
+LAST CHANNEL   : 4095
+#
+#20 defects found
+%Comment
+COMMENT        : FAIL due to 2560 bad strips (more than 15)
+#
+%Comment
+COMMENT        : FAIL due to 1280 consecutive bad strips (more than 8)
+#
+%Comment
+COMMENT        : No trim data found
+#

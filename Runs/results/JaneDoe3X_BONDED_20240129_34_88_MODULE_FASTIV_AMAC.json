@@ -1,0 +1,144 @@
+{
+    "component": "JaneDoe3X",
+    "date": "2024-01-29T19:25:10.000Z",
+    "defects": [
+        {
+            "description": "IV did not complete successfully",
+            "name": "IV_STATUS",
+            "properties": {
+                "info": "ABORT (hit compliance)"
+            }
+        },
+        {
+            "description": "Breakdown early",
+            "name": "BREAKDOWN",
+            "properties": {
+                "VBD": 0.0
+            }
+        }
+    ],
+    "passed": false,
+    "problems": true,
+    "properties": {
+        "AMAC_CURRENT_RANGE": [
+            0
+        ],
+        "AMAC_READINGS": 1000,
+        "DCS": {
+            "ABC_temp_raw_1": 2548.0,
+            "ABC_temp_raw_10": 2265.0,
+            "ABC_temp_raw_2": 2658.0,
+            "ABC_temp_raw_3": 2536.0,
+            "ABC_temp_raw_4": 2539.0,
+            "ABC_temp_raw_5": 2469.0,
+            "ABC_temp_raw_6": 2428.0,
+            "ABC_temp_raw_7": 2465.0,
+            "ABC_temp_raw_8": 2379.0,
+            "ABC_temp_raw_9": 2345.0,
+            "AMAC_AM600BG": 608.9141235351563,
+            "AMAC_AM900BG": 901.1144409179688,
+            "AMAC_AMref": 108.8397216796875,
+            "AMAC_BG600": 634.4080810546875,
+            "AMAC_CAL": -0.980538010597229,
+            "AMAC_CALx": 13.727532386779785,
+            "AMAC_CALy": 10.785918235778809,
+            "AMAC_CHIPGND": 0.980538010597229,
+            "AMAC_CTAT": 442.22265625,
+            "AMAC_Cur10V": 142.17800903320313,
+            "AMAC_Cur1V5": 231.40696716308594,
+            "AMAC_DCDCin": 10942.8037109375,
+            "AMAC_DCDCinHigh": 842.2821655273438,
+            "AMAC_DCDCinLow": 882.4841918945313,
+            "AMAC_DCDCoutHigh": 1.961076021194458,
+            "AMAC_DCDCoutLow": 13.727532386779785,
+            "AMAC_HGND": 0.0,
+            "AMAC_HVret": 417.81707763671875,
+            "AMAC_HVret_V": 93.15110778808594,
+            "AMAC_Hrefx": 0.0,
+            "AMAC_Hrefy": 0.0,
+            "AMAC_NTCpb": 20.41839027404785,
+            "AMAC_NTCpb_V": 883.4647216796875,
+            "AMAC_NTCx": 19.8835391998291,
+            "AMAC_NTCx_V": 652.0578002929688,
+            "AMAC_NTCy": 20.599328994750977,
+            "AMAC_NTCy_V": 672.6490478515625,
+            "AMAC_PTAT": 20.467063903808594,
+            "AMAC_PTAT_V": 1198.2174072265625,
+            "AMAC_Shuntx": 125.50886535644531,
+            "AMAC_Shunty": 128.4504852294922,
+            "AMAC_VDCDC": 17.64968490600586,
+            "AMAC_VDDHI": 3443.6494140625,
+            "AMAC_VDDLRhigh": 799.1384887695313,
+            "AMAC_VDDLRlow": 798.157958984375,
+            "AMAC_VREG": 1201.6492919921875,
+            "HCC_temp_raw": 413.0,
+            "HCC_temp_rough_cal": 25.092987060546875,
+            "Module 0-9_HV_current": 1000.0,
+            "Module 0-9_HV_voltage": -0.0,
+            "Module 0-9_LV_current": 42.0,
+            "Module 0-9_LV_voltage": 10995.0,
+            "Nexys_LV_current": 700.0,
+            "Nexys_LV_voltage": 12000.0
+        },
+        "det_info": {
+            "AMAC_FuseID": "401586",
+            "Address": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "Module 0-9_HV_model": "ITKHV",
+            "Module 0-9_LV_model": "CPX400DP",
+            "Module 0-9_LV_serial": "394124",
+            "Nexys_LV_model": "CPX400DP",
+            "Nexys_LV_serial": "394124",
+            "name": "JaneDoe3X"
+        },
+        "scan_info": {
+            "AMAC_ILIMIT": 10,
+            "PS_ILIMIT": 10,
+            "SET_VOLTAGE": [
+                0.0
+            ]
+        },
+        "sensor_type": "BARREL_SS_MODULE",
+        "system_info": {
+            "Firmware revision": "0xb66d",
+            "GIT URL": "https://gitlab.cern.ch/atlas-itk-strips-daq/itsdaq-sw.git/-/tree/4b966b8d83bb1116847c6f8d7422d01455532a83",
+            "GIT branch": "commandsetv2",
+            "GIT build date": "2023-11-06 09:29:37 +0000 (Mon, 06 Nov 2023)",
+            "GIT commit date": "2023-11-02 17:55:31 +0000 (Thu, 02 Nov 2023)",
+            "GIT describe": "itsdaq_23_3_2023-890-g4b966b8d8",
+            "GIT revision": "4b966b8d83bb1116847c6f8d7422d01455532a83",
+            "analysis_version": "3.43",
+            "dedication": "New dedication as we're going for PPA"
+        }
+    },
+    "results": {
+        "CURRENT": [
+            -30.12125587463379
+        ],
+        "CURRENT_RMS": [
+            1.0437195301055908
+        ],
+        "HUMIDITY": 0.0,
+        "I_500V": 0.0,
+        "PS_CURRENT": [
+            0.0
+        ],
+        "TEMPERATURE": 0.0,
+        "VBD": 0.0,
+        "VOLTAGE": [
+            0.0
+        ]
+    },
+    "runNumber": "34-88",
+    "testType": "MODULE_FASTIV_AMAC"
+}
